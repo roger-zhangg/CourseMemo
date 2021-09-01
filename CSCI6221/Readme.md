@@ -6,5 +6,14 @@ JAVA
 
 
 
+## books
+
+Concurrency 2nd Edition
+
+
+
 ### Workshop
+
+- some realistic project rather than just coding.
+
 
