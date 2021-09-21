@@ -13,3 +13,4 @@
 ​     When talking about the choice of vocabulary, informal writing is targeting the normal people. Who would like to read casual text and not to think too hard about it. To cope with this, daily words are more likely to be chosen by the author. But for academic writing, the author needs to impress their audience. Who will not take the work seriously if it only contains casual words and informal writing. So they are not a good choice in academic writing.
 
 ​    As academic and informal writing differs in these criteria. A capable graduate student should put effort to develop the skill for each of them. Only in this way, they can proceed further in their writing and be able to impress all kind of audiences.
+
