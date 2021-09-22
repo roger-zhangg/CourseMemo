@@ -16,7 +16,7 @@
 - A: outright copying
 - B: outright copying
 - C: outright copying
-- D: patchwork
+- D: patchwork?
 - E: outright copying
 - F: paraphrase plagiarism?
 - G: steal apt
@@ -25,4 +25,6 @@
 - J:ok
 - K:ok(but too many copied)
 - 
+
+
 
