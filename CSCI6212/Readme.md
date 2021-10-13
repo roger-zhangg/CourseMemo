@@ -20,3 +20,31 @@ https://www2.seas.gwu.edu/~ayoussef/cs6212/
 
 
 
+
+
+
+
+
+
+
+
+
+
+prefix
+
+left>right:
+
+if left.minPrefix>right.minPrefix*left.total
+
+return : left.marker
+
+​               left.minPrefix
+
+​               left.total*right.total
+
+right>left
+
+else
+
+
+
