@@ -1,0 +1,122 @@
+# This code is achieved with python3.9
+import math
+
+attribute_map = {"triangle": ["base", "height"],
+                 "rectangle": ["length", "width"],
+                 "square": ["side", ""],
+                 "circle": ["radius", ""],
+                 "parallelogram": ["base", "height"]}
+
+
+class InputError(Exception):
+    def __init__(self, message):
+        self.message = message
+
+    def message(self):
+        return self.message
+
+
+# Shape as class showed ADT
+class Shape:
+    def __init__(self, category):
+        # check type to be float here
+        self.category = category.lower()
+        self.size = 0.0
+        while 1:
+            try:
+                self.dimension1 = float(input(attribute_map[self.category][0]+":"))
+                if self.dimension1 <= 0:
+                    print("Value Error detected(minus/zero), please try again")
+                    continue
+                break
+            except ValueError:
+                print("InputError detected(not float), please try again")
+        while attribute_map[self.category][1] != "":
+            try:
+                self.dimension2 = float(input(attribute_map[self.category][1]+":"))
+                if self.dimension2 <= 0:
+                    print("Value Error detected(minus/zero), please try again")
+                    continue
+                break
+            except ValueError:
+                print("InputError detected(not float), please try again")
+
+    def output_size(self):
+        print(self.category, "size=", self.size)
+
+
+class Triangle(Shape):
+    def __init__(self):
+        super().__init__(self.__class__.__name__)
+        self.cal_size()
+        self.output_size()
+
+    def cal_size(self):
+        self.size = self.dimension1 * self.dimension2 / 2
+
+
+class Rectangle(Shape):
+    def __init__(self):
+        super().__init__(self.__class__.__name__)
+        self.cal_size()
+        self.output_size()
+
+    def cal_size(self):
+        self.size = self.dimension1 * self.dimension2
+
+
+class Square(Shape):
+    def __init__(self):
+        super().__init__(self.__class__.__name__)
+        self.cal_size()
+        self.output_size()
+
+    def cal_size(self):
+        self.size = pow(self.dimension1, 2)
+
+
+class Circle(Shape):
+    def __init__(self):
+        super().__init__(self.__class__.__name__)
+        self.cal_size()
+        self.output_size()
+
+    def cal_size(self):
+        self.size = pow(self.dimension1, 2)*math.pi
+
+
+class Parallelogram(Shape):
+    def __init__(self):
+        super().__init__(self.__class__.__name__)
+        self.cal_size()
+        self.output_size()
+
+    def cal_size(self):
+        self.size = self.dimension1 * self.dimension2
+
+
+if __name__ == '__main__':
+    options = {"a": Triangle,
+               "triangle": Triangle,
+               "b": Rectangle,
+               "rectangle": Rectangle,
+               "c": Square,
+               "square": Square,
+               "d": Circle,
+               "circle": Circle,
+               "e": Parallelogram,
+               "parallelogram": Parallelogram,
+               "f": exit,
+               "exit": exit}
+    while 1:
+        # polymorphism showed here, as different methods are called together in one unified command
+        print("=====main menu=====")
+        val = input("a.Triangle\nb.Rectangle\nc.Square\nd.Circle\ne.Parallelogram\nf.Exit\n").lower()
+        if val not in options:
+            print("option", val, "not found, please try again")
+            continue
+        options[val]()
+
+
+
+
