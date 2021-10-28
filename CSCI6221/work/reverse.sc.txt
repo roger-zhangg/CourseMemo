@@ -1,0 +1,12 @@
+;This code is achieved with mit-scheme
+(define (rec-reverse glist acc)
+    (if (null? glist)
+        acc
+        (if (list? (car glist))
+            (rec-reverse (cdr glist) (cons (rec-reverse (car glist) '()) acc))
+            (rec-reverse (cdr glist) (cons (car glist) acc)))))
+(define (reverse-list glist)
+    (rec-reverse  glist '()))
+
+;(reverse-list '(A (B C (D E)) F))
+;(reverse-list '(F ((E D) C B) A))
