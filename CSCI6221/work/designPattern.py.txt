@@ -1,0 +1,114 @@
+# use factory and proxy to create a multipurpose file reader
+# FileReader/File proxy implemented proxy method
+# Creator Product implemented factory method
+# enabling head and tail functions.
+# e.g. head 10 localfile will output the first 10 lines, tail 10 localfile will output last 10 line of file
+import sys
+import os
+
+
+class FileReader:
+    def check_exist(self, file_path):
+        return os.path.isfile(file_path)
+
+    def open_file(self, file_path):
+        pass
+
+
+class RealFileReader(FileReader):
+    def open_file(self, file_path):
+        return open(file_path, "r+")
+
+
+class FileProxy(FileReader):
+    def __init__(self):
+        self.file_path = ""
+        self.size = 0
+        self._file_reader = RealFileReader()
+
+    def open_file(self, file_path):
+        if self.check_exist(file_path):
+            self.file_reader = self._file_reader.open_file(file_path)
+            self.file_path = file_path
+            self.size = os.stat(fname).st_size
+        else:
+            raise (Exception("file "+file_path+" not found"))
+
+    def close(self):
+        self.file_reader.close()
+
+
+class Creator:
+    def factory_method(self, file_path):
+        pass
+
+
+class Product:
+    def __init__(self, file_path):
+        self.buf_size = 8192
+        f = FileProxy()
+        f.open_file(file_path)
+        self.reader = f
+        self.data = []
+
+    def read(self):
+        pass
+
+    def print(self):
+        pass
+
+
+class HeadCreator(Creator):
+    def factory_method(self, file_path) -> Product:
+        return Head(file_path)
+
+
+class TailCreator(Creator):
+    def factory_method(self, file_path) -> Product:
+        return Tail(file_path)
+
+
+class Tail(Product):
+    def read(self):
+        iter = 0
+        if self.buf_size > self.reader.size:
+            self.buf_size = self.reader.size - 1
+        while True:
+            iter += 1
+            self.reader.file_reader.seek(self.reader.size - self.buf_size * iter)
+            self.data.extend(self.reader.file_reader.readlines())
+            if len(self.data) >= lines or self.reader.file_reader.tell() == 0:
+                break
+        self.reader.close()
+
+    def print(self):
+        print(''.join(self.data[-lines:]))
+
+
+class Head(Product):
+    def read(self):
+        temp = self.reader.file_reader.readline()
+        while temp:
+            self.data.append(temp)
+            if len(self.data) >= lines:
+                break
+            temp = self.reader.file_reader.readline()
+        self.reader.close()
+
+    def print(self):
+        print(''.join(self.data))
+
+
+if __name__ == '__main__':
+    command = sys.argv[1].lower()
+    lines = int(sys.argv[2])
+    fname = sys.argv[3]
+    if command == "tail":
+        creator = TailCreator()
+    elif command == "head":
+        creator = HeadCreator()
+    else:
+        raise Exception("command "+command+" not implemented yet")
+    function = creator.factory_method(fname)
+    function.read()
+    function.print()
