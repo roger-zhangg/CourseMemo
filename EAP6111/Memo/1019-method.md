@@ -16,7 +16,7 @@ The Data analysis circle is quiet general for most cases.
 
 
 
-Choosing question 
+Choosing question -> for introduction
 
 - Too Broad
 - narrower
