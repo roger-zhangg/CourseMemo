@@ -16,7 +16,7 @@ should include visual in results
 
 ​	  Although the number of samples are just few compared with the papers in the whole data area in computer science. The aim of this study could still be achieved. But more research articles being analyzed may help to validate the result and promote the finding to a higher, more universal level.
 
-​	The data collected in the previous steps are being recorded into two tables and will be analyzed in the result section.
+​	The data collected in the previous steps are being recorded into two tables and will be analyzed in the following result section.
 
 # result
 
