@@ -28,4 +28,7 @@ https://docs.google.com/document/d/1y82Gh1Bvf4MxpSFg8BiWL89El0YvpSSORpcJA_8BnhY/
 - citations?
   - differences to previous works
 - move4/5 -> order
+- Check phrasebank.manchester.ac.uk/discussing-findings/
+  - for useful phases for introduction
+  - 
 
