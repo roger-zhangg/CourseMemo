@@ -1,0 +1,44 @@
+## presentation
+
+- what makes a good presentation
+  - brief
+  - simple slides
+  - graphics
+  - content aspect
+    - decide what to deliver
+    - what audience wants?
+- What's needed?
+  - Clearly defined topic
+    - Research question or thesis statement
+    - focus: explore 
+    - various sources to example
+  - Right amount of information
+  - Prepare for difficult material
+  - Start with an overview, a template to follow
+  - Key points-> no more than 5
+- Steve jobs video
+  - What technique he used to give points?
+    - list key points
+    - Humor?
+    - Use graphic of real product
+    - phenomenal, great
+    - some supporting animations
+  - how did he use visual aid?
+    - draw line between Laptop and phone
+    - 
+  - do you have recommendation?
+- How to express complicate information
+- eye contact -> look into camera
+- time limit
+- gestures -> movement not distracting
+- Techniques
+  - Ask a question?
+  - jokes, anecdote
+- Introduce yourself
+- contrast -> size, color
+- visual?
+- Phasebook for speech
+- 3MT winner presentation
+  - Whats the solution
+  - 
+
