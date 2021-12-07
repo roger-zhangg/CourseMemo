@@ -7,8 +7,9 @@
   - S={1,2,....,n}
   - X[i] represents f(i)
   - C: 
-    - $ \forall i \neq j,X[i] \neq X[j]$
-    - $ \forall i \lt j,A[X[i]] \leq A[X[j]]$  -> $\forall i>1,A[X[i]] \geq A[X[i-1]]$
+    - $$ \forall i \neq j,X[i] \neq X[j]$$
+    - $$ \forall i \lt j,A[X[i]] \leq A[X[j]]$$
+    - $$\forall i>1,A[X[i]] \geq A[X[i-1]]$$
   - a~0~ = 0, m=n, a~m~ = n
 
 ```c++
@@ -143,7 +144,7 @@ Bound
 - S={1,2,....,n}
 - X[i] represents the inorder traversal of T upon a canonically labeled tree.
 - C: 
-  - $ \forall i \neq j,X[i] \neq X[j]$
+  - $$ \forall i \neq j,X[i] \neq X[j]$$
   - The tree generated should be a canonically labeled tree
 - a~0~ = 0, m=n, a~m~ = n
 
@@ -191,6 +192,99 @@ end ConflictCheck
 ```
 
 After generated all valid inorder traversal of T, use the function in problem 2.b to generate the trees needed.
+
+# Problem 3
+
+## a
+
+An apporximate cost function for this k-node independent set question could be: The weight of l nodes so far + weight of k-l minimum non-adjecent nodes
+
+$$ \hat{C}(N) = csf(l) + \sum_{i=l+1}^{k}w(i),i !adjecent$$
+
+For the left min-weighted nodes might be adject to themselfs, the real cost will be higher or eq than $\hat C(N)$
+
+thus, $$ \hat C(N) \leq C(N)$$ for every node N
+
+and for the result, the value will be only cost so far,
+
+thus, $\hat C(N) = C(N)$ for every result node.
+
+According to the Theorem, this apporximate cost function will be valid for this B&B problem.
+
+## b
+
+```mermaid
+graph LR
+1((1))---2((2))
+2((2))---3((3))
+3((3))---4((4))
+4((4))---5((5))
+3((3))---6((6))
+5((5))---6((6))
+6((6))---1((1))
+1((1))---4((4))
+
+```
+
+| i      | 1    | 2    | 3    | 4    | 5    | 6    |
+| ------ | ---- | ---- | ---- | ---- | ---- | ---- |
+| weight | 9    | 8    | 7    | 6    | 5    | 4    |
+
+```mermaid
+graph TD
+s((start))---|C=21|11("X[1]=1")
+s((start))---|C=17|12("X[1]=2")
+s((start))---|C=21|13("X[1]=3")
+s((start))---|C=18|14("X[1]=4")
+s((start))---|C=20|15("X[1]=5")
+s((start))---|C=18|16("X[1]=6")
+12---|C=18|24("X[2]=4")
+12---|C=not valid|25("X[2]=5")
+12---|C=18|26("X[2]=6")
+24---|C=18|36("X[3]=6")
+```
+
+As can be seen in the solution tree, the minimum-weight 3-node independent set is (2,4,6) adding up to 18 in weight.
+
+# Problem4
+
+## a
+
+One possible $\hat{C}$ for this problem is the cost so far + the minimum cost for all future jobs for employees with less than $\lceil{\frac{n}{2}}\rceil$ jobs
+
+$$ \hat{C}(f) = \sum_{i=1}^{k}C_{i,X[i]} +\sum_{i=k+1}^{n}min(C_{i,X[i]}\ for \ jobs(X[i])  \leq \lceil{\frac{n}{2}}\rceil)$$
+
+For the remaining min effort taking jobs might be all belong to a single employee, if this employee has  $\lceil{\frac{n}{2}}\rceil$ jobs, the job need to be reassigned to other employee, thus the real cost will be higher or eq than $\hat C(f)$
+
+thus, $$ \hat C(f) \leq C(f)$$ for every job node f
+
+and for the result, the value will be only cost so far,($\sum_{i=1}^{n}C_{i,X[i]}$)
+
+thus, $$\hat C(f) = C(f)$$ for every result job node.
+
+According to the Theorem, this apporximate cost function will be valid for this job assign problem.
+
+## b
+
+```mermaid
+graph TD
+s((start))---|C=24|11("X[1]=1")
+s((start))---|C=28|12("X[1]=2")
+s((start))---|C=18|13("X[1]=3")
+13---|C=22|131("X[2]=1")
+13---|C=18|132("X[2]=2")
+13---|C=30|133("X[2]=3")
+132---|C=20|1321("X[3]=1")
+132---|C=24|1322("X[3]=2")
+132---|C=20|1323("X[3]=3")
+1321---|C=26|13211("X[4]=1")
+1321---|C=20|13212("X[4]=2")
+1321---|C=32|13213("X[4]=3")
+```
+
+So after the solution tree, the jobs assignment f for these 4 jobs are [3,2,1,2] which will just cost 20 in total.
+
+
 
 # Problem 5
 
