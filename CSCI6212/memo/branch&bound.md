@@ -19,6 +19,7 @@
 # NP
 
 - imaginary choose
-
 - verification stage
+- Can be exponetial, can it be polynomial?
+- 
 
