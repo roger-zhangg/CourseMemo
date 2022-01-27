@@ -82,10 +82,16 @@ For AP,
 # Problem 2
 
 - Representations
+
   - N=n
+
   - S={1,2,..,m}
+
   - X[i] represents node i in A has an edge to node X[i] in B
-  - $$ C:\forall i \neq j,X[i] \neq X[j] $$
+
+  - $$
+    C:\forall i \neq j,X[i] \neq X[j]
+    $$
 
 ```c++
 Func Bound(A[1:n],X[1:n],r)
