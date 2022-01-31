@@ -1,0 +1,4 @@
+range T = 0..12
+EVEN = (in2[i:T]->( when (i%2==0) out2[i]-> ready->done->EVEN| when (i%2!=0)discard1-> EVEN))\{discard1}. 
+TRIPLE = (TRIPLE|ready ->in3[j:T] ->  ( when (j%3==0) out3[j]->done-> TRIPLE| when (j%3!=0)discard2 -> done-> TRIPLE))\{discard2}.
+||TEST6 = (EVEN||TRIPLE) /{in/in2,out2/in3,out/out3} @{in,out}. 

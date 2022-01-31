@@ -63,6 +63,7 @@ Bound
   ```
 
 # Problem 2
+>>>>>>> f70b73258667cc417b134e63ab3c1ee6ee9794cc
 
 ## a
 
@@ -108,6 +109,16 @@ end treenode
     
 TreeGen(X[1:n],start,end)
 begin
+<<<<<<< HEAD
+    T.value = X[start]
+    //start as the root, also smallest
+    mid = floor(start + 1 + end/2)
+    if mid >= start + 1 then
+        T.left = TreeGen(X,start+1,mid)
+        //first half of remaining as left subtree
+    endif
+    if mid +1 <= end 
+=======
     int mid = 0
     int min = n
     //start as the root, also smallest
@@ -123,11 +134,22 @@ begin
         //first half of remaining as left subtree
     endif
     if mid < end 
+>>>>>>> f70b73258667cc417b134e63ab3c1ee6ee9794cc
         T.right = TreeGen(X,mid+1,end)
         //second half of remaining as right subtree
     endif
     return T
 end TreeGen
+<<<<<<< HEAD
+   	
+```
+
+
+
+
+
+
+=======
 
 main()
 begin
@@ -402,6 +424,7 @@ For the most optimal case, a->c->b-d->a will add up to 12
 But the DC algorithm in section c will choose a->b->c->d->a which will add up to 17
 
 So the DC algorithm is not necessarily optimal in this TST problem
+>>>>>>> f70b73258667cc417b134e63ab3c1ee6ee9794cc
 
 # Bonus
 

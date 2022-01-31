@@ -2,6 +2,8 @@
 
 ![image-20211119113338566](backtracking.assets/image-20211119113338566.png)
 
+
+
 - ![image-20211205193316754](backtracking.assets/image-20211205193316754.png)
 - just process N,a0(domain)S,Bound function
 
@@ -24,3 +26,4 @@
 - k-coloring
   - 
 
+>>>>>>> f70b73258667cc417b134e63ab3c1ee6ee9794cc
