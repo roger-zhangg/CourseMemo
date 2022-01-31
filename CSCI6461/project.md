@@ -110,3 +110,12 @@ Binary python最好的表现方式？ ->冠宇
 - enter data into memory via switches
 - enter the various Load and Store instructions instructions into memory
 - enter address into PC and press Single Step switch to execute the instruction at that address
+
+
+
+
+
+![image-20220129152508732](project.assets/image-20220129152508732.png)
+
+# Pipelines?
+
