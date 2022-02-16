@@ -33,7 +33,7 @@ Approximating 0-1 loss
 - allowing for optimiaztion
 - sigmoid curve(log)
 
-# sigmoid function
+## sigmoid function
 
 soft-max -> add all feature up to 0-1
 
@@ -46,3 +46,40 @@ regularization:
 - choose penaty function for the model
 - give reduction to high weighted features
 - ElasticNet: combine L1,L2
+
+
+
+## gradient descend
+
+better loss function compared to the logistic regression
+
+
+
+## binary classification
+
+correct = margin(y* w^t^ x)  (model confidence)
+
+y- > ground truth
+
+w^t^ x -> prediction
+
+
+
+- Goal: minimize the loss
+- Why: find best model
+- How: gradient descent <- update sigma($/sig$)
+
+loss function:
+
+- continues
+
+
+
+
+
+# loss function -> gan criticiser
+
+- confusion matrix.
+
+- grid search Cv?
+
