@@ -19,3 +19,4 @@ bias reduced, variance is increased as model complexity grows.
 ●**Bagging**: use random subsets of the original training dataset to train multiple models, then average their results
 
 ●**Boosting**: train a series of weak models; at each step, reweight the training samples to give more weight to the incorrect predictions from the previous step. 
+
