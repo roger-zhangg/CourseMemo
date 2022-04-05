@@ -1,0 +1,8 @@
+- Mean Suqared Error
+- Markov model -> the type of problem where result only depend on pervious iteration.
+- the data flow in back propagation
+- Common parameter for image transformation used in previous homework.
+- 3: b
+- 4:b
+- 5:d
+- 6:

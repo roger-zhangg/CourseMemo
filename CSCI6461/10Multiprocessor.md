@@ -1,0 +1,6 @@
+- High performance computing
+  - Multiple processer
+  - allow timesharing
+  - hard for concurrent program
+  - ratio of speed up
+- 
