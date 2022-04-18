@@ -48,7 +48,7 @@
 - noise affect the training process
 - can self learn what feature is important, what's not
 - Back propagation -> find how much each weight of each node in previous layer contributed to a mistake in prediction
-- weight -> input -> activation -> cost
+- weight -> input -> activation -> cost(loss)
 - Training
   - million/billion weights
 - more powerful(more feature, more layer)
