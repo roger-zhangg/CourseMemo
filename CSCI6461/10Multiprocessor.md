@@ -1,0 +1,19 @@
+- High performance computing
+  - Multiple processer
+  - allow timesharing
+  - hard for concurrent program
+  - ratio of speed up
+- Snooping/ Directory-based
+  - Directory-> own separate cache independent from memory?
+    - Shared
+      - memory up to date
+    - Uncached
+    - Exclusive
+      - memory out of date
+      - need to track which processor has data.
+    - No bus, No broadcast
+- Multicore transaction model
+- Context switching
+  - Switch cache, etc with thread switching
+  - 
+  - 
