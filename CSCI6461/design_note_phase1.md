@@ -45,11 +45,9 @@ The Phase 2 of the simulator mainly focus on building these following parts
 
 The GUI is developed with the PyQT5 framework
 
-![image-20220410224549605](design_note_phase1.assets/image-20220410224549605.png)
+![image-20220424215148473](design_note_phase1.assets/image-20220424215148473.png)
 
-
-
-- As can be seen above, main GUI contains all requiring parts of phase3.
+- As can be seen above, main GUI contains all requiring parts of phase4-B.
 
 - For the simulator part, I've done certain abstractions on the register indicators and the buttons.
 
@@ -98,6 +96,18 @@ The GUI is developed with the PyQT5 framework
 
   - ![image-20220313184825593](design_note_phase1.assets/image-20220313184825593.png)
 
+- For Branch prediction buffer(BPB) and re-order buffer(ROB), the 1 bit BPB will record every branch pc and their last action(taken/ not take)
+
+  - BPB
+    - ![image-20220424215344532](design_note_phase1.assets/image-20220424215344532.png)
+    - predict 0 -> not taken
+    - predict 1 -> taken
+
+  - RPB
+    - ![image-20220424215417975](design_note_phase1.assets/image-20220424215417975.png)
+    - This ROB contains 8 lines, status will be null, committed or reverted. Representing the branch predicting process
+
+
 ## The main simulator framework
 
 - The main simulator framework is developed in `cpu.py`for class `CPU`.
@@ -121,6 +131,7 @@ The GUI is developed with the PyQT5 framework
       | input_signal  | used to decide the register to fetch user's input            |
       | run_mode      | used to save the run_mode before hitting in command          |
       | cache_display | used to decide the format of cache indicator(HEX/BIN/DEC)    |
+      | bpb           | the bpb model used for Branch prediction buffer              |
   
   - Table of method in class `CPU`
   
@@ -239,7 +250,57 @@ The GUI is developed with the PyQT5 framework
       | rotate(lr,al,count) | register rotation operation, currently just support logical rotate |
       | shift(lr,al,count)  | register shift operation, currently just support logical shift |
 
-    
+
+## branch prediction buffer
+
+- BPB is implemented in cache.py for class BPB
+
+- Table of data structure in class `BPB`
+
+  - | data             | usage                                      |
+    | ---------------- | ------------------------------------------ |
+    | map              | Map address -> buffer line                 |
+    | buffer           | the buffer of BPB                          |
+    | logger           | used to output debugging log               |
+    | rob              | used to init rob model for re-order buffer |
+    | cache_update_at  | indicate which BPB line was last updated   |
+    | cache_hit_at     | indicate which BPB line was last hit       |
+    | cache_replace_at | indicate which BPB line was last replaced  |
+
+- Table of method in class `BPB`
+
+  - | method              | usage                                                      |
+    | ------------------- | ---------------------------------------------------------- |
+    | init                | initiate the BPB class                                     |
+    | validate            | use real branch result to validate/update the buffer       |
+    | predict             | use the buffer to predict the branch would be taken or not |
+    | _malloc_cache_index | get the valid line of buffer                               |
+    | reset               | reset the BPB to initial state                             |
+
+
+
+## Re-order buffer
+
+- ROB is implemented in cache.py for class `ROB`
+
+- Table of data structure in class `ROB`
+
+  - | data   | usage                        |
+    | ------ | ---------------------------- |
+    | buffer | the buffer of ROB            |
+    | logger | used to output debugging log |
+
+- Table of method in class `ROB`
+
+  - | method          | usage                                                   |
+    | --------------- | ------------------------------------------------------- |
+    | init            | initiate the ROB class                                  |
+    | populate        | populate the ROB starting from predicted PC             |
+    | change_status   | used to commit the ROB or revert the ROB                |
+    | _get_name_by_op | translate the instruction to it's string representation |
+    | reset           | reset the ROB to initial state                          |
+
+
 
 ## Instructions Implemented
 

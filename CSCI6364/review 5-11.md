@@ -135,3 +135,32 @@ content filtering
 
 collaboration filtering
 
+
+
+# missing
+
+- batch normalization
+
+- bagging
+
+  - 
+
+- L2 regularization
+
+  - $$ \sum^1_n{w_n^2} $$
+  - 
+
+- linear layer
+
+  - The linear layer is used in the final stages of the neural network. It is also called a f**ully connected layer**
+  - This layer helps in changing the dimensionality of the output from the preceding layer so that the model can easily define the relationship between the values of the data in which the model is working
+
+- dropout
+
+  - ●Explicit dropout:
+
+    ○Another technique to disable a node
+
+    ○In this case, randomly disables a node in the network during training: regularization
+
+    ○Helps with overfitting; kind of like training multiple networks simultaneously
