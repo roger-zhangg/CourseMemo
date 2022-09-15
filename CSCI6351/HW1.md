@@ -268,7 +268,11 @@ This result is not as good as techniques in problem3
 
 y = aaaabbbbabbbabaabaabbaaa
 
-we can assume a:0, b:1
+if we have more than 2 characters then we might need huffman code the string. 
+
+But for only two characters, we can assume a:0, b:1
+
+
 
 so that y = 000011110111010|010|011000
 
@@ -297,3 +301,24 @@ If we need to add mapping to the coded string, then coded word length will need 
 
 ## Problem 5
 
+- The approach I'm to generalize the AC is:
+  - Instead of splitting the interval into two, we can split the interval into three.
+  - The characteristic of the AC doesn't change with this change.
+    - The final interval's length is still the probability of the given string.
+    - The Final interval is included in all the intervals in the path, so the coded word can be decoded with a similar decoding approach
+- **The pseudo compress code goes as below**
+- Let I = [L,R) where initially L=0, R=1;
+- For i=1 to n do
+  - Let $P_{ai} = Pr[a/x_1x_2...x_{(i-1)}]$ ,Let $P_{ci} = Pr[c/x_1x_2...x_{(i-1)}]$ 
+  - Let $\Delta = R - L; $
+  - Divide interval I into 3 subintervals: [L, L+$P_{ai}\Delta$),[L+$P_{ai}\Delta$,R -$P_{ci}\Delta$),[R -$P_{ci}\Delta$,R)
+  - If x_i == a, reduce I to [L, L+$P_{ai}\Delta$)
+  - If x_i == b, reduce I to [L+$P_{ai}\Delta$,R -$P_{ci}\Delta$)
+  - if x_i == c, reduce I to [R -$P_{ci}\Delta$,R)
+- Let t = $\lceil-log(R-L)\rceil$, and exprss $\frac{L+R}{2}$ in binary as $0.r_1r_2...r_t$
+- Output := $r_1r_2...r_t$
+
+- **For Decompress**
+  - The decompress process remains mostly the same.
+  - The only difference is we need to reproduce the 3 intervals our encoder generated. And pick the interval where our coded string value is in.
+  - Following the decoding step, when T>=t, the original string will be completely decompressed.
