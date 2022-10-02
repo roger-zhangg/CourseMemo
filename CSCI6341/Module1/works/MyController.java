@@ -8,8 +8,8 @@ public class MyController {
 
         // Add function values.
         simpleControl.add (0, 10);
-        simpleControl.add (165, 10);
-        simpleControl.add (166, -10);
+        simpleControl.add (167, 10);
+        simpleControl.add (168, -10);
 
         // Function does linear interpolation.
         simpleControl.show ();
