@@ -1,9 +1,21 @@
-// Template for implementing Cost-Based Planner.
+// BFSPlanner.java
+//
+// Author: Rahul Simha
+// Jan, 2008
+//
+// Implements a straightforward Breadth-First Search of
+// the state space, starting from the given start-state.
+// The overall number of explorations is limited by maxMoves,
+// which can be modified for larger searches.
+// NOTE: the implementation below is only for illustration, which
+// is why we're using a linkedlist for the frontier and visitedStates.
+// Obviously, better data structures are available, and will result
+// in stronger performance.
 
 import java.util.*;
 
 
-public class CBPlanner implements Planner {
+public class DFSPlanner implements Planner {
 
     // Limit the total number of expansions.
     static int maxMoves = 100000;
@@ -14,10 +26,10 @@ public class CBPlanner implements Planner {
 
     // The list of all states that have been visited.
     LinkedList<State> visitedStates;
-    
-    // Count # moves.
-    int numMoves;
 
+    // Count # moves.
+    int numMoves = 0;
+    
 
     public LinkedList<State> makePlan (PlanningProblem problem, State start)
     {
@@ -37,8 +49,7 @@ public class CBPlanner implements Planner {
 	    }
 
 	    // Get first node in frontier and expand.
-	    State currentState = removeBest ();
-            problem.drawState (currentState);
+	    State currentState = frontier.removeFirst ();
 
             // If we're at a goal node, build the solution.
 	    if (problem.satisfiesGoal (currentState)) {
@@ -47,23 +58,16 @@ public class CBPlanner implements Planner {
 
 	    numMoves ++;
 
-	    // Put in visited list.
+	    // Put current state in visited list.
 	    visitedStates.add (currentState);
 
 	    // Expand current state (look at its neighbors) and place in frontier.
+	    // Save Neigh to a temp map
+	    // choose the first p
 	    ArrayList<State> neighbors = problem.getNeighbors (currentState);
 	    for (State s: neighbors) {
-		if ( ! visitedStates.contains (s) ) {
-                    int index = frontier.indexOf (s);
-                    if (index >= 0) {
-                        State altS = frontier.get (index);
-                        if (s.costFromStart < altS.costFromStart) {
-                            frontier.set (index, s);
-                        }
-                    }
-                    else {
-                        frontier.add (s);
-                    }
+		if ( (! visitedStates.contains(s)) && (! frontier.contains(s)) ) {  // Need memory to avoid repeats.
+		    frontier.addFirst (s);
 		}
 	    }
 
@@ -73,27 +77,9 @@ public class CBPlanner implements Planner {
 
 	} // endwhile
 
-	System.out.println ("Cost-based: No solution found after " + numMoves + " moves");
+	System.out.println ("BFS: No solution found after " + numMoves + " moves");
 	return null;
     }
-
-
-    State removeBest ()
-    {
-    	double least_cost = 10000000;
-    	State tmp_state = null;
-    	for (State s:frontier){
-    		if (s.costFromStart < least_cost){
-    			least_cost = s.costFromStart;
-    			tmp_state = s;
-    		}
-    	}
-    	frontier.remove(tmp_state);
-    	return tmp_state;
-        // INSERT YOUR CODE HERE
-	// Pick the state s with the least s.costFromStart
-    }
-    
 
 
     public LinkedList<State> makeSolution (State goalState)
@@ -109,7 +95,7 @@ public class CBPlanner implements Planner {
 	    currentState = currentState.getParent();
 	}
 
-	System.out.println ("Cost: Solution of length=" + solution.size() + " found with cost=" + goalState.costFromStart + " after " + numMoves + " moves");
+	System.out.println ("BFS: Solution of length=" + solution.size() + " found with cost=" + goalState.costFromStart + " after " + numMoves + " moves");
 
 	return solution;
     }    

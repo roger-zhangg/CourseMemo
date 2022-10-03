@@ -3,7 +3,7 @@
 import java.util.*;
 
 
-public class CBPlanner implements Planner {
+public class GDPlanner implements Planner {
 
     // Limit the total number of expansions.
     static int maxMoves = 100000;
@@ -38,7 +38,7 @@ public class CBPlanner implements Planner {
 
 	    // Get first node in frontier and expand.
 	    State currentState = removeBest ();
-            problem.drawState (currentState);
+            // problem.drawState (currentState);
 
             // If we're at a goal node, build the solution.
 	    if (problem.satisfiesGoal (currentState)) {
@@ -83,11 +83,13 @@ public class CBPlanner implements Planner {
     	double least_cost = 10000000;
     	State tmp_state = null;
     	for (State s:frontier){
-    		if (s.costFromStart < least_cost){
-    			least_cost = s.costFromStart;
+    		if ( s.estimatedCostToGoal < least_cost){
+    			least_cost = s.estimatedCostToGoal;
     			tmp_state = s;
+
     		}
     	}
+        System.out.println(tmp_state.estimatedCostToGoal);
     	frontier.remove(tmp_state);
     	return tmp_state;
         // INSERT YOUR CODE HERE

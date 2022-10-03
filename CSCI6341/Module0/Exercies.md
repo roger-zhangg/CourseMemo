@@ -69,6 +69,8 @@
 - see `randomsequence2.java`
 - $U_n$ is random in [0,1] so no limit
 - $V_n$ should have limit to 0.5 when n is large enough
+- These sequences doesn't converge
+- Difference is the RandomSequence3 uses the same random number between batches, but in RandomSequence2 the program generate a new random number each time.
 
 ### In-Class Exercise 12:
 

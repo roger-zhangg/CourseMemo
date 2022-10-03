@@ -234,17 +234,44 @@ public class ArmProblem extends JPanel implements PlanningProblem {
         
         // Look at the 8 neighboring points at distance (+- delta, +-delta).
         for (int i=numNodes-1; i>1; i--) {
-            for (double delX=-delta; delX<=delta; delX+=delta) {
-                for (double delY=-delta; delY<=delta; delY+=delta) {
-                    ArmState b = makeState (a, i, delX, delY);
+            ArmState b = makeState (a, i, delta, 0);
                     if (isValid (b)) {
                         b.costFromStart = a.costFromStart + delta;
                         b.estimatedCostToGoal = b.tipDistance (targetX, targetY);
                         neighbors.add (b);
                     }
-                }
-            }
+            b = makeState (a, i, -delta, 0);
+                    if (isValid (b)) {
+                        b.costFromStart = a.costFromStart + delta;
+                        b.estimatedCostToGoal = b.tipDistance (targetX, targetY);
+                        neighbors.add (b);
+                    }
+            b = makeState (a, i, 0, delta);
+                    if (isValid (b)) {
+                        b.costFromStart = a.costFromStart + delta;
+                        b.estimatedCostToGoal = b.tipDistance (targetX, targetY);
+                        neighbors.add (b);
+                    }        
+            b = makeState (a, i, 0, -delta);
+                    if (isValid (b)) {
+                        b.costFromStart = a.costFromStart + delta;
+                        b.estimatedCostToGoal = b.tipDistance (targetX, targetY);
+                        neighbors.add (b);
+                    }   
+           
         }
+        //for (int i=numNodes-1; i>1; i--) {
+        //    for (double delX=-delta; delX<=delta; delX+=delta) {
+        //        for (double delY=-delta; delY<=delta; delY+=delta) {
+        //            ArmState b = makeState (a, i, delX, delY);
+        //            if (isValid (b)) {
+        //                b.costFromStart = a.costFromStart + delta;
+        //                b.estimatedCostToGoal = b.tipDistance (targetX, targetY);
+        //                neighbors.add (b);
+        //            }
+        //        }
+        //    }
+        //}
 
         return neighbors;
     }
