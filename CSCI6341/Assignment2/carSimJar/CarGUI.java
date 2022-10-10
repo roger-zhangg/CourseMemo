@@ -237,14 +237,14 @@ public class CarGUI extends JPanel {
         obstacles = new ArrayList<Rectangle2D.Double>();
         String sceneStr = (String) sceneBox.getSelectedItem ();
         if (sceneStr.equals("Scene 1")) {
-            try {
-                endX = Double.parseDouble (xField.getText());
-                endY = Double.parseDouble (yField.getText());
-            }
-            catch (NumberFormatException e) {
-                endX = 550;
-                endY = 50;
-            }
+            obstacles.add (new Rectangle2D.Double(0,350,10,400));
+            obstacles.add (new Rectangle2D.Double(0,350,550,50));
+            obstacles.add (new Rectangle2D.Double(550,350,10,400));
+            obstacles.add (new Rectangle2D.Double(100,250,200,250));
+            obstacles.add (new Rectangle2D.Double(300,250,200,150));
+            endX = 350;
+            endY = 50;
+
         }
         else if (sceneStr.equals("Scene 2")) {
             endX = 50;
