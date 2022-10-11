@@ -69,17 +69,24 @@ public class RogerC implements CarController {
         // Use these in later exercises.
         double dNE = sPack.sonarDistances[7];  // Distance along NE direction.
         double dSE = sPack.sonarDistances[5];  // Distance along SE direction.
-
-        if (dN <= 10){
-            vel = 0;
-            phi = 10;
-            if (Math.abs(sensors.getTheta() - Math.PI/2) < 0.3){
-                vel = 10;
-                phi = 0;
-            } 
-        }else{
+        if ((Math.abs(dNE - dSE)< 10 && dN > 40)||(dNE >= 40) ){
             vel = 10;
+            phi = 0;
+        }else{
+            vel = 2;
+            phi = dSE - dNE;
         }
+        // if (dN <= 30 || (dNE < dSE)&&(dNE < 30)){
+        //     vel = 0;
+        //     phi = 10;
+        //     // if (Math.abs(sensors.getTheta() - Math.PI/2) < 0.3){
+        //     //     vel = 10;
+        //     //     phi = 0;
+        //     // } 
+        // }else{
+        //     vel = 10;
+        //     phi = 0;
+        // }
         // INSERT YOUR CODE HERE 
     }
 
