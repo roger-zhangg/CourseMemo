@@ -162,3 +162,23 @@
 
 ## Vectors
 
+- linearly dependent
+- Occurs when 3 vectors in 2D vector space
+- Transform is a change of basis in vector space
+- dimension is number of basis vectors
+- DCT is the fourior of compression
+- hadamard
+  - A approximation of fourier and DCT
+
+- Frequency perspective of Transform
+- subband coding(frequency related)
+
+### Exams
+
+- Therom
+- exercises though the class
+- typical use cases of each algorithem
+- 
+
+
+
