@@ -82,6 +82,10 @@ $E_B = \frac{N_B}{V_{total}} = 0.33$
 
 ### Exercise 10:
 
+see `ConcCalc2.java`
+
+The need for arithmetic operation is on the same level as the iterative one.
+
 ### Exercise 11:
 
 - Angular momentum makes ball goes a little east wards
@@ -101,10 +105,57 @@ $E_B = \frac{N_B}{V_{total}} = 0.33$
 - TragetX = 10
 - $M_x^{'} = vy = 20$
 - $M_y^{'} = MissileAY = 3$
+- Involved variables
+  - TargetVx
+  - MissileVx
+  - MissileAy
 
-- TargetVx
-- MissileVx
-- MissileAy
+
+### Exercise 15:
+
+For a small $\Delta t$, $CC' = \frac{1}{2}(AA'+BB') = \frac{1}{2}R(w_L+w_R)\Delta t$
+
+And if we want to sperate $CC'$ into difference of x and y, 
+
+Then we can simply apply cos($\theta$)$CC'$ to get it's difference on x axis and apply $sin(\theta)CC'$ to get it's difference on y axis. Then we get the differential equations same as above.
+
+### Exercise 16:
+
+$w_LR\Delta t$ is the distance difference on the circle. And L is the current radius(for the other wheel is not moving. So If we want the $\Delta\theta$ we can simply divide difference on the circle by radius.
+
+Thus we get $\Delta\theta = \frac {w_LR\Delta t}{L} $
+
+### Exercise 17:
+
+ ```
+ func simulate_next(x double,y double, t double, theta double, va double, vb double){
+ 	//cal new x,new y, new theta based on old values
+ 	new_x = x + 0.5*R*(va+vb)*cos(theta) * t;
+ 	new_y = y + 0.5*R*(va+vb)*sin(theta) * t;
+ 	new_theta = theta + (va-vb)*R/L*t;
+ 	return new_x,new_y,new_theta;
+ }
+ ```
+
+### Exercise 18:
+
+For accelerative version, We will need the equations for $w_L\ and\ w_R$ For we don't know current angular speed if we just look at acceleration of these two wheels.
+
+### Exercise 19:
+
+$x'(t) = v\ cos(\theta)$
+
+$y'(t) = v\ sin(\theta)$
+
+$ \theta '(t)=\phi$
+
+Implementation see `SPTest.java`, `SimpleCarSimulator.java`
+
+![image-20221013232600091](Exercise.assets/image-20221013232600091.png)
+
+### Exercise 20:
+
+Angular acceleration * Radius = linear acceleration 
 
 ### Exercise 21:
 

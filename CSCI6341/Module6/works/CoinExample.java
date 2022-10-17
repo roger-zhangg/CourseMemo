@@ -4,7 +4,7 @@ public class CoinExample {
     public static void main (String[] argv)
     {
         // Flip a coin 5 times.
-        StrangeCoin coin = new StrangeCoin ();
+        Coin coin = new Coin ();
         int[] counter = new int[10];
         for (int i=0; i<10000; i++) {
             int c = coin.flip ();
