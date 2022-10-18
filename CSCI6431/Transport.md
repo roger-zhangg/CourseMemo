@@ -72,3 +72,10 @@ FIN
 ACKFIN
 
 ACK
+
+### AIMD
+
+Congestion control, sawtooth behavior
+
+Cutting packet sent during one RTT by half
+

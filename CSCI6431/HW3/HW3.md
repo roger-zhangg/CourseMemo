@@ -60,7 +60,7 @@
   - Does the answer to (5e) and (5h) change? Does that align with our discussion in class about sender and receiver blinded from one another?
     - Yes, the answer to 5e changed. Now 30% packet are lost.
     - Yes, the answer to 5h also changed, the graph is no longer aligned.
-    - There seemed to be a certain kind of communication between sender and receiver to stop sender early in case of congestion.
+    - The graph's alignment shows that there is no communication between sender and receiver. The reason behind sender's send rate's drop is that the sender got a "port not available" error at around 24 second(possibly the result of congestion) and can't send the data anymore.
 
 ## Part 2: Analyzing TCP client and server views (3.5 points)
 
