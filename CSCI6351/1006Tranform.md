@@ -178,7 +178,26 @@
 - Therom
 - exercises though the class
 - typical use cases of each algorithem
-- 
+
+### Frequency
+
+- repeat pattern
+
+### Taylor Series
 
 
+
+### Polynormal 
+
+
+
+Replace cos,sin with $e^{i\theta}$
+
+### Singal digitization
+
+Fouriur transform will cause periodic problem that need high frequency to capture
+
+check :
+
+check up Correlation coefficiency
 
