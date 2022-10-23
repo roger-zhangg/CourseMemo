@@ -60,7 +60,7 @@
   - Does the answer to (5e) and (5h) change? Does that align with our discussion in class about sender and receiver blinded from one another?
     - Yes, the answer to 5e changed. Now 30% packet are lost.
     - Yes, the answer to 5h also changed, the graph is no longer aligned.
-    - The graph's alignment shows that there is no communication between sender and receiver. The reason behind sender's send rate's drop is that the sender got a "port not available" error at around 24 second(possibly the result of congestion) and can't send the data anymore.
+    - The graph's non-alignment shows that there is no communication between sender and receiver. The reason behind sender's send rate's drop is that the sender got a "port not available" error at around 24 second(possibly the result of congestion) and can't send the data anymore.
 
 ## Part 2: Analyzing TCP client and server views (3.5 points)
 
@@ -112,13 +112,14 @@
     -  moving average is good because single packet RTT is trivial but the average RTT for a time period is more important.
 
 - **9  (0.5 pt) Load the Wireshark capture called “Capture1_client.pcapng” provided with the homework. Run the Time Sequence Graph from 10.0.0.20 to 10.0.0.21. Explain what happened from the capturer’s perspective after the 28.09th second. Compare the sequence number of the packets sent to the ones Ack’d**
-  - We can see around 28.09 second, a FIN ACK is sent from n1(the node where  capture occurs) to n2. But the receiver is still receiving until 40 second. So it's most possible that the transmission speed is not fast enough. And the FIN ACK from n1 held for about 12 second for n2 to ack. 
+  - We can see around 28.09 second, a FIN ACK is sent from n1(the node where  capture occurs) to n2. But the receiver is still receiving until 40 second. So it's most possible that the processing speed of the receiver is not fast enough. And the FIN ACK from n1 held for about 12 second for n2 to ack.  After second 40, there are some connection issue happened between client and server and the transmission stalled for about 25 second.
   - From the sequence number perspective, at 28.09 the n1 is sending the Sequence number: 2630154262, but the next packet from server is acking 2630110822. So there are about 40k data being buffered between the sender and the receiver.
 - **10   (0.5 pt) Load the Wireshark capture called “Capture1_server.pcapng” provided with the homework. Run the Time Sequence Graph from 10.0.0.20 to 10.0.0.21. Examine the TCP Trace Explain what happened from the capturer’s perspective after between the 14.95th second and 17.94th second.**
-  - We can see that the sequence number stalled for a moment. And looking into the detail shows that the client has sent duplicate ack to the server. Indicating a server's packet to the client might have lost. So the server stops sending new packets and retransmit the missing old packet start from the ack's location.
+  
+  - We can see that the sequence number stalled for a moment. And looking into the detail shows that the client has sent duplicate packet to the server(No. 28). Indicating a server's ack to that packet might have lost. So the server resend the ack of this packet to the client to confirm it has received the packet.
 - **11  (1 pt) Load the Wireshark capture called “Capture2_server.pcapng”.** 
   - a.   Run the Time Sequence Graph from 10.0.0.20 to 10.0.0.21. Explain what is happening to the TCP connection.
-    - There are several stall between 144s - 235s, 254s - 350s, 369s - 435s. Looking into details shows that the receiver is sending TCP Zero Window to the sender to make sender slow down for receiver to process all it's data in the buffer.
+    - There are several stall between 144s - 235s, 254s - 350s, 369s - 435s. Looking into details shows that the receiver has sent TCP Zero Window to the sender asking the sender to wait for the receiver to process all it's data in the buffer. Which means the root cause of these stalls is the processing speed of the receiver is not fast enough.
   - b.   Switch the type of graph to Throughput. Does that make sense given your answer to part a?
     - ![image-20221017005231174](HW3.assets/image-20221017005231174.png)
     - Yes, we can see that during the time when TCP sequence stall, there are no throughput happening as well.
