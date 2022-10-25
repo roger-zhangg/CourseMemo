@@ -7,6 +7,7 @@ public class BallDropSimulatorExample {
         
         Function dist = new Function ("distance");
         double delta = 0.01;
+        
 
         for (double t=1; t<=10; t+=1) {
             double d = sim.run (t, 1000);

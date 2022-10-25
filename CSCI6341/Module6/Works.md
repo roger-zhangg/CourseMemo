@@ -189,5 +189,59 @@ Avg[A > 1.0] = 1.4993524154833202
 Avg[A > 0.5] = 1.249670823273795
 ```
 
+### Exercise 23:
+
+The code below will always count one more bus than it actually should be.
+
+For example, if the first but is later than my arrival time, the numBuses given by the following code will be 1 instead of 0.
+
+### Exercise 24:
+
+See `BusStopExample2.java`
+
+prob: 0.9701
+
+### Exercise 25:
+
+- Exponential
+  - avg wait at 10 min: 1.0145516006133788
+    avg wait at 20 min: 1.0144012348073337
+- Uniform
+  - avg wait at 10 min: 0.6677589130029824
+    avg wait at  20 min: 0.6577483290960779
+- So the average wait time doen't depend on the time of arrival
+- Both Uniform and Exponential arrival doesn't change for waiting 20 minute or 10 minute.
+- The average wait time for exponential interval is the same at 10 minute and 20 minute. Which is not very intuitive.
+
+### Exercise 26:
+
+`Pr[c2=1]=0.500163  Pr[c2=1|c1=1]=0.7494849748531853`
+
+### Exercise 27:
+
+- My intuition tell me these events are not independent. For 0.5 is a small period. So If a bus arrives in period 0,0.5. Then the bus will not be very likely to arrive at 0.5,1.
+- See `BusStopExample4.java`
+- exp
+  - Pr[B2]: 0.3075
+    Pr[B2|B1] 0.0947
+- uniform
+  - Pr[B2]: 0.2897
+    Pr[B2|B1] 0.0569
+- We can see that in both exp and uniform interval, the B2 given B1 is both smaller than only B2.
+
+### Exercise 28:
+
+Defect by A = P[A] * P[AD] = 1.2%
+
+Defect by B = P[B] * P[BD] = 2.1%
+
+Defect by C = P[C] * P[CD] = 4%
+
+Defected prob = P[D] = 1.2+2.1+4 = 7.3%
+
+So probability by A given defected = P[A|D] = 1.2/7.3 = 16.4%
+
+
+
 
 
