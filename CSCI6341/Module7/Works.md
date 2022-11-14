@@ -1,3 +1,5 @@
+
+
 ### Exercise 1:
 
 - After 7430000 departures: avgWait=5.530658049364452  avgSystemTime=7.0307692633769765
