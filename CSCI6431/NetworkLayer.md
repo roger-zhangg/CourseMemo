@@ -19,3 +19,13 @@ Data/control plan
     - a controller server
   - Traditional routing algorithms
     - Implemented in routers
+
+## IP Address
+
+- Network part/host part
+- longest prefix match. finding subnets
+
+## Flow table
+
+- match / action table
+- 

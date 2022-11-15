@@ -75,8 +75,39 @@ use $\lambda=0.01$, the avg wait time is very small
 
 ### Exercise 19:
 
-Yes, it works, but it stops at a certain status.
+No it doesn't work, only one boid is moving at a same time.
 
 ### Exercise 20:
 
 molecular simulation in `Molecule` uses a single thread, so it's synchronous.
+
+21-25
+
+### Exercise 21:
+
+Game of life is a synchronous simulation.
+
+### Exercise 22:
+
+X
+
+![image-20221114131020503](works.assets/image-20221114131020503.png)
+
+T
+
+![image-20221114131420727](works.assets/image-20221114131420727.png)
+
+- h is the lower bound of E(T)
+
+### Exercise 23
+
+- X is a typical gaussian distribution
+- T is a Poisson distribution
+
+### Exercise 24:
+
+The size of the the event list in single queue is all arrival and departure events.(before they are removed)
+
+### Exercise 25:
+
+Log(N) time needed for each operation

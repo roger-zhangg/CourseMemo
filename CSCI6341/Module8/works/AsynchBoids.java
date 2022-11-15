@@ -65,7 +65,7 @@ public class AsynchBoids extends JPanel {
 
             // Sleep for animation effect.
             try {
-                Thread.sleep (50);
+                Thread.sleep (10);
             }
             catch (InterruptedException e) {
                 break;
