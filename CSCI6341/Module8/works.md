@@ -85,7 +85,7 @@ molecular simulation in `Molecule` uses a single thread, so it's synchronous.
 
 ### Exercise 21:
 
-Game of life is a synchronous simulation.
+Game of life is a synchronous simulation. Every step depends on the result of previous step.
 
 ### Exercise 22:
 

@@ -44,6 +44,8 @@ public class QueueControl extends JPanel {
     int r = 20;    // 1/2 width of queue.
     int w = 600;   // Start of queue.
     DecimalFormat df = new DecimalFormat ("##.####");
+    DensityHistogram dh = new DensityHistogram(0.0,10.0,20);
+
 
 
     public QueueControl (boolean doAnimation)
@@ -51,6 +53,11 @@ public class QueueControl extends JPanel {
 	this.doAnimation = doAnimation;
     }
 
+    void display2()
+    {
+    	dh.display();
+    	return;
+    }
 
     void reset ()
     {
@@ -145,6 +152,7 @@ public class QueueControl extends JPanel {
 	int k = e.whichQueue;
 	Customer c = queues[k].removeFirst ();
 	totalSystemTime += clock - c.entryTime;
+	dh.add(clock - c.entryTime);
 	if (queues[k].size() > 0) {
 	    // There's a waiting customer => schedule departure.
 	    Customer waitingCust = queues[k].get (0);
@@ -226,6 +234,7 @@ public class QueueControl extends JPanel {
     void pause () 
     {
         isPaused = true;
+        dh.display();
     }
     
 
@@ -417,9 +426,12 @@ public class QueueControl extends JPanel {
 	else {
 	    QueueControl q = new QueueControl (false);
 	    q.reset ();
-	    while (true) {
+	    int counter =0;
+	    while (counter<10000) {
+	    counter++;
 		q.nextStep ();
 	    }
+	    q.display2();
 	}
     } 
 
