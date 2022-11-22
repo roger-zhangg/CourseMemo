@@ -28,4 +28,34 @@ Data/control plan
 ## Flow table
 
 - match / action table
-- 
+- routing protocols
+
+## Scaling
+
+- Intra-AS
+  - protocol
+    - RIP
+    - EIGRP
+    - OSPF
+      - Hello message
+      - Hierarchical OSPF
+        - areas are defined
+      - Area defined by what?
+- Inter-AS(Autonomous systems)
+  - Link
+  - Gateways
+  - 
+  - protocol
+    - BGP
+      - Border gateway protocol
+    - 
+- Data processing units
+
+## ICMP
+
+network plane level
+
+
+
+
+
