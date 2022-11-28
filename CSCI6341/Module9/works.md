@@ -43,3 +43,22 @@ The distribution of Y doesn't change given the different portion of  X. So these
 
 do 13-16 next week
 
+### Exercise 24:
+
+```
+Mean estimate: 0.5216167255358847
+Std-dev estimate: 0.28058637197873465
+```
+
+
+
+### Exercise 26:
+
+
+
+### Exercise 27:
+
+### Exercise 28:
+
+### Exercise 29:
+
