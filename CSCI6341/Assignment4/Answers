@@ -1,0 +1,13 @@
+- For the case *K=2*, plot the system time vs. increasing arrival rate *λ*.
+  - ![image-20221122175044851](Answers.assets/image-20221122175044851.png)
+- What is the value of the system time when *λ=1.5*?
+  - 3.9902
+- What value of *λ* would cause the queue to become unstable?
+  - when $\lambda$ is larger than 1.6, there's a huge jump in avg system time.
+- What value of *λ* would cause the queue to become unstable when *K=3*?
+  - Avg system time jumps from 13 to 30 when  *λ* increase from 2.8 to 2.9. So a $\lambda$ > 2.8 makes queue of K=3 unstable
+- What did you do to assess the accuracy of your estimates?
+  - My estimates are based on averages after 100k departures. So the uncertainties are mostly ruled out. 
+- Write down two applications of the above queueing model?
+  - Network Load balancing
+  - Ticket purchasing service

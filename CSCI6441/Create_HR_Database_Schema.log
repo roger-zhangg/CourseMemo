@@ -1,0 +1,966 @@
+
+Error starting at line : 8 in command -
+DROP PROCEDURE add_job_history
+Error report -
+ORA-04043: object ADD_JOB_HISTORY does not exist
+04043. 00000 -  "object %s does not exist"
+*Cause:    An object name was specified that was not recognized by the system.
+           There are several possible causes:
+           - An invalid name for a table, view, sequence, procedure, function,
+           package, or package body was entered. Since the system could not
+           recognize the invalid name, it responded with the message that the
+           named object does not exist.
+           - An attempt was made to rename an index or a cluster, or some
+           other object that cannot be renamed.
+*Action:   Check the spelling of the named object and rerun the code. (Valid
+           names of tables, views, functions, etc. can be listed by querying
+           the data dictionary.)
+
+Error starting at line : 9 in command -
+DROP PROCEDURE secure_dml
+Error report -
+ORA-04043: object SECURE_DML does not exist
+04043. 00000 -  "object %s does not exist"
+*Cause:    An object name was specified that was not recognized by the system.
+           There are several possible causes:
+           - An invalid name for a table, view, sequence, procedure, function,
+           package, or package body was entered. Since the system could not
+           recognize the invalid name, it responded with the message that the
+           named object does not exist.
+           - An attempt was made to rename an index or a cluster, or some
+           other object that cannot be renamed.
+*Action:   Check the spelling of the named object and rerun the code. (Valid
+           names of tables, views, functions, etc. can be listed by querying
+           the data dictionary.)
+
+Error starting at line : 10 in command -
+DROP VIEW emp_details_view
+Error report -
+ORA-00942: table or view does not exist
+00942. 00000 -  "table or view does not exist"
+*Cause:
+*Action:
+
+Error starting at line : 11 in command -
+DROP SEQUENCE departments_seq
+Error report -
+ORA-02289: sequence does not exist
+02289. 00000 -  "sequence does not exist"
+*Cause:    The specified sequence does not exist, or the user does
+           not have the required privilege to perform this operation.
+*Action:   Make sure the sequence name is correct, and that you have
+           the right to perform the desired operation on this sequence.
+
+Error starting at line : 12 in command -
+DROP SEQUENCE employees_seq
+Error report -
+ORA-02289: sequence does not exist
+02289. 00000 -  "sequence does not exist"
+*Cause:    The specified sequence does not exist, or the user does
+           not have the required privilege to perform this operation.
+*Action:   Make sure the sequence name is correct, and that you have
+           the right to perform the desired operation on this sequence.
+
+Error starting at line : 13 in command -
+DROP SEQUENCE locations_seq
+Error report -
+ORA-02289: sequence does not exist
+02289. 00000 -  "sequence does not exist"
+*Cause:    The specified sequence does not exist, or the user does
+           not have the required privilege to perform this operation.
+*Action:   Make sure the sequence name is correct, and that you have
+           the right to perform the desired operation on this sequence.
+
+Error starting at line : 14 in command -
+DROP TABLE regions     CASCADE CONSTRAINTS purge
+Error report -
+ORA-00942: table or view does not exist
+00942. 00000 -  "table or view does not exist"
+*Cause:
+*Action:
+
+Error starting at line : 15 in command -
+DROP TABLE departments CASCADE CONSTRAINTS purge
+Error report -
+ORA-00942: table or view does not exist
+00942. 00000 -  "table or view does not exist"
+*Cause:
+*Action:
+
+Error starting at line : 16 in command -
+DROP TABLE locations   CASCADE CONSTRAINTS purge
+Error report -
+ORA-00942: table or view does not exist
+00942. 00000 -  "table or view does not exist"
+*Cause:
+*Action:
+
+Error starting at line : 17 in command -
+DROP TABLE jobs        CASCADE CONSTRAINTS purge
+Error report -
+ORA-00942: table or view does not exist
+00942. 00000 -  "table or view does not exist"
+*Cause:
+*Action:
+
+Error starting at line : 18 in command -
+DROP TABLE job_history CASCADE CONSTRAINTS purge
+Error report -
+ORA-00942: table or view does not exist
+00942. 00000 -  "table or view does not exist"
+*Cause:
+*Action:
+
+Error starting at line : 19 in command -
+DROP TABLE employees   CASCADE CONSTRAINTS purge
+Error report -
+ORA-00942: table or view does not exist
+00942. 00000 -  "table or view does not exist"
+*Cause:
+*Action:
+
+Error starting at line : 20 in command -
+DROP TABLE countries   CASCADE CONSTRAINTS purge
+Error report -
+ORA-00942: table or view does not exist
+00942. 00000 -  "table or view does not exist"
+*Cause:
+*Action:
+
+Error starting at line : 21 in command -
+DROP TABLE JOB_GRADES   	  CASCADE CONSTRAINTS purge
+Error report -
+ORA-00942: table or view does not exist
+00942. 00000 -  "table or view does not exist"
+*Cause:
+*Action:
+******  Creating REGIONS table ....
+
+Table REGIONS created.
+
+
+INDEX REG_ID_PK created.
+
+
+Table REGIONS altered.
+
+******  Creating COUNTRIES table ....
+
+Table COUNTRIES created.
+
+
+Table COUNTRIES altered.
+
+******  Creating LOCATIONS table ....
+
+Table LOCATIONS created.
+
+
+INDEX LOC_ID_PK created.
+
+
+Table LOCATIONS altered.
+
+
+Sequence LOCATIONS_SEQ created.
+
+******  Creating DEPARTMENTS table ....
+
+Table DEPARTMENTS created.
+
+
+INDEX DEPT_ID_PK created.
+
+
+Table DEPARTMENTS altered.
+
+
+Sequence DEPARTMENTS_SEQ created.
+
+******  Creating JOBS table ....
+
+Table JOBS created.
+
+
+INDEX JOB_ID_PK created.
+
+
+Table JOBS altered.
+
+******  Creating JOB_GRADES table ....
+
+Table JOB_GRADES created.
+
+
+INDEX JOB_GRADES_ID_PK created.
+
+
+Table JOB_GRADES altered.
+
+******  Creating EMPLOYEES table ....
+
+Table EMPLOYEES created.
+
+
+INDEX EMP_EMP_ID_PK created.
+
+
+Table EMPLOYEES altered.
+
+
+Table DEPARTMENTS altered.
+
+
+Sequence EMPLOYEES_SEQ created.
+
+******  Creating JOB_HISTORY table ....
+
+Table JOB_HISTORY created.
+
+
+INDEX JHIST_EMP_ID_ST_DATE_PK created.
+
+
+Table JOB_HISTORY altered.
+
+******  Creating EMP_DETAILS_VIEW view ...
+
+View EMP_DETAILS_VIEW created.
+
+
+Commit complete.
+
+
+Session altered.
+
+******  Populating look up table JOB_GRADES
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+******  Populating REGIONS table ....
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+******  Populating COUNTIRES table ....
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+******  Populating LOCATIONS table ....
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+******  Populating DEPARTMENTS table ....
+
+Table DEPARTMENTS altered.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+******  Populating JOBS table ....
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+******  Populating EMPLOYEES table ....
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+******  Populating JOB_HISTORY table ....
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+Table DEPARTMENTS altered.
+
+
+Commit complete.
+
+
+Index EMP_DEPARTMENT_IX created.
+
+
+Index EMP_JOB_IX created.
+
+
+Index EMP_MANAGER_IX created.
+
+
+Index EMP_NAME_IX created.
+
+
+Index DEPT_LOCATION_IX created.
+
+
+Index JHIST_JOB_IX created.
+
+
+Index JHIST_EMPLOYEE_IX created.
+
+
+Index JHIST_DEPARTMENT_IX created.
+
+
+Index LOC_CITY_IX created.
+
+
+Index LOC_STATE_PROVINCE_IX created.
+
+
+Index LOC_COUNTRY_IX created.
+
+
+Commit complete.
+
+
+Procedure SECURE_DML compiled
+
+
+Trigger SECURE_EMPLOYEES compiled
+
+
+Procedure ADD_JOB_HISTORY compiled
+
+
+Trigger UPDATE_JOB_HISTORY compiled
+
+
+Commit complete.
+
