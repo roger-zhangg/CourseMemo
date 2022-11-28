@@ -1,3 +1,14 @@
+[I,map]=imread('lake.gif'); % or imread('image', 'format'); % format can be gif, tiff, etc.
+G=ind2gray(I,map);
+imagesc(I); colormap(map); % for displaying the color image I
+imagesc(G); colormap(gray); % for displaying the grayscale image G
+
+
+dG = blockproc(G3,[N N],@(blkStruct) dct2(blkStruct.data));
+[dTerm,ac1,ac2] = blockproc(dG,[N N],@(blkStruct) (getsplit(blkStruct,N)));
+
+
+
 dG = blockproc(G,[8 8],@(blkStruct) dct2(blkStruct.data));
 
 Ghat= blockproc(dG,[8 8],@(blkStruct) idct2(blkStruct.data));
