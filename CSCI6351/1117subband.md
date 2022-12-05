@@ -17,3 +17,8 @@ up sampling, replace missing value by 0
 
 perfect reconstruction 
 
+## exercise
+
+subband2-31
+
+Test filter, check snr, mse

@@ -2,75 +2,73 @@
 
 - n=4
   - `[Ghat,dGhat,dG] = compress("river.gif",4);`
-  - img_snr =8.8363
-  - compress_ratio =18.2857
-  - image
-    - ![image-20221128135350867](HW4.assets/image-20221128135350867.png)
+  - img_snr =9.2600
+  - compress_ratio =9.1429
+  - imageA
+    - ![image-20221201134037587](HW4.assets/image-20221201134037587.png)
 - n=8
   - `[Ghat,dGhat,dG] = compress("river.gif",8);`
-  - img_snr =3.6560
-  - compress_ratio =13.8378
+  - img_snr =5.8522
+  - compress_ratio =11.6364
   - image
-    - ![image-20221128135309719](HW4.assets/image-20221128135309719.png)
+    - ![image-20221201134125924](HW4.assets/image-20221201134125924.png)
 - n=16
   - `[Ghat,dGhat,dG] = compress("river.gif",16);`
-  - img_snr =-0.8705
-  - compress_ratio =13.5629
+  - img_snr =4.5679
+  - compress_ratio =12.9620
   - image
-    - ![image-20221128135436377](HW4.assets/image-20221128135436377.png)
+    - ![image-20221201134212098](HW4.assets/image-20221201134212098.png)
 - n=32
   - `[Ghat,dGhat,dG] = compress("river.gif",32);`
-  - img_snr =-7.6423
-  - compress_ratio =13.3638
+  - img_snr =2.9817
+  - compress_ratio =13.2129
   - image
-    - ![image-20221128135508782](HW4.assets/image-20221128135508782.png)
+    - ![image-20221201134239452](HW4.assets/image-20221201134239452.png)
 - n=64
   - `[Ghat,dGhat,dG] = compress("river.gif",64);`
-  - img_snr =-9.1433
-  - compress_ratio =13.3475
+  - img_snr =5.3376
+  - compress_ratio =13.3095
   - image
-    - ![image-20221128135555524](HW4.assets/image-20221128135555524.png)
-
+    - ![image-20221201134332891](HW4.assets/image-20221201134332891.png)
 - Plot SNR
-  - ![image-20221128135751228](HW4.assets/image-20221128135751228.png)
-  - block size n = 4 gives the best snr of 8.83
+  - ![image-20221201134740926](HW4.assets/image-20221201134740926.png)
+  - block size n = 4 gives the best snr of 9.26
 
 ## Lake
 
 - n = 4
   - `[Ghat,dGhat,dG] = compress("lake.gif",4);`
-  - img_snr =10.3629
-  - compress_ratio =18.2857
+  - img_snr =10.6388
+  - compress_ratio =9.1429
   - image
-    - ![image-20221128135922968](HW4.assets/image-20221128135922968.png)
+    - ![image-20221201134847291](HW4.assets/image-20221201134847291.png)
 - n = 8
   - `[Ghat,dGhat,dG] = compress("lake.gif",8);`
-  - img_snr =1.1589
-  - compress_ratio =13.8378
+  - img_snr =4.1789
+  - compress_ratio =11.6364
   - image
-    - ![image-20221128140001061](HW4.assets/image-20221128140001061.png)
+    - ![image-20221201135227538](HW4.assets/image-20221201135227538.png)
 - n = 16
   - `[Ghat,dGhat,dG] = compress("lake.gif",16);`
-  - img_snr =-1.8449
-  - compress_ratio =13.5629
+  - img_snr =4.6347
+  - compress_ratio =12.9620
   - image
-    - ![image-20221128140032430](HW4.assets/image-20221128140032430.png)
+    - ![image-20221201135300534](HW4.assets/image-20221201135300534.png)
 - n = 32
   - `[Ghat,dGhat,dG] = compress("lake.gif",32);`
-  - img_snr =-7.0655
-  - compress_ratio =13.3638
+  - img_snr =4.1733
+  - compress_ratio =13.2129
   - image
-    - ![image-20221128140103114](HW4.assets/image-20221128140103114.png)
+    - ![image-20221201135337771](HW4.assets/image-20221201135337771.png)
 - n = 64
   - `[Ghat,dGhat,dG] = compress("lake.gif",64);`
-  - img_snr =-11.7069
-  - compress_ratio =13.3475
+  - img_snr =4.3307
+  - compress_ratio =13.3095
   - image
-    - ![image-20221128140137547](HW4.assets/image-20221128140137547.png)
-
+    - ![image-20221201135423334](HW4.assets/image-20221201135423334.png)
 - Plot snr
-  - ![image-20221128140251029](HW4.assets/image-20221128140251029.png)
-  - block size n=4 gives the best snr, which is 10.36
+  - ![image-20221201135549743](HW4.assets/image-20221201135549743.png)
+  - block size n=4 gives the best snr, which is 10.6388
 
 ## Codes
 
@@ -85,9 +83,10 @@
     - Ghat, dGhat, dG
 
 ```matlab
-function [Ghat,dGhat,dG] = compress(image,N)
+function [Ghat,dGhat,dG,G] = compress(image,N)
     % resize
     G = preprocess(image,N);
+    G = double(G);
     % apply dct
     dG = blockproc(G,[N N],@(blkStruct) dct2(blkStruct.data));
     % split each term
@@ -113,18 +112,21 @@ function [Ghat,dGhat,dG] = compress(image,N)
     % reconstruct
     dGhat = reconstruct(dterm_hat,ac1_hat,ac2_hat,N);
     Ghat = blockproc(dGhat,[N N],@(blkStruct) idct2(blkStruct.data));
-
+    % remove the out of boundary values by convertting Ghat to uint8
+    Ghat = uint8(Ghat);
+    %show image
+    imagesc(Ghat); colormap(gray);
     % calc snr
-    img_snr = snr(double(G),double(G)-Ghat)
+    img_snr = snr(G,G-double(Ghat))
 
     % calc compress_ratio
     size_before = size(G,1)*size(G,2)*8;
     split_size = floor((N^2-1)/10);
     blocks = size(G,1)/N*size(G,2)/N;
-    size_now = blocks * (1+split_size*4+split_size*2);
+    size_now = blocks * (8+split_size*4+split_size*2);
     compress_ratio = size_before/size_now
     % show img
-    imagesc(Ghat); colormap(gray);
+    
 end
 ```
 
