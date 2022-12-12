@@ -1,0 +1,2277 @@
+-------------
+Schli.move(): t=0 off=[num=0 x=78.4183854782192 y=26.115836712041187 theta=2.970368632980877 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=45.11085549933576 y=18.354000585935726 theta=0.47123889803846897 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=9.455535615418043
+Schl.towards(): th=2.970368632980877 a=2.9254466684993847 diff=0.04492196448149244 isClock=true phi=0.0
+-------------
+Schl.tryBallGrab(): d=20.482251454779455
+Roger.towards(): th=1.5347503512995164 a=2.9415233625353823 diff=1.4067730112358658 isClock=false phi=10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=77.43300853225433 y=26.286225310136757 theta=2.970368632980877 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=45.11085549933576 y=18.354000585935726 theta=0.6283185307179586 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=9.08772662185779
+Schl.towards(): th=2.970368632980877 a=2.9014398855044607 diff=0.06892874747641642 isClock=true phi=0.0
+-------------
+Schl.tryBallGrab(): d=20.960057305803254
+Roger.towards(): th=1.691829983979006 a=2.979855957508733 diff=1.2880259735297268 isClock=false phi=10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=76.44763158628948 y=26.456613908232328 theta=2.970368632980877 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=45.11085549933576 y=18.354000585935726 theta=0.7853981633974483 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=8.713881613875008
+Schl.towards(): th=2.970368632980877 a=2.875723441033555 diff=0.09464519194732235 isClock=true phi=0.0
+-------------
+Schl.tryBallGrab(): d=21.30132724147386
+Roger.towards(): th=1.8489096166584957 a=3.0153979997227274 diff=1.1664883830642316 isClock=false phi=10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=75.46225464032462 y=26.627002506327898 theta=2.970368632980877 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=45.11085549933576 y=18.354000585935726 theta=0.9424777960769379 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=8.334532347907007
+Schl.towards(): th=2.970368632980877 a=2.8479956283545023 diff=0.1223730046263749 isClock=true phi=-10.0
+-------------
+Schl.tryBallGrab(): d=21.507289483174688
+Roger.towards(): th=2.0059892493379854 a=3.0478951039678868 diff=1.0419058546299014 isClock=false phi=10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=75.26517925113164 y=26.66108022594701 theta=2.8132890003013875 v=2.0 phi=-10.0 hasBall=false] def=[num=1 x=45.11085549933576 y=18.354000585935726 theta=1.0995574287564276 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=8.741917012554769
+Schl.towards(): th=2.8132890003013875 a=2.831791621268029 diff=0.01850262096664146 isClock=false phi=0.0
+-------------
+Schl.tryBallGrab(): d=21.58128360127192
+Roger.towards(): th=2.163068882017475 a=3.077016286636971 diff=0.913947404619496 isClock=false phi=10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=74.31858857970295 y=26.983517973061346 theta=2.8132890003013875 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=45.11085549933576 y=18.354000585935726 theta=1.2566370614359172 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=8.337285721263374
+Schl.towards(): th=2.8132890003013875 a=2.8213772565937476 diff=0.008088256292360096 isClock=false phi=0.0
+-------------
+Schl.tryBallGrab(): d=21.528948972323224
+Roger.towards(): th=2.3201485146969647 a=3.1023502364208038 diff=0.7822017217238391 isClock=false phi=10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=73.37199790827425 y=27.30595572017568 theta=2.8132890003013875 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=45.11085549933576 y=18.354000585935726 theta=1.413716694115407 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=7.921791966868769
+Schl.towards(): th=2.8132890003013875 a=2.810133296629954 diff=0.003155703671433585 isClock=true phi=0.0
+-------------
+Schl.tryBallGrab(): d=21.35844919757799
+Roger.towards(): th=2.4772281473764544 a=3.123400329787061 diff=0.6461721824106066 isClock=false phi=10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=72.42540723684556 y=27.628393467290017 theta=2.8132890003013875 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=45.11085549933576 y=18.354000585935726 theta=1.5707963267948966 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=7.4955300230968875
+Schl.towards(): th=2.8132890003013875 a=2.7978715589190717 diff=0.015417441382315822 isClock=true phi=0.0
+-------------
+Schl.tryBallGrab(): d=21.08073851427344
+Roger.towards(): th=2.634307780055944 a=3.1395803121410983 diff=0.5052725320851543 isClock=false phi=10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=71.47881656541686 y=27.950831214404353 theta=2.8132890003013875 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=45.11085549933576 y=18.354000585935726 theta=1.7278759594743862 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=7.0586285670830975
+Schl.towards(): th=2.8132890003013875 a=2.7843498471930594 diff=0.028939153108328064 isClock=true phi=0.0
+-------------
+Schl.tryBallGrab(): d=20.7098727216939
+Roger.towards(): th=2.7913874127354337 a=3.1502136451640776 diff=0.358826232428644 isClock=false phi=10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=70.53222589398817 y=28.27326896151869 theta=2.8132890003013875 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=45.11085549933576 y=18.354000585935726 theta=1.8849555921538759 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=6.6112638501794665
+Schl.towards(): th=2.8132890003013875 a=2.769250884943474 diff=0.044038115357913465 isClock=true phi=0.0
+-------------
+Schl.tryBallGrab(): d=20.263357960064557
+Roger.towards(): th=2.9484670454149233 a=3.1545413423218656 diff=0.20607429690694223 isClock=false phi=10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=69.58563522255947 y=28.595706708633024 theta=2.8132890003013875 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=45.11085549933576 y=18.354000585935726 theta=2.0420352248333655 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=6.153679601730196
+Schl.towards(): th=2.8132890003013875 a=2.7521507024227887 diff=0.06113829787859881 isClock=true phi=0.0
+-------------
+Schl.tryBallGrab(): d=19.76251144497815
+Roger.towards(): th=3.105546678094413 a=3.1517457797007453 diff=0.04619910160633234 isClock=false phi=0.0
+-------------
+Schli.move(): t=0 off=[num=0 x=68.63904455113078 y=28.91814445574736 theta=2.8132890003013875 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=45.11085549933576 y=18.354000585935726 theta=2.199114857512855 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=5.686217991590004
+Schl.towards(): th=2.8132890003013875 a=2.7324698496157676 diff=0.08081915068561996 isClock=true phi=0.0
+-------------
+Schl.tryBallGrab(): d=19.232772890659977
+Roger.towards(): th=3.2626263107739026 a=3.1410012287797837 diff=0.12162508199411892 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=67.69245387970209 y=29.240582202861695 theta=2.8132890003013875 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=45.11085549933576 y=18.354000585935726 theta=2.0420352248333655 v=0.0 phi=-10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=5.2093694326418545
+Schl.towards(): th=2.8132890003013875 a=2.7093956761075977 diff=0.10389332419378983 isClock=true phi=-10.0
+-------------
+Schl.tryBallGrab(): d=18.703847803135968
+Roger.towards(): th=3.4197059434533923 a=3.1215645005600643 diff=0.298141442893328 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=67.50313574541634 y=29.305069752284563 theta=2.656209367621898 v=2.0 phi=-10.0 hasBall=false] def=[num=1 x=44.656864999596216 y=19.245007110124092 theta=2.0420352248333655 v=10.0 phi=0.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=5.517942913705957
+Schl.towards(): th=2.656209367621898 a=2.7007703236123306 diff=0.04456095599043275 isClock=false phi=0.0
+-------------
+Schl.tryBallGrab(): d=18.209484195817126
+Roger.towards(): th=3.576785576132882 a=3.092917997660654 diff=0.48386757847222794 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=66.61863955240871 y=29.771617160974177 theta=2.656209367621898 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=44.656864999596216 y=19.245007110124092 theta=2.199114857512855 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=5.014500823878802
+Schl.towards(): th=2.656209367621898 a=2.7052775322920977 diff=0.04906816467019981 isClock=false phi=0.0
+-------------
+Schl.tryBallGrab(): d=17.786602433922265
+Roger.towards(): th=3.4311647612995793 a=3.054966962699361 diff=0.3761977986002183 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=65.73414335940107 y=30.23816456966379 theta=2.656209367621898 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=44.069079747303746 y=20.05402410449904 theta=2.199114857512855 v=10.0 phi=0.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=4.499201058597223
+Schl.towards(): th=2.656209367621898 a=2.7109353199898023 diff=0.05472595236790445 isClock=false phi=0.0
+-------------
+Schl.tryBallGrab(): d=17.311522896921137
+Roger.towards(): th=3.588244393979069 a=3.0228917112417197 diff=0.5653526827373492 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=64.84964716639344 y=30.704711978353405 theta=2.656209367621898 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=44.069079747303746 y=20.05402410449904 theta=2.356194490192345 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=3.9721053554281283
+Schl.towards(): th=2.656209367621898 a=2.718242236851565 diff=0.06203286922966722 isClock=false phi=0.0
+-------------
+Schl.tryBallGrab(): d=16.922480211622407
+Roger.towards(): th=3.7453240266585586 a=2.9812308124086795 diff=0.7640932142498791 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=63.965150973385796 y=31.17125938704302 theta=2.656209367621898 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=43.3619729661172 y=20.761130885685585 theta=2.356194490192345 v=10.0 phi=0.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=3.433317182579549
+Schl.towards(): th=2.656209367621898 a=2.728033299384419 diff=0.07182393176252111 isClock=false phi=0.0
+-------------
+Schl.tryBallGrab(): d=16.657555355658243
+Roger.towards(): th=3.9024036593380482 a=2.9308634780970504 diff=0.9715401812409978 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=63.080654780378154 y=31.637806795732633 theta=2.656209367621898 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=43.3619729661172 y=20.761130885685585 theta=2.5132741228718345 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=2.8830240940906773
+Schl.towards(): th=2.656209367621898 a=2.741820659728136 diff=0.08561129210623797 isClock=false phi=0.0
+-------------
+Schl.tryBallGrab(): d=16.55189269196916
+Roger.towards(): th=4.059483292017537 a=2.8736104278388237 diff=1.1858728641787137 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=62.19615858737051 y=32.10435420442224 theta=2.656209367621898 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=42.55295597174225 y=21.34891613797806 theta=2.5132741228718345 v=10.0 phi=0.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=2.3216046399106167
+Schl.towards(): th=2.656209367621898 a=2.762651441532351 diff=0.10644207391045324 isClock=false phi=10.0
+-------------
+Schl.tryBallGrab(): d=16.633519231535132
+Roger.towards(): th=4.216562924697027 a=2.8122053840473002 diff=1.4043575406497268 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=62.01925934876898 y=32.19766368616017 theta=2.8132890003013875 v=2.0 phi=10.0 hasBall=false] def=[num=1 x=42.55295597174225 y=21.34891613797806 theta=2.670353755551324 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=2.5444606088616393
+Schl.towards(): th=2.8132890003013875 a=2.7533486013878092 diff=0.059940398913578274 isClock=true phi=0.0
+-------------
+Schl.tryBallGrab(): d=16.919451536923315
+Roger.towards(): th=4.373642557376517 a=2.749992525858623 diff=1.6236500315178937 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=61.07266867734029 y=32.520101433274505 theta=2.8132890003013875 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=41.66194944755388 y=21.802906637717605 theta=2.670353755551324 v=10.0 phi=0.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=1.9588671095921675
+Schl.towards(): th=2.8132890003013875 a=2.7024100008879914 diff=0.11087899941339607 isClock=true phi=-10.0
+-------------
+Schl.tryBallGrab(): d=17.41339053458171
+Roger.towards(): th=4.530722190056006 a=2.690401865448596 diff=1.8403203246074105 isClock=true phi=-10.0
+Schli.triesGrab(): p=0 p.tryG=true
+-------------
+Schli.move(): t=0 off=[num=0 x=60.88335054305455 y=32.58458898269737 theta=2.656209367621898 v=2.0 phi=-10.0 hasBall=true] def=[num=1 x=41.66194944755388 y=21.802906637717605 theta=2.827433388230814 v=0.0 phi=10.0 hasBall=false] isHeld=true heldby=0
+Schli.tryShot(): shotAngle=5.971923361577246
+-------------
+Schl.tryBallGrab(): d=17.72140677068048
+Roger.towards(): th=2.551074816249444 a=2.6485044817320063 diff=0.09742966548256238 isClock=false phi=0.0
+Schli.triesKick(): p=0 p.tryK=false
+-------------
+Schli.move(): t=0 off=[num=0 x=60.70645130445302 y=32.677898464435295 theta=2.499129734942408 v=2.0 phi=-10.0 hasBall=true] def=[num=1 x=41.66194944755388 y=21.802906637717605 theta=2.9845130209103035 v=0.0 phi=10.0 hasBall=false] isHeld=true heldby=0
+Schli.tryShot(): shotAngle=5.971084172544297
+-------------
+Schl.tryBallGrab(): d=16.726432151530428
+Roger.towards(): th=2.393995183569954 a=2.6543201956633085 diff=0.26032501209335424 isClock=false phi=10.0
+Schli.triesKick(): p=0 p.tryK=false
+-------------
+Schli.move(): t=0 off=[num=0 x=60.54632680788499 y=32.79773228937147 theta=2.3420501022629185 v=2.0 phi=-10.0 hasBall=true] def=[num=1 x=40.674261106958745 y=21.959341102757836 theta=2.9845130209103035 v=10.0 phi=0.0 hasBall=false] isHeld=true heldby=0
+Schli.tryShot(): shotAngle=5.969520017399329
+-------------
+Schl.tryBallGrab(): d=15.762227525165212
+Roger.towards(): th=2.2369155508904646 a=2.6706507598129994 diff=0.4337352089225348 isClock=false phi=10.0
+Schli.triesKick(): p=0 p.tryK=false
+-------------
+Schli.move(): t=0 off=[num=0 x=60.40691984987869 y=32.941139751030306 theta=2.184970469583429 v=2.0 phi=-10.0 hasBall=true] def=[num=1 x=39.68657276636361 y=22.115775567798067 theta=2.9845130209103035 v=10.0 phi=0.0 hasBall=false] isHeld=true heldby=0
+Schli.tryShot(): shotAngle=5.967277828370029
+-------------
+Schl.tryBallGrab(): d=14.860768927920113
+Roger.towards(): th=2.079835918210975 a=2.698934565581714 diff=0.6190986473707389 isClock=false phi=10.0
+Schli.triesKick(): p=0 p.tryK=false
+-------------
+Schli.move(): t=0 off=[num=0 x=60.291663092405415 y=33.104589681763684 theta=2.0278908369039392 v=2.0 phi=-10.0 hasBall=true] def=[num=1 x=39.68657276636361 y=22.115775567798067 theta=2.827433388230814 v=0.0 phi=-10.0 hasBall=false] isHeld=true heldby=0
+Schli.tryShot(): shotAngle=5.964418704107177
+-------------
+Schl.tryBallGrab(): d=14.058349046247534
+Roger.towards(): th=1.9227562855314853 a=2.74022435369797 diff=0.8174680681664848 isClock=false phi=10.0
+Schli.triesKick(): p=0 p.tryK=false
+-------------
+Schli.move(): t=0 off=[num=0 x=60.2033945393494 y=33.284057401817726 theta=1.8708112042244496 v=2.0 phi=-10.0 hasBall=true] def=[num=1 x=39.68657276636361 y=22.115775567798067 theta=2.670353755551324 v=0.0 phi=-10.0 hasBall=false] isHeld=true heldby=0
+Schli.tryShot(): shotAngle=5.9610159307498725
+-------------
+Schl.tryBallGrab(): d=13.394154761545645
+Roger.towards(): th=1.7656766528519956 a=2.794709103035164 diff=1.0290324501831685 isClock=false phi=10.0
+Schli.triesKick(): p=0 p.tryK=false
+-------------
+Schli.move(): t=0 off=[num=0 x=60.14428765543341 y=33.47512382030549 theta=1.71373157154496 v=2.0 phi=-10.0 hasBall=true] def=[num=1 x=38.79556624217524 y=22.569766067537614 theta=2.670353755551324 v=10.0 phi=0.0 hasBall=false] isHeld=true heldby=0
+Schli.tryShot(): shotAngle=5.957152988241319
+-------------
+Schl.tryBallGrab(): d=12.906976459054007
+Roger.towards(): th=1.608597020172506 a=2.861140695402213 diff=1.252543675229707 isClock=false phi=10.0
+Schli.triesKick(): p=0 p.tryK=false
+-------------
+Schli.move(): t=0 off=[num=0 x=60.11579784830396 y=33.67308424789072 theta=1.5566519388654703 v=2.0 phi=-10.0 hasBall=true] def=[num=1 x=38.79556624217524 y=22.569766067537614 theta=2.5132741228718345 v=0.0 phi=-10.0 hasBall=false] isHeld=true heldby=0
+Schli.tryShot(): shotAngle=5.952921591025927
+-------------
+Schl.tryBallGrab(): d=12.629832282669058
+Roger.towards(): th=1.4515173874930163 a=2.9364133598572737 diff=1.4848959723642574 isClock=false phi=10.0
+Schli.triesKick(): p=0 p.tryK=false
+-------------
+Schli.move(): t=0 off=[num=0 x=60.11862663156484 y=33.87306424185327 theta=1.3995723061859806 v=2.0 phi=-10.0 hasBall=true] def=[num=1 x=38.79556624217524 y=22.569766067537614 theta=2.356194490192345 v=0.0 phi=-10.0 hasBall=false] isHeld=true heldby=0
+Schli.tryShot(): shotAngle=5.948419789638948
+-------------
+Schl.tryBallGrab(): d=12.583541505796907
+Roger.towards(): th=1.2944377548135266 a=3.0156721861867464 diff=1.7212344313732197 isClock=false phi=10.0
+Schli.triesKick(): p=0 p.tryK=false
+-------------
+Schli.move(): t=0 off=[num=0 x=60.15270435118395 y=34.070139631046246 theta=1.242492673506491 v=2.0 phi=-10.0 hasBall=true] def=[num=1 x=38.088459460988695 y=23.27687284872416 theta=2.356194490192345 v=10.0 phi=0.0 hasBall=false] isHeld=true heldby=0
+Schli.tryShot(): shotAngle=5.943750140494298
+-------------
+Schl.tryBallGrab(): d=12.771739911154594
+Roger.towards(): th=1.137358122134037 a=3.093163250148776 diff=1.955805128014739 isClock=false phi=10.0
+Schli.triesKick(): p=0 p.tryK=false
+-------------
+Schli.move(): t=0 off=[num=0 x=60.217191900606814 y=34.25945776533199 theta=1.0854130408270013 v=2.0 phi=-10.0 hasBall=true] def=[num=1 x=38.088459460988695 y=23.27687284872416 theta=2.199114857512855 v=0.0 phi=-10.0 hasBall=false] isHeld=true heldby=0
+Schli.tryShot(): shotAngle=5.939017936029986
+-------------
+Schl.tryBallGrab(): d=13.179933078223941
+Roger.towards(): th=0.9802784894545473 a=3.163539982381539 diff=2.1832614929269916 isClock=false phi=10.0
+Schli.triesKick(): p=0 p.tryK=false
+-------------
+Schli.move(): t=0 off=[num=0 x=60.31050138234474 y=34.436357003933516 theta=0.9283334081475116 v=2.0 phi=-10.0 hasBall=true] def=[num=1 x=38.088459460988695 y=23.27687284872416 theta=2.0420352248333655 v=0.0 phi=-10.0 hasBall=false] isHeld=true heldby=0
+Schli.tryShot(): shotAngle=5.9343294764964885
+-------------
+Schl.tryBallGrab(): d=13.779135005450993
+Roger.towards(): th=0.8231988567750577 a=3.2229569892688548 diff=2.399758132493797 isClock=false phi=10.0
+Schli.triesKick(): p=0 p.tryK=false
+-------------
+Schli.move(): t=0 off=[num=0 x=60.43033520728091 y=34.59648150050155 theta=0.771253775468022 v=2.0 phi=-10.0 hasBall=true] def=[num=1 x=37.63446896124915 y=24.167879372912527 theta=2.0420352248333655 v=10.0 phi=0.0 hasBall=false] isHeld=true heldby=0
+Schli.tryShot(): shotAngle=5.929790358058091
+-------------
+Schl.tryBallGrab(): d=14.532080159262623
+Roger.towards(): th=0.666119224095568 a=3.2694668594414593 diff=2.6033476353458913 isClock=false phi=10.0
+Schli.triesKick(): p=0 p.tryK=false
+-------------
+Schli.move(): t=0 off=[num=0 x=60.57374266893975 y=34.735888458507844 theta=0.6141741427885323 v=2.0 phi=-10.0 hasBall=true] def=[num=1 x=37.63446896124915 y=24.167879372912527 theta=1.8849555921538759 v=0.0 phi=-10.0 hasBall=false] isHeld=true heldby=0
+Schli.tryShot(): shotAngle=5.925503749441833
+-------------
+Schl.tryBallGrab(): d=15.399224738443495
+Roger.towards(): th=0.5090395914160784 a=3.3027623450619994 diff=2.793722753645921 isClock=false phi=10.0
+Schli.triesKick(): p=0 p.tryK=false
+-------------
+Schli.move(): t=0 off=[num=0 x=60.73719259967313 y=34.85114521598112 theta=0.4570945101090427 v=2.0 phi=-10.0 hasBall=true] def=[num=1 x=37.63446896124915 y=24.167879372912527 theta=1.7278759594743862 v=0.0 phi=-10.0 hasBall=false] isHeld=true heldby=0
+Schli.tryShot(): shotAngle=5.921568631069961
+-------------
+Schl.tryBallGrab(): d=16.34288148771406
+Roger.towards(): th=0.3519599587365887 a=3.323622852359431 diff=2.971662893622842 isClock=false phi=10.0
+Schli.triesKick(): p=0 p.tryK=false
+-------------
+Schli.move(): t=0 off=[num=0 x=60.91666031972717 y=34.93941376903714 theta=0.300014877429553 v=2.0 phi=-10.0 hasBall=true] def=[num=1 x=37.63446896124915 y=24.167879372912527 theta=1.5707963267948966 v=0.0 phi=-10.0 hasBall=false] isHeld=true heldby=0
+Schli.tryShot(): shotAngle=5.918077976480808
+-------------
+Schl.tryBallGrab(): d=17.329303325365856
+Roger.towards(): th=0.19488032605709904 a=3.333381802405205 diff=3.138501476348106 isClock=false phi=10.0
+Schli.triesKick(): p=0 p.tryK=false
+-------------
+Schli.move(): t=0 off=[num=0 x=61.107726738214936 y=34.998520652953125 theta=0.14293524475006336 v=2.0 phi=-10.0 hasBall=true] def=[num=1 x=37.63446896124915 y=24.167879372912527 theta=1.413716694115407 v=0.0 phi=-10.0 hasBall=false] isHeld=true heldby=0
+Schli.tryShot(): shotAngle=5.9151168659578195
+-------------
+Schl.tryBallGrab(): d=18.329298808339
+Roger.towards(): th=0.037800693377609385 a=3.3335504489184062 diff=3.295749755540797 isClock=true phi=-10.0
+Schli.triesKick(): p=0 p.tryK=false
+-------------
+Schli.move(): t=0 off=[num=0 x=61.305687165800165 y=35.02701046008257 theta=6.26904091925016 v=2.0 phi=-10.0 hasBall=true] def=[num=1 x=37.790903426289375 y=25.155567713507665 theta=1.413716694115407 v=10.0 phi=0.0 hasBall=false] isHeld=true heldby=0
+Schli.tryShot(): shotAngle=5.9127605366823754
+-------------
+Schl.tryBallGrab(): d=19.3180503505774
+Roger.towards(): th=6.163906367877706 a=3.325601982816188 diff=2.838304385061518 isClock=true phi=-10.0
+Schli.triesKick(): p=0 p.tryK=false
+-------------
+Schli.move(): t=0 off=[num=0 x=61.505667159762716 y=35.0241816768217 theta=6.11196128657067 v=2.0 phi=-10.0 hasBall=true] def=[num=1 x=37.790903426289375 y=25.155567713507665 theta=1.2566370614359172 v=0.0 phi=-10.0 hasBall=false] isHeld=true heldby=0
+Schli.tryShot(): shotAngle=5.91107239224403
+-------------
+Schl.tryBallGrab(): d=20.274609787577944
+Roger.towards(): th=6.006826735198216 a=3.310870709973807 diff=2.6959560252244095 isClock=true phi=-10.0
+Schli.triesKick(): p=0 p.tryK=false
+-------------
+Schli.move(): t=0 off=[num=0 x=61.70274254895569 y=34.990103957202585 theta=5.954881653891181 v=2.0 phi=-10.0 hasBall=true] def=[num=1 x=37.790903426289375 y=25.155567713507665 theta=1.0995574287564276 v=0.0 phi=-10.0 hasBall=false] isHeld=true heldby=0
+Schli.tryShot(): shotAngle=5.910102016429715
+-------------
+Schl.tryBallGrab(): d=21.18133235911878
+Roger.towards(): th=5.849747102518727 a=3.2905196684153637 diff=2.559227434103363 isClock=true phi=-10.0
+Schli.triesKick(): p=0 p.tryK=true
+-------------
+Schli.move(): t=0 off=[num=0 x=61.89206068324143 y=34.92561640777972 theta=5.954881653891181 v=2.0 phi=0.0 hasBall=false] def=[num=1 x=37.790903426289375 y=25.155567713507665 theta=0.9424777960769379 v=0.0 phi=-10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=6.788651356465922
+Schl.towards(): th=5.954881653891181 a=6.036789515568104 diff=0.08190786167692377 isClock=false phi=0.0
+-------------
+Schl.tryBallGrab(): d=12.828194313948806
+Roger.towards(): th=5.692667469839237 a=3.3471192976419326 diff=2.3455481721973044 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=62.83865135467013 y=34.603178660665385 theta=5.954881653891181 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=37.790903426289375 y=25.155567713507665 theta=0.7853981633974483 v=0.0 phi=-10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=6.768468522758383
+Schl.towards(): th=5.954881653891181 a=6.048539989558181 diff=0.09365833566700044 isClock=false phi=0.0
+-------------
+Schl.tryBallGrab(): d=12.653954691103158
+Roger.towards(): th=5.535587837159747 a=3.3244900727888638 diff=2.2110977643708836 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=63.78524202609882 y=34.28074091355105 theta=5.954881653891181 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=37.790903426289375 y=25.155567713507665 theta=0.6283185307179586 v=0.0 phi=-10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=6.737229785234592
+Schl.towards(): th=5.954881653891181 a=6.060405253671392 diff=0.10552359978021109 isClock=false phi=10.0
+-------------
+Schl.tryBallGrab(): d=12.382225099276608
+Roger.towards(): th=5.378508204480258 a=3.292291565824667 diff=2.0862166386555905 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=63.97456016038456 y=34.216253364128185 theta=6.11196128657067 v=2.0 phi=10.0 hasBall=false] def=[num=1 x=38.599920420664326 y=25.74335296580014 theta=0.6283185307179586 v=10.0 phi=0.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=7.490022457810374
+Schl.towards(): th=6.11196128657067 a=6.059918865156684 diff=0.05204242141398652 isClock=true phi=0.0
+-------------
+Schl.tryBallGrab(): d=12.008474538682387
+Roger.towards(): th=5.221428571800768 a=3.25065445902897 diff=1.9707741127717981 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=64.95993710634941 y=34.045864766032615 theta=6.11196128657067 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=38.599920420664326 y=25.74335296580014 theta=0.47123889803846897 v=0.0 phi=-10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=7.431459663033332
+Schl.towards(): th=6.11196128657067 a=6.049697403143178 diff=0.06226388342749267 isClock=true phi=0.0
+-------------
+Schl.tryBallGrab(): d=11.532600546941259
+Roger.towards(): th=5.064348939121278 a=3.1993105397515134 diff=1.865038399369765 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=65.94531405231427 y=33.875476167937045 theta=6.11196128657067 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=38.599920420664326 y=25.74335296580014 theta=0.3141592653589793 v=0.0 phi=-10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=7.36168572199303
+Schl.towards(): th=6.11196128657067 a=6.039322601382675 diff=0.07263868518799566 isClock=true phi=0.0
+-------------
+Schl.tryBallGrab(): d=10.958786972541278
+Roger.towards(): th=4.907269306441789 a=3.1374885750190336 diff=1.7697807314227552 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=66.93069099827913 y=33.705087569841474 theta=6.11196128657067 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=38.599920420664326 y=25.74335296580014 theta=0.15707963267948966 v=0.0 phi=-10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=7.280719474429636
+Schl.towards(): th=6.11196128657067 a=6.028741026394562 diff=0.08322026017610806 isClock=true phi=0.0
+-------------
+Schl.tryBallGrab(): d=10.295705090202388
+Roger.towards(): th=4.750189673762299 a=3.063758834888965 diff=1.686430838873334 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=67.91606794424399 y=33.534698971745904 theta=6.11196128657067 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=38.599920420664326 y=25.74335296580014 theta=0.0 v=0.0 phi=-10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=7.188588367658956
+Schl.towards(): th=6.11196128657067 a=6.017895115849235 diff=0.09406617072143497 isClock=true phi=0.0
+-------------
+Schl.tryBallGrab(): d=9.557200741629806
+Roger.towards(): th=4.593110041082809 a=2.975797980317368 diff=1.6173120607654412 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=68.90144489020885 y=33.36431037365033 theta=6.11196128657067 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=38.599920420664326 y=25.74335296580014 theta=6.126105674500097 v=0.0 phi=-10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=7.0853293812514835
+Schl.towards(): th=6.11196128657067 a=6.006722063613202 diff=0.10523922295746857 isClock=true phi=-10.0
+-------------
+Schl.tryBallGrab(): d=8.763721163204762
+Roger.towards(): th=4.593110041082809 a=2.8700501518497896 diff=1.7230598892330198 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=69.09852027940182 y=33.33023265403122 theta=5.954881653891181 v=2.0 phi=-10.0 hasBall=false] def=[num=1 x=38.599920420664326 y=25.74335296580014 theta=5.969026041820607 v=0.0 phi=-10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=7.766098411467961
+Schl.towards(): th=5.954881653891181 a=6.007158136842021 diff=0.0522764829508402 isClock=false phi=0.0
+-------------
+Schl.tryBallGrab(): d=8.098663437990988
+Roger.towards(): th=4.750189673762299 a=2.745199698167321 diff=2.0049899755949783 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=70.04511095083052 y=33.007794906916885 theta=5.954881653891181 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=38.599920420664326 y=25.74335296580014 theta=5.811946409141117 v=0.0 phi=-10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=7.635518939852652
+Schl.towards(): th=5.954881653891181 a=6.017103563511425 diff=0.0622219096202441 isClock=false phi=0.0
+-------------
+Schl.tryBallGrab(): d=7.7303752192592
+Roger.towards(): th=4.907269306441789 a=2.6109208406990296 diff=2.296348465742759 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=70.99170162225921 y=32.68535715980255 theta=5.954881653891181 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=39.490926944852696 y=25.28936246606059 theta=5.811946409141117 v=10.0 phi=0.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=7.493721241923004
+Schl.towards(): th=5.954881653891181 a=6.027382718754189 diff=0.07250106486300822 isClock=false phi=0.0
+-------------
+Schl.tryBallGrab(): d=7.635685539506143
+Roger.towards(): th=5.064348939121278 a=2.481391162379125 diff=2.582957776742153 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=71.93829229368791 y=32.362919412688214 theta=5.954881653891181 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=39.490926944852696 y=25.28936246606059 theta=5.654866776461628 v=0.0 phi=-10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=7.34074590630401
+Schl.towards(): th=5.954881653891181 a=6.038063106358416 diff=0.08318145246723496 isClock=false phi=0.0
+-------------
+Schl.tryBallGrab(): d=7.758768008358858
+Roger.towards(): th=5.221428571800768 a=2.3693364460545556 diff=2.8520921257462124 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=72.8848829651166 y=32.04048166557388 theta=5.954881653891181 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=39.490926944852696 y=25.28936246606059 theta=5.497787143782138 v=0.0 phi=-10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=7.176644823354217
+Schl.towards(): th=5.954881653891181 a=6.049221436199419 diff=0.09433978230823836 isClock=false phi=0.0
+-------------
+Schl.tryBallGrab(): d=8.027291378594521
+Roger.towards(): th=2.595414188375484 a=2.2818459653721175 diff=0.3135682230033665 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=73.8314736365453 y=31.718043918459543 theta=5.954881653891181 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=40.19803372603924 y=24.582255684874045 theta=5.497787143782138 v=10.0 phi=0.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=7.001483245894164
+Schl.towards(): th=5.954881653891181 a=6.060945797767386 diff=0.10606414387620511 isClock=false phi=10.0
+-------------
+Schl.tryBallGrab(): d=6.451604301272491
+Roger.towards(): th=2.4383345556959943 a=2.1608235380917393 diff=0.277511017604255 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=74.02079177083104 y=31.653556369036675 theta=6.11196128657067 v=2.0 phi=10.0 hasBall=false] def=[num=1 x=40.90514050722579 y=23.8751489036875 theta=5.497787143782138 v=10.0 phi=0.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=7.610323507961818
+Schl.towards(): th=6.11196128657067 a=6.060914954766709 diff=0.051046331803961564 isClock=true phi=0.0
+-------------
+Schl.tryBallGrab(): d=4.956164273565627
+Roger.towards(): th=2.2812549230165047 a=1.9958329370033194 diff=0.28542198601318525 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=75.0061687167959 y=31.483167770941105 theta=6.11196128657067 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=40.90514050722579 y=23.8751489036875 theta=5.340707511102648 v=0.0 phi=-10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=7.407698089079534
+Schl.towards(): th=6.11196128657067 a=6.051183101962442 diff=0.06077818460822826 isClock=true phi=0.0
+-------------
+Schl.tryBallGrab(): d=3.614730481210489
+Roger.towards(): th=2.124175290337015 a=1.7431721515138983 diff=0.38100313882311676 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=75.99154566276076 y=31.312779172845534 theta=6.11196128657067 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=41.49292575951826 y=23.066131909312553 theta=5.340707511102648 v=10.0 phi=0.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=7.086373373662265
+Schl.towards(): th=6.11196128657067 a=6.100497030184177 diff=0.01146425638649351 isClock=true phi=0.0
+-------------
+Schl.tryBallGrab(): d=3.026493277658227
+Roger.towards(): th=1.9670956576575254 a=1.3542899518351865 diff=0.6128057058223388 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=76.97692260872562 y=31.142390574749964 theta=2.1786899831911466 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=41.49292575951826 y=23.066131909312553 theta=5.497787143782138 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=6.488450062700238
+Schl.towards(): th=2.1786899831911466 a=5.993687873754568 diff=3.814997890563421 isClock=true phi=-10.0
+-------------
+Schl.tryBallGrab(): d=1.8171010363465498
+Roger.towards(): th=0.19744993760419494 a=0.7957359672421194 diff=0.5982860296379244 isClock=false phi=10.0
+Roger.triesGrab(): p=1 p.tryG=true
+-------------
+Schli.move(): t=0 off=[num=0 x=76.8626946626852 y=31.306561145630944 theta=2.021610350511657 v=2.0 phi=-10.0 hasBall=false] def=[num=1 x=41.49292575951826 y=23.066131909312553 theta=5.654866776461628 v=0.0 phi=10.0 hasBall=false] isHeld=true heldby=1
+Schl.tryBallGrab(): d=7.60602906762915
+Schl.towards(): th=2.021610350511657 a=5.888850478497726 diff=3.8672401279860686 isClock=true phi=-10.0
+-------------
+Schl.facing(): th=0.04037030492470528 a1=3.1197420442192705 a2=3.3575587616770375 isB=false
+Roger.triesKick(): p=1 p.tryK=false
+-------------
+Schli.move(): t=0 off=[num=0 x=76.77555498764207 y=31.486579691990414 theta=1.8645307178321673 v=2.0 phi=-10.0 hasBall=false] def=[num=1 x=41.49292575951826 y=23.066131909312553 theta=5.811946409141117 v=0.0 phi=10.0 hasBall=false] isHeld=true heldby=1
+Schl.tryBallGrab(): d=7.756778631941978
+Schl.towards(): th=1.8645307178321673 a=5.871738933727955 diff=4.007208215895788 isClock=true phi=-10.0
+-------------
+Schl.facing(): th=6.166475979424802 a1=3.1204829770385856 a2=3.355524134287652 isB=false
+Roger.triesKick(): p=1 p.tryK=false
+-------------
+Schli.move(): t=0 off=[num=0 x=76.71764925159577 y=31.6780135597697 theta=1.7074510851526776 v=2.0 phi=-10.0 hasBall=false] def=[num=1 x=41.49292575951826 y=23.066131909312553 theta=5.969026041820607 v=0.0 phi=10.0 hasBall=false] isHeld=true heldby=1
+Schl.tryBallGrab(): d=7.887883357040676
+Schl.towards(): th=1.7074510851526776 a=5.852429781067004 diff=4.144978695914326 isClock=true phi=-10.0
+-------------
+Schl.facing(): th=6.009396346745312 a1=3.1193589000820254 a2=3.351784243626601 isB=false
+Roger.triesKick(): p=1 p.tryK=false
+-------------
+Schli.move(): t=0 off=[num=0 x=76.6904032859459 y=31.876149011811492 theta=1.550371452473188 v=2.0 phi=-10.0 hasBall=false] def=[num=1 x=41.49292575951826 y=23.066131909312553 theta=6.126105674500097 v=0.0 phi=10.0 hasBall=false] isHeld=true heldby=1
+Schl.tryBallGrab(): d=7.997152048357977
+Schl.towards(): th=1.550371452473188 a=5.831338318371221 diff=4.280966865898033 isClock=true phi=-10.0
+-------------
+Schl.facing(): th=5.8523167140658225 a1=3.1164607684242593 a2=3.346478180542003 isB=false
+Roger.triesKick(): p=1 p.tryK=false
+-------------
+Schli.move(): t=0 off=[num=0 x=76.69448797679094 y=32.07610729571266 theta=1.3932918197936983 v=2.0 phi=-10.0 hasBall=false] def=[num=1 x=41.49292575951826 y=23.066131909312553 theta=6.283185307179586 v=0.0 phi=10.0 hasBall=false] isHeld=true heldby=1
+Schl.tryBallGrab(): d=8.082826623744692
+Schl.towards(): th=1.3932918197936983 a=5.808859833135881 diff=4.415568013342183 isClock=true phi=-10.0
+-------------
+Schl.facing(): th=5.695237081386333 a1=3.111913900521607 a2=3.339768726813577 isB=false
+Roger.triesKick(): p=1 p.tryK=false
+-------------
+Schli.move(): t=0 off=[num=0 x=76.72980274548596 y=32.27296477490006 theta=1.2362121871142087 v=2.0 phi=-10.0 hasBall=false] def=[num=1 x=41.49292575951826 y=23.066131909312553 theta=0.15707963267948966 v=0.0 phi=10.0 hasBall=false] isHeld=true heldby=1
+Schl.tryBallGrab(): d=8.143569100131904
+Schl.towards(): th=1.2362121871142087 a=5.7853723660211305 diff=4.549160178906922 isClock=true phi=-10.0
+-------------
+Schl.facing(): th=5.538157448706843 a1=3.1058707143536615 a2=3.3318365493290085 isB=false
+Roger.triesKick(): p=1 p.tryK=false
+-------------
+Schli.move(): t=0 off=[num=0 x=76.79547802522269 y=32.461874164903584 theta=1.079132554434719 v=2.0 phi=-10.0 hasBall=false] def=[num=1 x=42.48061410011339 y=23.222566374352784 theta=0.15707963267948966 v=10.0 phi=0.0 hasBall=false] isHeld=true heldby=1
+Schl.tryBallGrab(): d=8.178451304753915
+Schl.towards(): th=1.079132554434719 a=5.76124057215741 diff=4.682108017722691 isClock=true phi=-10.0
+-------------
+Schl.facing(): th=5.538157448706843 a1=3.0985043654548807 a2=3.3228754248885335 isB=false
+Roger.triesKick(): p=1 p.tryK=false
+-------------
+Schli.move(): t=0 off=[num=0 x=76.88989667265027 y=32.63818388958702 theta=0.9220529217552293 v=2.0 phi=-10.0 hasBall=false] def=[num=1 x=42.48061410011339 y=23.222566374352784 theta=0.0 v=0.0 phi=-10.0 hasBall=false] isHeld=true heldby=1
+Schl.tryBallGrab(): d=8.186947609314032
+Schl.towards(): th=0.9220529217552293 a=5.736820215071005 diff=4.814767293315776 isClock=true phi=-10.0
+-------------
+Schl.facing(): th=5.695237081386333 a1=3.09126415741929 a2=3.3140333930955177 isB=false
+Roger.triesKick(): p=1 p.tryK=false
+-------------
+Schli.move(): t=0 off=[num=0 x=77.01073378731148 y=32.79755261839023 theta=0.7649732890757397 v=2.0 phi=-10.0 hasBall=false] def=[num=1 x=42.48061410011339 y=23.222566374352784 theta=6.126105674500097 v=0.0 phi=-10.0 hasBall=false] isHeld=true heldby=1
+Schl.tryBallGrab(): d=8.1689307849525
+Schl.towards(): th=0.7649732890757397 a=5.712462993529044 diff=4.947489704453305 isClock=true phi=-10.0
+-------------
+Schl.facing(): th=5.8523167140658225 a1=3.085576965002205 a2=3.3064711623948453 isB=false
+Roger.triesKick(): p=1 p.tryK=false
+-------------
+Schli.move(): t=0 off=[num=0 x=77.15501395840799 y=32.93605616429559 theta=0.60789365639625 v=2.0 phi=-10.0 hasBall=false] def=[num=1 x=42.48061410011339 y=23.222566374352784 theta=5.969026041820607 v=0.0 phi=-10.0 hasBall=false] isHeld=true heldby=1
+Schl.tryBallGrab(): d=8.124670996614508
+Schl.towards(): th=0.60789365639625 a=5.688521499907228 diff=5.080627843510978 isClock=true phi=-10.0
+-------------
+Schl.facing(): th=6.009396346745312 a1=3.081552378707356 a2=3.3003697844843662 isB=false
+Roger.triesKick(): p=1 p.tryK=false
+-------------
+Schli.move(): t=0 off=[num=0 x=77.31918452928898 y=33.05028411033601 theta=0.4508140237167604 v=2.0 phi=-10.0 hasBall=false] def=[num=1 x=43.431670616408546 y=22.913549379977837 theta=5.969026041820607 v=10.0 phi=0.0 hasBall=false] isHeld=true heldby=1
+Schl.tryBallGrab(): d=8.054837937494684
+Schl.towards(): th=0.4508140237167604 a=5.66535415070089 diff=5.214540126984129 isClock=true phi=-10.0
+-------------
+Schl.facing(): th=6.166475979424802 a1=3.0792454807908864 a2=3.295856238522761 isB=false
+Roger.triesKick(): p=1 p.tryK=false
+-------------
+Schli.move(): t=0 off=[num=0 x=77.49920307564844 y=33.13742378537914 theta=0.2937343910372707 v=2.0 phi=-10.0 hasBall=false] def=[num=1 x=44.3827271327037 y=22.60453238560289 theta=5.969026041820607 v=10.0 phi=0.0 hasBall=false] isHeld=true heldby=1
+Schl.tryBallGrab(): d=7.960506100363402
+Schl.towards(): th=0.2937343910372707 a=5.643329920716226 diff=5.349595529678956 isClock=true phi=-10.0
+-------------
+Schl.facing(): th=0.04037030492470528 a1=3.078660921339675 a2=3.2930038558124153 isB=false
+Roger.triesKick(): p=1 p.tryK=false
+-------------
+Schli.move(): t=0 off=[num=0 x=77.69063694342772 y=33.195329521425435 theta=0.13665475835778107 v=2.0 phi=-10.0 hasBall=false] def=[num=1 x=45.33378364899885 y=22.295515391227944 theta=5.969026041820607 v=10.0 phi=0.0 hasBall=false] isHeld=true heldby=1
+Schl.tryBallGrab(): d=7.84316314850343
+Schl.towards(): th=0.13665475835778107 a=5.622832651144901 diff=5.48617789278712 isClock=true phi=-10.0
+-------------
+Schl.facing(): th=0.19744993760419494 a1=3.0797585596350903 a2=3.2918353691124245 isB=false
+Roger.triesKick(): p=1 p.tryK=false
+-------------
+Schli.move(): t=0 off=[num=0 x=77.88877239546952 y=33.222575487075304 theta=6.262760432857878 v=2.0 phi=-10.0 hasBall=false] def=[num=1 x=45.33378364899885 y=22.295515391227944 theta=6.126105674500097 v=0.0 phi=10.0 hasBall=false] isHeld=true heldby=1
+Schl.tryBallGrab(): d=7.704721233991954
+Schl.towards(): th=6.262760432857878 a=5.604264580784417 diff=0.658495852073461 isClock=true phi=-10.0
+-------------
+Schl.facing(): th=0.3545295702836846 a1=3.0824598739540177 a2=3.2923277828712316 isB=false
+Roger.triesKick(): p=1 p.tryK=false
+-------------
+Schli.move(): t=0 off=[num=0 x=78.08873067937068 y=33.21849079623027 theta=6.105680800178388 v=2.0 phi=-10.0 hasBall=false] def=[num=1 x=45.33378364899885 y=22.295515391227944 theta=6.283185307179586 v=0.0 phi=10.0 hasBall=false] isHeld=true heldby=1
+Schl.tryBallGrab(): d=7.547530848302771
+Schl.towards(): th=6.105680800178388 a=5.588048556617222 diff=0.5176322435611658 isClock=true phi=-10.0
+-------------
+Schl.facing(): th=0.5116092029631742 a1=3.086654491809669 a2=3.2944182767620194 isB=false
+Roger.triesKick(): p=1 p.tryK=false
+-------------
+Schli.move(): t=0 off=[num=0 x=78.28558815855808 y=33.183176027535254 theta=5.948601167498898 v=2.0 phi=-10.0 hasBall=false] def=[num=1 x=45.33378364899885 y=22.295515391227944 theta=0.15707963267948966 v=0.0 phi=10.0 hasBall=false] isHeld=true heldby=1
+Schl.tryBallGrab(): d=7.3743962871857045
+Schl.towards(): th=5.948601167498898 a=5.574628100292064 diff=0.3739730672068342 isClock=true phi=-10.0
+-------------
+Schl.facing(): th=0.6686888356426639 a1=3.092206373701241 a2=3.2980104679369266 isB=false
+Roger.triesKick(): p=1 p.tryK=false
+-------------
+Schli.move(): t=0 off=[num=0 x=78.4744975485616 y=33.11750074779852 theta=3.591638673573273 v=2.0 phi=-10.0 hasBall=false] def=[num=1 x=46.32147198959399 y=22.451949856268175 theta=0.15707963267948966 v=10.0 phi=0.0 hasBall=false] isHeld=true heldby=1
+Schl.tryBallGrab(): d=7.188590943498546
+Schl.towards(): th=3.591638673573273 a=5.564464131853911 diff=1.9728254582806382 isClock=false phi=10.0
+-------------
+Schl.facing(): th=2.3158241852676396 a1=3.098959359548367 a2=3.3029805187418093 isB=false
+Roger.triesKick(): p=1 p.tryK=false
+-------------
+Schli.move(): t=0 off=[num=0 x=78.2944121317031 y=33.03049935335624 theta=3.7487183062527625 v=2.0 phi=10.0 hasBall=false] def=[num=1 x=47.30916033018912 y=22.608384321308407 theta=0.15707963267948966 v=10.0 phi=0.0 hasBall=false] isHeld=true heldby=1
+Schl.tryBallGrab(): d=7.269178713546591
+Schl.towards(): th=3.7487183062527625 a=5.589786587420123 diff=1.8410682811673609 isClock=false phi=10.0
+-------------
+Schl.facing(): th=2.472903817947129 a1=3.1062534570127096 a2=3.311489011916819 isB=false
+Roger.triesKick(): p=1 p.tryK=false
+-------------
+Schli.move(): t=0 off=[num=0 x=78.13015388175808 y=32.916397524602274 theta=3.905797938932252 v=2.0 phi=10.0 hasBall=false] def=[num=1 x=47.30916033018912 y=22.608384321308407 theta=0.3141592653589793 v=0.0 phi=10.0 hasBall=false] isHeld=true heldby=1
+Schl.tryBallGrab(): d=7.325113558108204
+Schl.towards(): th=3.905797938932252 a=5.61610179874306 diff=1.7103038598108076 isClock=false phi=10.0
+-------------
+Schl.facing(): th=2.629983450626619 a1=3.11242376472801 a2=3.3191238412180892 isB=false
+Roger.triesKick(): p=1 p.tryK=false
+-------------
+Schli.move(): t=0 off=[num=0 x=77.98576738198206 y=32.77800482724281 theta=4.062877571611741 v=2.0 phi=10.0 hasBall=false] def=[num=1 x=47.30916033018912 y=22.608384321308407 theta=0.47123889803846897 v=0.0 phi=10.0 hasBall=false] isHeld=true heldby=1
+Schl.tryBallGrab(): d=7.35559157520783
+Schl.towards(): th=4.062877571611741 a=5.643031088840512 diff=1.580153517228771 isClock=false phi=10.0
+-------------
+Schl.facing(): th=2.7870630833061085 a1=3.117305609703694 a2=3.3257037209016485 isB=false
+Roger.triesKick(): p=1 p.tryK=false
+-------------
+Schli.move(): t=0 off=[num=0 x=77.86480790719084 y=32.61872894878586 theta=4.219957204291231 v=2.0 phi=10.0 hasBall=false] def=[num=1 x=47.30916033018912 y=22.608384321308407 theta=0.6283185307179586 v=0.0 phi=10.0 hasBall=false] isHeld=true heldby=1
+Schl.tryBallGrab(): d=7.360180574412768
+Schl.towards(): th=4.219957204291231 a=5.670206490331272 diff=1.4502492860400409 isClock=false phi=10.0
+-------------
+Schl.facing(): th=2.944142715985598 a1=3.1207520532486703 a2=3.331059295793104 isB=false
+Roger.triesKick(): p=1 p.tryK=false
+-------------
+Schli.move(): t=0 off=[num=0 x=77.77025388109527 y=32.442491789965366 theta=4.377036836970721 v=2.0 phi=10.0 hasBall=false] def=[num=1 x=47.30916033018912 y=22.608384321308407 theta=0.7853981633974483 v=0.0 phi=10.0 hasBall=false] isHeld=true heldby=1
+Schl.tryBallGrab(): d=7.338815831599059
+Schl.towards(): th=4.377036836970721 a=5.697264374572737 diff=1.3202275376020163 isClock=false phi=10.0
+-------------
+Schl.facing(): th=3.101222348665088 a1=3.122639094015965 a2=3.335037218200478 isB=false
+Roger.triesKick(): p=1 p.tryK=false
+-------------
+Schli.move(): t=0 off=[num=0 x=77.70443353762464 y=32.2536328945291 theta=4.53411646965021 v=2.0 phi=10.0 hasBall=false] def=[num=1 x=47.30916033018912 y=22.608384321308407 theta=0.9424777960769379 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=8.72471702161293
+Schl.towards(): th=4.53411646965021 a=5.7298929973122705 diff=1.1957765276620602 isClock=false phi=10.0
+-------------
+Schl.tryBallGrab(): d=6.987999999999999
+Roger.towards(): th=6.276270777683336 a=3.228554571351696 diff=3.0477162063316396 isClock=true phi=-10.0
+Roger.triesGrab(): p=0 p.tryG=false
+-------------
+Schli.move(): t=0 off=[num=0 x=77.66896759208039 y=32.056802595269424 theta=4.6911961023297 v=2.0 phi=10.0 hasBall=false] def=[num=1 x=47.30916033018912 y=22.608384321308407 theta=1.0995574287564276 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=7.878768134902439
+Schl.towards(): th=4.6911961023297 a=5.6794879322791045 diff=0.9882918299494046 isClock=false phi=10.0
+-------------
+Schl.tryBallGrab(): d=8.960087192110652
+Roger.towards(): th=6.119191145003846 a=3.218092582479686 diff=2.90109856252416 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=77.66472933374655 y=31.856847507396434 theta=4.84827573500919 v=2.0 phi=10.0 hasBall=false] def=[num=1 x=47.30916033018912 y=22.608384321308407 theta=1.2566370614359172 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=7.0398798279473285
+Schl.towards(): th=4.84827573500919 a=5.615936353508848 diff=0.7676606184996579 isClock=false phi=10.0
+-------------
+Schl.tryBallGrab(): d=10.897642247535256
+Roger.towards(): th=5.962111512324356 a=3.1971601636493507 diff=2.7649513486750057 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=77.69182312260928 y=31.65869118878645 theta=5.005355367688679 v=2.0 phi=10.0 hasBall=false] def=[num=1 x=47.30916033018912 y=22.608384321308407 theta=1.413716694115407 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=6.223319506784115
+Schl.towards(): th=5.005355367688679 a=5.533417798769122 diff=0.5280624310804427 isClock=false phi=10.0
+-------------
+Schl.tryBallGrab(): d=12.783545319327896
+Roger.towards(): th=5.805031879644867 a=3.170723359800054 diff=2.634308519844813 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=77.74958181966763 y=31.467212905646765 theta=5.162435000368169 v=2.0 phi=10.0 hasBall=false] def=[num=1 x=47.30916033018912 y=22.608384321308407 theta=1.5707963267948966 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=5.453651249374819
+Schl.towards(): th=5.162435000368169 a=5.423704826139701 diff=0.26126982577153246 isClock=false phi=10.0
+-------------
+Schl.tryBallGrab(): d=14.602416997454547
+Roger.towards(): th=5.647952246965377 a=3.1411709260859095 diff=2.5067813208794676 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=77.83658321410991 y=31.28712748878827 theta=5.319514633047659 v=2.0 phi=10.0 hasBall=false] def=[num=1 x=47.30916033018912 y=22.608384321308407 theta=1.7278759594743862 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=4.769786871121609
+Schl.towards(): th=5.319514633047659 a=5.276148094467651 diff=0.04336653858000794 isClock=true phi=0.0
+-------------
+Schl.tryBallGrab(): d=16.340084411365293
+Roger.towards(): th=5.4908726142858875 a=3.1098295586390727 diff=2.3810430556468147 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=78.40709235787973 y=30.46583623906316 theta=5.319514633047659 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=47.30916033018912 y=22.608384321308407 theta=1.8849555921538759 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=3.4582605325285227
+Schl.towards(): th=5.319514633047659 a=5.025669506358475 diff=0.2938451266891837 isClock=true phi=-10.0
+-------------
+Schl.tryBallGrab(): d=17.983475501732567
+Roger.towards(): th=4.0909849791629815 a=3.0775263515776454 diff=1.0134586275853361 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=78.52119418663369 y=30.30157798911814 theta=5.162435000368169 v=2.0 phi=-10.0 hasBall=false] def=[num=1 x=47.30916033018912 y=22.608384321308407 theta=2.0420352248333655 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=3.204602496935055
+Schl.towards(): th=5.162435000368169 a=4.728330758970063 diff=0.43410424139810555 isClock=true phi=-10.0
+-------------
+Schl.tryBallGrab(): d=18.36209123104766
+Roger.towards(): th=3.933905346483492 a=3.0387053787086478 diff=0.8951999677748441 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=78.60819558107598 y=30.121492572259644 theta=5.005355367688679 v=2.0 phi=-10.0 hasBall=false] def=[num=1 x=47.30916033018912 y=22.608384321308407 theta=2.199114857512855 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=3.236448198932278
+Schl.towards(): th=5.005355367688679 a=4.422686829792518 diff=0.5826685378961614 isClock=true phi=-10.0
+-------------
+Schl.tryBallGrab(): d=18.622760550439196
+Roger.towards(): th=3.7768257138040022 a=3.005836227650849 diff=0.7709894861531534 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=78.66595427813432 y=29.93001428911996 theta=4.84827573500919 v=2.0 phi=-10.0 hasBall=false] def=[num=1 x=47.30916033018912 y=22.608384321308407 theta=2.356194490192345 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=3.5178386265195316
+Schl.towards(): th=4.84827573500919 a=4.1556228003017095 diff=0.6926529347074801 isClock=true phi=-10.0
+-------------
+Schl.tryBallGrab(): d=18.77053011695959
+Roger.towards(): th=3.6197460811245126 a=2.9790639710800835 diff=0.6406821100444291 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=78.69304806699705 y=29.731857970509974 theta=4.6911961023297 v=2.0 phi=-10.0 hasBall=false] def=[num=1 x=47.30916033018912 y=22.608384321308407 theta=2.5132741228718345 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=3.970895937412401
+Schl.towards(): th=4.6911961023297 a=3.9471094626372443 diff=0.7440866396924557 isClock=true phi=-10.0
+-------------
+Schl.tryBallGrab(): d=18.813874636184092
+Roger.towards(): th=3.462666448445023 a=2.9586826950964795 diff=0.5039837533485434 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=78.68880980866321 y=29.531902882636984 theta=4.53411646965021 v=2.0 phi=-10.0 hasBall=false] def=[num=1 x=47.30916033018912 y=22.608384321308407 theta=2.670353755551324 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=4.522455413039096
+Schl.towards(): th=4.53411646965021 a=3.791933640027695 diff=0.7421828296225152 isClock=true phi=-10.0
+-------------
+Schl.tryBallGrab(): d=18.7649547223037
+Roger.towards(): th=1.0048094120353035 a=2.9451090299701788 diff=1.9402996179348753 isClock=false phi=10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=78.65334386311896 y=29.33507258337731 theta=4.377036836970721 v=2.0 phi=-10.0 hasBall=false] def=[num=1 x=47.30916033018912 y=22.608384321308407 theta=2.827433388230814 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=5.122241404277036
+Schl.towards(): th=4.377036836970721 a=3.6772963558563765 diff=0.6997404811143442 isClock=true phi=-10.0
+-------------
+Schl.tryBallGrab(): d=19.970646229346098
+Roger.towards(): th=1.1618890447147932 a=3.003655570392385 diff=1.841766525677592 isClock=false phi=10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=78.58752351964833 y=29.14621368794104 theta=4.219957204291231 v=2.0 phi=-10.0 hasBall=false] def=[num=1 x=47.30916033018912 y=22.608384321308407 theta=2.9845130209103035 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=5.739798660247358
+Schl.towards(): th=4.219957204291231 a=3.591866794812937 diff=0.6280904094782942 isClock=true phi=-10.0
+-------------
+Schl.tryBallGrab(): d=21.080699308723826
+Roger.towards(): th=1.3189686773942828 a=3.058190003480482 diff=1.739221326086199 isClock=false phi=10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=78.49296949355276 y=28.96997652912055 theta=4.062877571611741 v=2.0 phi=-10.0 hasBall=false] def=[num=1 x=47.30916033018912 y=22.608384321308407 theta=3.141592653589793 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=6.357607648914003
+Schl.towards(): th=4.062877571611741 a=3.5275017303324794 diff=0.535375841279262 isClock=true phi=-10.0
+-------------
+Schl.tryBallGrab(): d=22.085123561724387
+Roger.towards(): th=1.4760483100737725 a=3.1091456202291625 diff=1.63309731015539 isClock=false phi=10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=78.37201001876154 y=28.810700650663602 theta=3.9057979389322517 v=2.0 phi=-10.0 hasBall=false] def=[num=1 x=47.30916033018912 y=22.608384321308407 theta=3.2986722862692828 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=6.966057453482251
+Schl.towards(): th=3.9057979389322517 a=3.478674183253263 diff=0.42712375567898864 isClock=true phi=-10.0
+-------------
+Schl.tryBallGrab(): d=22.975706057074756
+Roger.towards(): th=1.6331279427532621 a=3.15679279168727 diff=1.5236648489340077 isClock=false phi=10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=78.22762351898552 y=28.672307953304134 theta=3.748718306252762 v=2.0 phi=-10.0 hasBall=false] def=[num=1 x=47.30916033018912 y=22.608384321308407 theta=3.4557519189487724 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=7.5604380746032085
+Schl.towards(): th=3.748718306252762 a=3.4416471359340415 diff=0.30707117031872055 isClock=true phi=-10.0
+-------------
+Schl.tryBallGrab(): d=23.746033741107272
+Roger.towards(): th=1.7902075754327518 a=3.2012764821973447 diff=1.411068906764593 isClock=false phi=10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=78.0633652690405 y=28.55820612455017 theta=3.5916386735732724 v=2.0 phi=-10.0 hasBall=false] def=[num=1 x=47.30916033018912 y=22.608384321308407 theta=3.612831551628262 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=8.139206022464878
+Schl.towards(): th=3.5916386735732724 a=3.413845179266301 diff=0.17779349430697122 isClock=true phi=-10.0
+-------------
+Schl.tryBallGrab(): d=24.391557123592314
+Roger.towards(): th=1.9472872081122414 a=3.242640866288726 diff=1.2953536581764844 isClock=false phi=10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=77.883279852182 y=28.471204730107893 theta=3.4345590408937827 v=2.0 phi=-10.0 hasBall=false] def=[num=1 x=47.30916033018912 y=22.608384321308407 theta=3.7699111843077517 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=8.702956537348063
+Schl.towards(): th=3.4345590408937827 a=3.393437031365745 diff=0.04112200952803757 isClock=true phi=0.0
+-------------
+Schl.tryBallGrab(): d=24.90968426615217
+Roger.towards(): th=2.104366840791731 a=3.2808453700493425 diff=1.1764785292576114 isClock=false phi=10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=76.92588843648358 y=28.182411244816134 theta=3.4345590408937827 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=47.30916033018912 y=22.608384321308407 theta=3.9269908169872414 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=8.45512138335821
+Schl.towards(): th=3.4345590408937827 a=3.373819960844678 diff=0.060739080049104555 isClock=true phi=0.0
+-------------
+Schl.tryBallGrab(): d=25.29989938276394
+Roger.towards(): th=2.2614464734712207 a=3.315774981585075 diff=1.0543285081138545 isClock=false phi=10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=75.96849702078515 y=27.893617759524375 theta=3.4345590408937827 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=47.30916033018912 y=22.608384321308407 theta=4.084070449666731 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=8.198828657438723
+Schl.towards(): th=3.4345590408937827 a=3.353208422998315 diff=0.08135061789546771 isClock=true phi=0.0
+-------------
+Schl.tryBallGrab(): d=25.56390346110311
+Roger.towards(): th=2.4185261061507104 a=3.3472468365048336 diff=0.9287207303541232 isClock=false phi=10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=75.01110560508673 y=27.604824274232616 theta=3.4345590408937827 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=46.72137507789665 y=21.79936732693346 theta=4.084070449666731 v=10.0 phi=0.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=7.9343062307994074
+Schl.towards(): th=3.4345590408937827 a=3.3314317999918255 diff=0.10312724090195724 isClock=true phi=-10.0
+-------------
+Schl.tryBallGrab(): d=25.70577584847924
+Roger.towards(): th=2.5756057388302 a=3.375014669127732 diff=0.799408930297532 isClock=false phi=10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=74.81962732194704 y=27.547065577174266 theta=3.277479408214293 v=2.0 phi=-10.0 hasBall=false] def=[num=1 x=46.13358982560418 y=20.990350332558513 theta=4.084070449666731 v=10.0 phi=0.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=8.456073872089085
+Schl.towards(): th=3.277479408214293 a=3.3202040478823895 diff=0.042724639668096476 isClock=false phi=0.0
+-------------
+Schl.tryBallGrab(): d=25.73215581047425
+Roger.towards(): th=2.7326853715096897 a=3.398772618239393 diff=0.6660872467297034 isClock=false phi=10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=73.82884572889711 y=27.411596632860654 theta=3.277479408214293 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=46.13358982560418 y=20.990350332558513 theta=3.9269908169872414 v=0.0 phi=-10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=8.166029119942765
+Schl.towards(): th=3.277479408214293 a=3.3174546700837357 diff=0.03997526186944267 isClock=false phi=0.0
+-------------
+Schl.tryBallGrab(): d=25.65244132466408
+Roger.towards(): th=2.8897650041891794 a=3.4181600382618074 diff=0.528395034072628 isClock=false phi=10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=72.83806413584718 y=27.276127688547042 theta=3.277479408214293 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=45.42648304441764 y=20.283243551371967 theta=3.9269908169872414 v=10.0 phi=0.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=7.864095004347061
+Schl.towards(): th=3.277479408214293 a=3.3146338057196987 diff=0.03715439750540561 isClock=false phi=0.0
+-------------
+Schl.tryBallGrab(): d=25.478998046628632
+Roger.towards(): th=3.046844636868669 a=3.4327693703076623 diff=0.38592473343899325 isClock=false phi=10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=71.84728254279725 y=27.14065874423343 theta=3.277479408214293 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=45.42648304441764 y=20.283243551371967 theta=3.7699111843077517 v=0.0 phi=-10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=7.550269871025583
+Schl.towards(): th=3.277479408214293 a=3.3117195277059466 diff=0.03424011949165351 isClock=false phi=0.0
+-------------
+Schl.tryBallGrab(): d=25.22736327663335
+Roger.towards(): th=3.2039242695481587 a=3.4421597390211662 diff=0.23823546947300756 isClock=false phi=10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=70.85650094974731 y=27.00518979991982 theta=3.277479408214293 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=44.61746605004269 y=19.695458299079494 theta=3.7699111843077517 v=10.0 phi=0.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=7.224552864895746
+Schl.towards(): th=3.277479408214293 a=3.3086852456807336 diff=0.031205837466440567 isClock=false phi=0.0
+-------------
+Schl.tryBallGrab(): d=24.91641634103388
+Roger.towards(): th=3.3610039022276483 a=3.445879655652132 diff=0.0848757534244835 isClock=false phi=0.0
+-------------
+Schli.move(): t=0 off=[num=0 x=69.86571935669738 y=26.869720855606207 theta=3.277479408214293 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=44.61746605004269 y=19.695458299079494 theta=3.612831551628262 v=0.0 phi=-10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=6.886944097393674
+Schl.towards(): th=3.277479408214293 a=3.3054981847068476 diff=0.028018776492554576 isClock=false phi=0.0
+-------------
+Schl.tryBallGrab(): d=24.56846672248361
+Roger.towards(): th=3.518083534907138 a=3.4435027556011195 diff=0.07458077930601847 isClock=true phi=0.0
+-------------
+Schli.move(): t=0 off=[num=0 x=68.87493776364745 y=26.734251911292596 theta=3.277479408214293 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=43.72645952585432 y=19.241467799339947 theta=3.612831551628262 v=10.0 phi=0.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=6.537444889276914
+Schl.towards(): th=3.277479408214293 a=3.3021172489705237 diff=0.024637840756230656 isClock=false phi=0.0
+-------------
+Schl.tryBallGrab(): d=24.209184554866106
+Roger.towards(): th=3.6751631675866276 a=3.434680321050701 diff=0.24048284653592678 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=67.88415617059752 y=26.598782966978984 theta=3.277479408214293 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=43.72645952585432 y=19.241467799339947 theta=3.4557519189487724 v=0.0 phi=-10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=6.176058126584826
+Schl.towards(): th=3.277479408214293 a=3.298489957332853 diff=0.02101054911855993 isClock=false phi=0.0
+-------------
+Schl.tryBallGrab(): d=23.867268540585542
+Roger.towards(): th=3.8322428002661173 a=3.4192125007834426 diff=0.41303029948267467 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=66.89337457754759 y=26.463314022665372 theta=3.277479408214293 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=42.77540300955916 y=18.932450804965 theta=3.4557519189487724 v=10.0 phi=0.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=5.8027887911460105
+Schl.towards(): th=3.277479408214293 a=3.294547941424927 diff=0.01706853321063395 isClock=false phi=0.0
+-------------
+Schl.tryBallGrab(): d=23.573724957631093
+Roger.towards(): th=3.989322432945607 a=3.397135462669433 diff=0.592186970276174 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=65.90259298449766 y=26.32784507835176 theta=3.277479408214293 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=42.77540300955916 y=18.932450804965 theta=3.2986722862692828 v=0.0 phi=-10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=5.41764476886202
+Schl.towards(): th=3.277479408214293 a=3.2902001508633507 diff=0.012720742649057648 isClock=false phi=0.0
+-------------
+Schl.tryBallGrab(): d=23.36063908428091
+Roger.towards(): th=4.146402065625097 a=3.36881346206322 diff=0.7775886035618766 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=64.91181139144773 y=26.19237613403815 theta=3.277479408214293 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=42.77540300955916 y=18.932450804965 theta=3.141592653589793 v=0.0 phi=-10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=5.020638115807452
+Schl.towards(): th=3.277479408214293 a=3.2853222750059263 diff=0.007842866791633263 isClock=false phi=0.0
+-------------
+Schl.tryBallGrab(): d=23.25938478538249
+Roger.towards(): th=4.303481698304586 a=3.335014131533449 diff=0.9684675667711371 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=63.9210297983978 y=26.056907189724537 theta=3.277479408214293 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=41.77540300955916 y=18.932450804965 theta=3.141592653589793 v=10.0 phi=0.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=4.611787109762422
+Schl.towards(): th=3.277479408214293 a=3.279739671057657 diff=0.0022602628433641136 isClock=false phi=0.0
+-------------
+Schl.tryBallGrab(): d=23.298358101170518
+Roger.towards(): th=4.460561330984076 a=3.296936860419743 diff=1.1636244705643328 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=62.930248205347866 y=25.921438245410926 theta=3.277479408214293 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=41.77540300955916 y=18.932450804965 theta=2.9845130209103035 v=0.0 phi=-10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=4.191119713794163
+Schl.towards(): th=3.277479408214293 a=3.2731986192832503 diff=0.004280788931042778 isClock=true phi=0.0
+-------------
+Schl.tryBallGrab(): d=23.50051805679476
+Roger.towards(): th=4.617640963663566 a=3.256165813272171 diff=1.3614751503913944 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=61.939466612297934 y=25.785969301097314 theta=3.277479408214293 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=41.77540300955916 y=18.932450804965 theta=2.827433388230814 v=0.0 phi=-10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=3.7586797236273743
+Schl.towards(): th=3.277479408214293 a=3.265315404540287 diff=0.012164003674006274 isClock=true phi=0.0
+-------------
+Schl.tryBallGrab(): d=23.881194958995554
+Roger.towards(): th=4.617640963663566 a=3.2145372223523356 diff=1.40310374131123 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=60.948685019248 y=25.650500356783702 theta=3.277479408214293 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=41.77540300955916 y=18.932450804965 theta=2.670353755551324 v=0.0 phi=-10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=3.3145383721252486
+Schl.towards(): th=3.277479408214293 a=3.2554803549095617 diff=0.021999053304731397 isClock=true phi=0.0
+-------------
+Schl.tryBallGrab(): d=24.289936688050307
+Roger.towards(): th=6.281595657159846 a=3.1742553671429015 diff=3.1073402900169445 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=59.95790342619807 y=25.51503141247009 theta=3.277479408214293 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=41.77540300955916 y=18.932450804965 theta=2.5132741228718345 v=0.0 phi=-10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=2.858818001895679
+Schl.towards(): th=3.277479408214293 a=3.2426624215132756 diff=0.034816986701017516 isClock=true phi=0.0
+-------------
+Schl.tryBallGrab(): d=25.832548795912
+Roger.towards(): th=6.124516024480356 a=3.174072597237012 diff=2.950443427243344 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=58.96712183314814 y=25.37956246815648 theta=3.277479408214293 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=41.77540300955916 y=18.932450804965 theta=2.670353755551324 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=2.3917454617879397
+Schl.towards(): th=3.277479408214293 a=3.2249693648603586 diff=0.0525100433539345 isClock=true phi=0.0
+-------------
+Schl.tryBallGrab(): d=27.34602002260306
+Roger.towards(): th=5.967436391800867 a=3.1681844214770774 diff=2.7992519703237893 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=57.97634024009821 y=25.244093523842867 theta=3.277479408214293 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=40.88439648537079 y=19.386441304704547 theta=2.670353755551324 v=10.0 phi=0.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=1.913790068035467
+Schl.towards(): th=3.277479408214293 a=3.1985153049774753 diff=0.0789641032368178 isClock=true phi=0.0
+-------------
+Schl.tryBallGrab(): d=28.80865160229045
+Roger.towards(): th=5.810356759121377 a=3.1576207506048055 diff=2.6527360085165714 isClock=true phi=-10.0
+Schli.triesGrab(): p=0 p.tryG=true
+-------------
+Schli.move(): t=0 off=[num=0 x=56.98555864704828 y=25.108624579529256 theta=3.277479408214293 v=10.0 phi=0.0 hasBall=true] def=[num=1 x=40.88439648537079 y=19.386441304704547 theta=2.827433388230814 v=0.0 phi=10.0 hasBall=false] isHeld=true heldby=0
+Schli.tryShot(): shotAngle=6.1649736955945595
+-------------
+Schl.tryBallGrab(): d=29.76658396776302
+Roger.towards(): th=5.653277126441887 a=3.1472493786201987 diff=2.5060277478216886 isClock=true phi=-10.0
+Schli.triesKick(): p=0 p.tryK=false
+-------------
+Schli.move(): t=0 off=[num=0 x=56.78740232843829 y=25.081530790666534 theta=3.4345590408937827 v=2.0 phi=10.0 hasBall=true] def=[num=1 x=40.88439648537079 y=19.386441304704547 theta=2.9845130209103035 v=0.0 phi=10.0 hasBall=false] isHeld=true heldby=0
+Schli.tryShot(): shotAngle=6.166129158074289
+-------------
+Schl.tryBallGrab(): d=30.577083461905325
+Roger.towards(): th=5.496197493762398 a=3.127833873939287 diff=2.3683636198231106 isClock=true phi=-10.0
+Schli.triesKick(): p=0 p.tryK=false
+-------------
+Schli.move(): t=0 off=[num=0 x=56.5959240452986 y=25.023772093608184 theta=3.5916386735732724 v=2.0 phi=10.0 hasBall=true] def=[num=1 x=40.88439648537079 y=19.386441304704547 theta=3.141592653589793 v=0.0 phi=10.0 hasBall=false] isHeld=true heldby=0
+Schli.tryShot(): shotAngle=6.1679538096571624
+-------------
+Schl.tryBallGrab(): d=31.30053622991563
+Roger.towards(): th=5.339117861082908 a=3.105517715070456 diff=2.233600146012452 isClock=true phi=-10.0
+Schli.triesKick(): p=0 p.tryK=false
+-------------
+Schli.move(): t=0 off=[num=0 x=56.415838628440106 y=24.936770699165905 theta=3.748718306252762 v=2.0 phi=10.0 hasBall=true] def=[num=1 x=39.88439648537079 y=19.386441304704547 theta=3.141592653589793 v=10.0 phi=0.0 hasBall=false] isHeld=true heldby=0
+Schli.tryShot(): shotAngle=6.170396197904207
+-------------
+Schl.tryBallGrab(): d=31.925598675603506
+Roger.towards(): th=5.182038228403418 a=3.080824359029577 diff=2.1012138693738414 isClock=true phi=-10.0
+Schli.triesKick(): p=0 p.tryK=false
+-------------
+Schli.move(): t=0 off=[num=0 x=56.251580378495085 y=24.822668870411942 theta=3.9057979389322517 v=2.0 phi=10.0 hasBall=true] def=[num=1 x=39.88439648537079 y=19.386441304704547 theta=3.2986722862692828 v=0.0 phi=10.0 hasBall=false] isHeld=true heldby=0
+Schli.tryShot(): shotAngle=6.1733921994274406
+-------------
+Schl.tryBallGrab(): d=32.44296164142237
+Roger.towards(): th=5.024958595723929 a=3.0542331498985464 diff=1.9707254458253822 isClock=true phi=-10.0
+Schli.triesKick(): p=0 p.tryK=false
+-------------
+Schli.move(): t=0 off=[num=0 x=56.107193878719066 y=24.684276173052474 theta=4.062877571611741 v=2.0 phi=10.0 hasBall=true] def=[num=1 x=39.88439648537079 y=19.386441304704547 theta=3.4557519189487724 v=0.0 phi=10.0 hasBall=false] isHeld=true heldby=0
+Schli.tryShot(): shotAngle=6.176866902463463
+-------------
+Schl.tryBallGrab(): d=32.845232417576625
+Roger.towards(): th=4.867878963044439 a=3.0261861763485043 diff=1.8416927866959347 isClock=true phi=-10.0
+Schli.triesKick(): p=0 p.tryK=false
+-------------
+Schli.move(): t=0 off=[num=0 x=55.98623440392785 y=24.525000294595525 theta=4.219957204291231 v=2.0 phi=10.0 hasBall=true] def=[num=1 x=39.88439648537079 y=19.386441304704547 theta=3.612831551628262 v=0.0 phi=10.0 hasBall=false] isHeld=true heldby=0
+Schli.tryShot(): shotAngle=6.180736492811983
+-------------
+Schl.tryBallGrab(): d=33.126843389544426
+Roger.towards(): th=4.710799330364949 a=2.997095952029909 diff=1.7137033783350404 isClock=true phi=-10.0
+Schli.triesKick(): p=0 p.tryK=false
+-------------
+Schli.move(): t=0 off=[num=0 x=55.89168037783228 y=24.348763135775037 theta=4.377036836970721 v=2.0 phi=10.0 hasBall=true] def=[num=1 x=39.88439648537079 y=19.386441304704547 theta=3.7699111843077517 v=0.0 phi=10.0 hasBall=false] isHeld=true heldby=0
+Schli.tryShot(): shotAngle=6.184910106257505
+-------------
+Schl.tryBallGrab(): d=33.28398530653949
+Roger.towards(): th=4.55371969768546 a=2.96735335679623 diff=1.5863663408892297 isClock=true phi=-10.0
+Schli.triesKick(): p=0 p.tryK=false
+-------------
+Schli.move(): t=0 off=[num=0 x=55.825860034361654 y=24.159904240338765 theta=4.53411646965021 v=2.0 phi=10.0 hasBall=true] def=[num=1 x=39.88439648537079 y=19.386441304704547 theta=3.9269908169872414 v=0.0 phi=10.0 hasBall=false] isHeld=true heldby=0
+Schli.tryShot(): shotAngle=6.189291629807117
+-------------
+Schl.tryBallGrab(): d=33.314562885464795
+Roger.towards(): th=4.39664006500597 a=2.9373355844311075 diff=1.4593044805748625 isClock=true phi=-10.0
+Schli.triesKick(): p=0 p.tryK=false
+-------------
+Schli.move(): t=0 off=[num=0 x=55.79039408881741 y=23.96307394107909 theta=4.6911961023297 v=2.0 phi=10.0 hasBall=true] def=[num=1 x=39.17728970418425 y=18.679334523518 theta=3.9269908169872414 v=10.0 phi=0.0 hasBall=false] isHeld=true heldby=0
+Schli.tryShot(): shotAngle=6.1937814499610635
+-------------
+Schl.tryBallGrab(): d=33.21817087934354
+Roger.towards(): th=4.23956043232648 a=2.907414023461352 diff=1.3321464088651283 isClock=true phi=-10.0
+Schli.triesKick(): p=0 p.tryK=false
+-------------
+Schli.move(): t=0 off=[num=0 x=55.78615583048357 y=23.7631188532061 theta=4.84827573500919 v=2.0 phi=10.0 hasBall=true] def=[num=1 x=39.17728970418425 y=18.679334523518 theta=4.084070449666731 v=0.0 phi=10.0 hasBall=false] isHeld=true heldby=0
+Schli.tryShot(): shotAngle=6.198278158321263
+-------------
+Schl.tryBallGrab(): d=32.99608949097228
+Roger.towards(): th=4.082480799646991 a=2.877962094194864 diff=1.2045187054521267 isClock=true phi=-10.0
+Schli.triesKick(): p=0 p.tryK=false
+-------------
+Schli.move(): t=0 off=[num=0 x=55.813249619346294 y=23.564962534596116 theta=5.005355367688679 v=2.0 phi=10.0 hasBall=true] def=[num=1 x=39.17728970418425 y=18.679334523518 theta=4.241150082346221 v=0.0 phi=10.0 hasBall=false] isHeld=true heldby=0
+Schli.tryShot(): shotAngle=6.202680232982374
+-------------
+Schl.tryBallGrab(): d=32.65129890865693
+Roger.towards(): th=3.925401166967501 a=2.849363102088921 diff=1.07603806487858 isClock=true phi=-10.0
+Schli.triesKick(): p=0 p.tryK=false
+-------------
+Schli.move(): t=0 off=[num=0 x=55.87100831640465 y=23.373484251456432 theta=5.162435000368169 v=2.0 phi=10.0 hasBall=true] def=[num=1 x=39.17728970418425 y=18.679334523518 theta=4.39822971502571 v=0.0 phi=10.0 hasBall=false] isHeld=true heldby=0
+Schli.tryShot(): shotAngle=6.206887718337215
+-------------
+Schl.tryBallGrab(): d=32.18851366172713
+Roger.towards(): th=3.7683215342880114 a=2.8220181548811856 diff=0.9463033794068259 isClock=true phi=-10.0
+Schli.triesKick(): p=0 p.tryK=false
+-------------
+Schli.move(): t=0 off=[num=0 x=55.95800971084693 y=23.193398834597936 theta=5.319514633047659 v=2.0 phi=10.0 hasBall=true] def=[num=1 x=39.17728970418425 y=18.679334523518 theta=4.5553093477052 v=0.0 phi=10.0 hasBall=false] isHeld=true heldby=0
+Schli.tryShot(): shotAngle=6.210803926193204
+-------------
+Schl.tryBallGrab(): d=31.61423833276953
+Roger.towards(): th=3.6112419016085218 a=2.7963541251597057 diff=0.814887776448816 isClock=true phi=-10.0
+Schli.triesKick(): p=0 p.tryK=false
+-------------
+Schli.move(): t=0 off=[num=0 x=56.0721115396009 y=23.029140584652914 theta=5.476594265727148 v=2.0 phi=10.0 hasBall=true] def=[num=1 x=39.17728970418425 y=18.679334523518 theta=4.71238898038469 v=0.0 phi=10.0 hasBall=false] isHeld=true heldby=0
+Schli.tryShot(): shotAngle=6.214337177442089
+-------------
+Schl.tryBallGrab(): d=30.936846771815713
+Roger.towards(): th=3.454162268929032 a=2.7728315038620845 diff=0.6813307650669476 isClock=true phi=-10.0
+Schli.triesKick(): p=0 p.tryK=false
+-------------
+Schli.move(): t=0 off=[num=0 x=56.21050423696036 y=22.884754084876892 theta=5.633673898406638 v=2.0 phi=10.0 hasBall=true] def=[num=1 x=39.17728970418425 y=18.679334523518 theta=4.869468613064179 v=0.0 phi=10.0 hasBall=false] isHeld=true heldby=0
+Schli.tryShot(): shotAngle=6.217402595922261
+-------------
+Schl.tryBallGrab(): d=30.166687074809477
+Roger.towards(): th=1.4304063212519607 a=2.7519517500464525 diff=1.3215454287944919 isClock=false phi=10.0
+Schli.triesKick(): p=0 p.tryK=false
+-------------
+Schli.move(): t=0 off=[num=0 x=56.36978011541731 y=22.763794610085675 theta=5.790753531086128 v=2.0 phi=10.0 hasBall=true] def=[num=1 x=39.17728970418425 y=18.679334523518 theta=5.026548245743669 v=0.0 phi=10.0 hasBall=false] isHeld=true heldby=0
+Schli.tryShot(): shotAngle=6.219923954555145
+-------------
+Schl.tryBallGrab(): d=29.93569923077341
+Roger.towards(): th=1.5874859539314503 a=2.784330042601283 diff=1.1968440886698328 isClock=false phi=10.0
+Schli.triesKick(): p=0 p.tryK=false
+-------------
+Schli.move(): t=0 off=[num=0 x=56.546017274237805 y=22.669240583990106 theta=5.947833163765617 v=2.0 phi=10.0 hasBall=true] def=[num=1 x=39.4863066985592 y=17.728278007222848 theta=5.026548245743669 v=10.0 phi=0.0 hasBall=false] isHeld=true heldby=0
+Schli.tryShot(): shotAngle=6.221835558448746
+-------------
+Schl.tryBallGrab(): d=29.585050677187418
+Roger.towards(): th=1.74456558661094 a=2.815800144152569 diff=1.0712345575416289 isClock=false phi=10.0
+Schli.triesKick(): p=0 p.tryK=false
+-------------
+Schli.move(): t=0 off=[num=0 x=56.734876169674074 y=22.603420240519476 theta=6.104912796445107 v=2.0 phi=10.0 hasBall=true] def=[num=1 x=39.4863066985592 y=17.728278007222848 theta=4.869468613064179 v=0.0 phi=-10.0 hasBall=false] isHeld=true heldby=0
+Schli.tryShot(): shotAngle=6.223084130854509
+-------------
+Schl.tryBallGrab(): d=29.11924319823763
+Roger.towards(): th=1.9016452192904296 a=2.8459494707570068 diff=0.9443042514665771 isClock=false phi=10.0
+Schli.triesKick(): p=0 p.tryK=true
+-------------
+Schli.move(): t=0 off=[num=0 x=56.93170646893375 y=22.56795429497523 theta=6.104912796445107 v=2.0 phi=0.0 hasBall=false] def=[num=1 x=39.642741163599425 y=16.74058966662771 theta=4.869468613064179 v=10.0 phi=0.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=6.789472632199587
+Schl.towards(): th=6.104912796445107 a=6.228110648820745 diff=0.12319785237563785 isClock=false phi=10.0
+-------------
+Schl.tryBallGrab(): d=20.37850584512735
+Roger.towards(): th=2.0587248519699193 a=2.905868853441635 diff=0.8471440014717158 isClock=false phi=10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=57.12853676819342 y=22.532488349430984 theta=6.2619924291245965 v=2.0 phi=10.0 hasBall=false] def=[num=1 x=39.79917562863965 y=15.752901326032571 theta=4.869468613064179 v=10.0 phi=0.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=7.567011990540543
+Schl.towards(): th=6.2619924291245965 a=6.230904969184785 diff=0.03108745993981188 isClock=true phi=0.0
+-------------
+Schl.tryBallGrab(): d=18.764537193563335
+Roger.towards(): th=2.215804484649409 a=2.936645276209011 diff=0.7208407915596022 isClock=false phi=10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=58.12831220755837 y=22.511297057761798 theta=6.2619924291245965 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=39.95561009367988 y=14.765212985437433 theta=4.869468613064179 v=10.0 phi=0.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=7.531567671890366
+Schl.towards(): th=6.2619924291245965 a=6.225970173032912 diff=0.036022256091684746 isClock=true phi=0.0
+-------------
+Schl.tryBallGrab(): d=17.067498196740736
+Roger.towards(): th=2.3728841173288986 a=2.967084012223546 diff=0.5941998948946474 isClock=false phi=10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=59.128087646923326 y=22.49010576609261 theta=6.2619924291245965 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=39.95561009367988 y=14.765212985437433 theta=5.026548245743669 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=7.484308573466222
+Schl.towards(): th=6.2619924291245965 a=6.220983052949708 diff=0.04100937617488842 isClock=true phi=0.0
+-------------
+Schl.tryBallGrab(): d=15.299901695978296
+Roger.towards(): th=2.5299637500083882 a=2.9964832097735203 diff=0.4665194597651321 isClock=false phi=10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=60.12786308628828 y=22.468914474423425 theta=6.2619924291245965 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=39.95561009367988 y=14.765212985437433 theta=5.183627878423159 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=7.425238433771372
+Schl.towards(): th=6.2619924291245965 a=6.215918681765041 diff=0.046073747359555384 isClock=true phi=0.0
+-------------
+Schl.tryBallGrab(): d=13.475319431973787
+Roger.towards(): th=2.5299637500083882 a=3.0238370066036717 diff=0.49387325659528347 isClock=false phi=10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=61.12763852565323 y=22.44772318275424 theta=6.2619924291245965 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=39.95561009367988 y=14.765212985437433 theta=5.340707511102648 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=7.354362934771057
+Schl.towards(): th=6.2619924291245965 a=6.210750671763129 diff=0.051241757361467855 isClock=true phi=0.0
+-------------
+Schl.tryBallGrab(): d=11.675966236908012
+Roger.towards(): th=2.3728841173288986 a=3.0597447720818525 diff=0.6868606547529539 isClock=false phi=10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=62.127413965018185 y=22.42653189108505 theta=6.2619924291245965 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=39.95561009367988 y=14.765212985437433 theta=5.497787143782138 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=7.271689873088624
+Schl.towards(): th=6.2619924291245965 a=6.2054506897419195 diff=0.056541739382677036 isClock=true phi=0.0
+-------------
+Schl.tryBallGrab(): d=10.005757175937125
+Roger.towards(): th=2.215804484649409 a=3.1210290794016693 diff=0.9052245947522604 isClock=false phi=10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=63.12718940438314 y=22.405340599415865 theta=6.2619924291245965 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=39.95561009367988 y=14.765212985437433 theta=5.654866776461628 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=7.17722939260512
+Schl.towards(): th=6.2619924291245965 a=6.199987898703962 diff=0.062004530420634474 isClock=true phi=0.0
+-------------
+Schl.tryBallGrab(): d=8.524522853000207
+Roger.towards(): th=2.0587248519699193 a=3.2174810790500636 diff=1.1587562270801444 isClock=false phi=10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=64.1269648437481 y=22.38414930774668 theta=6.2619924291245965 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=39.95561009367988 y=14.765212985437433 theta=5.811946409141117 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=7.070994290833736
+Schl.towards(): th=6.2619924291245965 a=6.194328301910917 diff=0.06766412721367931 isClock=true phi=0.0
+-------------
+Schl.tryBallGrab(): d=7.313829084020343
+Roger.towards(): th=1.9016452192904296 a=3.359594860556828 diff=1.4579496412663984 isClock=false phi=10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=65.12674028311305 y=22.362958016077492 theta=6.2619924291245965 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=39.95561009367988 y=14.765212985437433 theta=5.969026041820607 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=6.95300041598939
+Schl.towards(): th=6.2619924291245965 a=6.188433958425694 diff=0.07355847069890231 isClock=true phi=0.0
+-------------
+Schl.tryBallGrab(): d=6.473365347931958
+Roger.towards(): th=1.74456558661094 a=3.5513881760898816 diff=1.8068225894789416 isClock=false phi=10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=66.126515722478 y=22.341766724408306 theta=6.2619924291245965 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=39.95561009367988 y=14.765212985437433 theta=6.126105674500097 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=6.823267177745142
+Schl.towards(): th=6.2619924291245965 a=6.182262030102398 diff=0.07973039902219892 isClock=true phi=0.0
+-------------
+Schl.tryBallGrab(): d=6.08750273938482
+Roger.towards(): th=1.5874859539314503 a=3.7773945161254776 diff=2.1899085621940273 isClock=false phi=10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=67.12629116184296 y=22.32057543273912 theta=6.2619924291245965 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=39.95561009367988 y=14.765212985437433 theta=6.283185307179586 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=6.681818202931243
+Schl.towards(): th=6.2619924291245965 a=6.175763607242926 diff=0.08622882188167047 isClock=true phi=0.0
+-------------
+Schl.tryBallGrab(): d=6.162462245759967
+Roger.towards(): th=1.4304063212519607 a=4.0002776407554155 diff=2.569871319503455 isClock=false phi=10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=68.12606660120791 y=22.299384141069932 theta=6.2619924291245965 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=39.95561009367988 y=14.765212985437433 theta=0.15707963267948966 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=6.5286821788719
+Schl.towards(): th=6.2619924291245965 a=6.168882242306394 diff=0.09311018681820293 isClock=true phi=0.0
+-------------
+Schl.tryBallGrab(): d=6.602337354921557
+Roger.towards(): th=1.273326688572471 a=4.184768580492425 diff=2.911441891919954 isClock=false phi=10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=69.12584204057286 y=22.278192849400746 theta=6.2619924291245965 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=39.95561009367988 y=14.765212985437433 theta=0.3141592653589793 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=6.363893943142537
+Schl.towards(): th=6.2619924291245965 a=6.161552095867709 diff=0.10044033325688773 isClock=true phi=-10.0
+-------------
+Schl.tryBallGrab(): d=7.264972824540205
+Roger.towards(): th=1.1162470558929813 a=4.318724022195377 diff=3.2024769663023953 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=69.32579712844586 y=22.273954591066907 theta=6.104912796445107 v=2.0 phi=-10.0 hasBall=false] def=[num=1 x=39.95561009367988 y=14.765212985437433 theta=0.47123889803846897 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=6.98334454857392
+Schl.towards(): th=6.104912796445107 a=6.166077946682993 diff=0.061165150237886046 isClock=false phi=0.0
+-------------
+Schl.tryBallGrab(): d=8.025257417086065
+Roger.towards(): th=0.9591674232134917 a=4.40775462841201 diff=3.4485872051985185 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=70.30994862474422 y=22.09662486334568 theta=6.104912796445107 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=39.95561009367988 y=14.765212985437433 theta=0.6283185307179586 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=6.792696307609847
+Schl.towards(): th=6.104912796445107 a=6.182034094323323 diff=0.07712129787821631 isClock=false phi=0.0
+-------------
+Schl.tryBallGrab(): d=8.794889659781177
+Roger.towards(): th=0.802087790534002 a=4.462526428381995 diff=3.660438637847993 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=71.29410012104259 y=21.919295135624456 theta=6.104912796445107 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=39.95561009367988 y=14.765212985437433 theta=0.7853981633974483 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=6.591881032398793
+Schl.towards(): th=6.104912796445107 a=6.198860433002224 diff=0.09394763655711724 isClock=false phi=0.0
+-------------
+Schl.tryBallGrab(): d=9.516243562444512
+Roger.towards(): th=0.6450081578545124 a=4.49254334185001 diff=3.8475351839954977 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=72.27825161734096 y=21.74196540790323 theta=6.104912796445107 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=39.95561009367988 y=14.765212985437433 theta=0.9424777960769379 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=6.381049389197432
+Schl.towards(): th=6.104912796445107 a=6.216723970342463 diff=0.1118111738973564 isClock=false phi=10.0
+-------------
+Schl.tryBallGrab(): d=10.15213863278815
+Roger.towards(): th=0.4879285251750227 a=4.504863971802987 diff=4.016935446627964 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=72.47508191660063 y=21.706499462358984 theta=6.2619924291245965 v=2.0 phi=10.0 hasBall=false] def=[num=1 x=39.95561009367988 y=14.765212985437433 theta=1.0995574287564276 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=6.954332309054464
+Schl.towards(): th=6.2619924291245965 a=6.220806463965177 diff=0.041185965159419524 isClock=true phi=0.0
+-------------
+Schl.tryBallGrab(): d=10.678321307980084
+Roger.towards(): th=0.33084889249553306 a=4.504460417330584 diff=4.173611524835051 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=73.47485735596558 y=21.685308170689797 theta=6.2619924291245965 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=39.95561009367988 y=14.765212985437433 theta=1.2566370614359172 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=6.715284080065201
+Schl.towards(): th=6.2619924291245965 a=6.215103602411013 diff=0.04688882671358385 isClock=true phi=0.0
+-------------
+Schl.tryBallGrab(): d=11.078848468351758
+Roger.towards(): th=0.1737692598160434 a=4.4948206902309815 diff=4.321051430414938 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=74.47463279533054 y=21.66411687902061 theta=6.2619924291245965 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=39.95561009367988 y=14.765212985437433 theta=1.413716694115407 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=6.464471833179484
+Schl.towards(): th=6.2619924291245965 a=6.208950971652495 diff=0.05304145747210143 isClock=true phi=0.0
+-------------
+Schl.tryBallGrab(): d=11.34338175125207
+Roger.towards(): th=0.016689627136553753 a=4.478437530090225 diff=4.461747902953671 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=75.47440823469549 y=21.642925587351424 theta=6.2619924291245965 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=40.11204455872011 y=15.752901326032571 theta=1.413716694115407 v=10.0 phi=0.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=6.201927034101867
+Schl.towards(): th=6.2619924291245965 a=6.202258791009761 diff=0.05973363811483523 isClock=true phi=0.0
+-------------
+Schl.tryBallGrab(): d=11.465599976000405
+Roger.towards(): th=6.14279530163665 a=4.457151294948226 diff=1.685644006688424 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=76.47418367406044 y=21.621734295682238 theta=6.2619924291245965 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=40.268479023760335 y=16.74058966662771 theta=1.413716694115407 v=10.0 phi=0.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=5.9276898107625815
+Schl.towards(): th=6.2619924291245965 a=6.194915377631479 diff=0.0670770514931176 isClock=true phi=0.0
+-------------
+Schl.tryBallGrab(): d=11.442248777791576
+Roger.towards(): th=5.985715668957161 a=4.432383910178606 diff=1.5533317587785547 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=77.4739591134254 y=21.60054300401305 theta=6.2619924291245965 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=40.268479023760335 y=16.74058966662771 theta=1.2566370614359172 v=0.0 phi=-10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=5.641811801579276
+Schl.towards(): th=6.2619924291245965 a=6.186779782433503 diff=0.07521264669109318 isClock=true phi=0.0
+-------------
+Schl.tryBallGrab(): d=11.272556844073186
+Roger.towards(): th=5.828636036277671 a=4.40530344161163 diff=1.4233325946660411 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=78.47373455279035 y=21.579351712343865 theta=6.2619924291245965 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=40.577496018135285 y=17.691646182922863 theta=1.2566370614359172 v=10.0 phi=0.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=5.344360235366722
+Schl.towards(): th=6.2619924291245965 a=6.177671286548888 diff=0.08432114257570866 isClock=true phi=0.0
+-------------
+Schl.tryBallGrab(): d=10.957870180222956
+Roger.towards(): th=5.671556403598181 a=4.3769503255701 diff=1.2946060780280817 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=79.4735099921553 y=21.558160420674678 theta=6.2619924291245965 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=40.886513012510235 y=18.642702699218017 theta=1.2566370614359172 v=10.0 phi=0.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=5.035423905590418
+Schl.towards(): th=6.2619924291245965 a=6.1673540833786245 diff=0.09463834574597207 isClock=true phi=0.0
+-------------
+Schl.tryBallGrab(): d=10.501425557868185
+Roger.towards(): th=5.514476770918692 a=4.348350409228202 diff=1.1661263616904893 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=80.47328543152025 y=21.53696912900549 theta=6.2619924291245965 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=40.886513012510235 y=18.642702699218017 theta=1.0995574287564276 v=0.0 phi=-10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=4.71512214146038
+Schl.towards(): th=6.2619924291245965 a=6.155514374124209 diff=0.10647805500038743 isClock=true phi=-10.0
+-------------
+Schl.tryBallGrab(): d=9.908227634080802
+Roger.towards(): th=5.357397138239202 a=4.320640331965332 diff=1.0367568062738703 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=80.67324051939325 y=21.532730870671653 theta=6.104912796445107 v=2.0 phi=-10.0 hasBall=false] def=[num=1 x=41.34050351224978 y=19.533709223406383 theta=1.0995574287564276 v=10.0 phi=0.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=5.178729492914164
+Schl.towards(): th=6.104912796445107 a=6.1602600967379075 diff=0.05534730029280066 isClock=false phi=0.0
+-------------
+Schl.tryBallGrab(): d=9.185029103671198
+Roger.towards(): th=5.200317505559712 a=4.295241035641746 diff=0.9050764699179661 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=81.65739201569161 y=21.355401142950427 theta=6.104912796445107 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=41.34050351224978 y=19.533709223406383 theta=0.9424777960769379 v=0.0 phi=-10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=4.831890450439635
+Schl.towards(): th=6.104912796445107 a=6.180385161478019 diff=0.07547236503291188 isClock=false phi=0.0
+-------------
+Schl.tryBallGrab(): d=8.340457953665064
+Roger.towards(): th=5.043237872880223 a=4.274145104045247 diff=0.7690927688349758 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=82.64154351198998 y=21.1780714152292 theta=6.104912796445107 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=41.92828876454225 y=20.34272621778133 theta=0.9424777960769379 v=10.0 phi=0.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=3.1957097936409355
+Schl.towards(): th=6.104912796445107 a=6.2049609792001235 diff=0.10004818275501659 isClock=false phi=10.0
+-------------
+Schl.tryBallGrab(): d=7.936966178429939
+Roger.towards(): th=4.886158240200733 a=4.1095065267189295 diff=0.7766517134818036 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=82.83837381124965 y=21.142605469684955 theta=6.2619924291245965 v=2.0 phi=10.0 hasBall=false] def=[num=1 x=41.92828876454225 y=20.34272621778133 theta=0.7853981633974483 v=0.0 phi=-10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=2.3692949510879986
+Schl.towards(): th=6.2619924291245965 a=6.221201587643371 diff=0.04079084148122547 isClock=true phi=0.0
+-------------
+Schl.tryBallGrab(): d=7.625849406309289
+Roger.towards(): th=4.886158240200733 a=3.9443876679020864 diff=0.9417705722986467 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=83.8381492506146 y=21.12141417801577 theta=6.2619924291245965 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=42.6353955457288 y=21.049832998967876 theta=0.7853981633974483 v=10.0 phi=0.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=0.7548758116961384
+Schl.towards(): th=6.2619924291245965 a=6.204462713294653 diff=0.057529715829943484 isClock=true phi=0.0
+-------------
+Schl.tryBallGrab(): d=7.527573707038537
+Roger.towards(): th=4.886158240200733 a=3.77147746598814 diff=1.114680774212593 isClock=true phi=-10.0
+Schli.triesGrab(): p=0 p.tryG=true
+-------------
+Schli.move(): t=0 off=[num=0 x=84.83792468997956 y=21.100222886346582 theta=6.2619924291245965 v=10.0 phi=0.0 hasBall=true] def=[num=1 x=42.6353955457288 y=21.049832998967876 theta=0.6283185307179586 v=0.0 phi=-10.0 hasBall=false] isHeld=true heldby=0
+Schli.tryShot(): shotAngle=6.210748134315321
+-------------
+Schl.tryBallGrab(): d=6.071979600777956
+Roger.towards(): th=4.886158240200733 a=3.742333237987392 diff=1.1438250022133412 isClock=true phi=-10.0
+Schli.triesKick(): p=0 p.tryK=true
+-------------
+Schli.move(): t=0 off=[num=0 x=85.03787977785255 y=21.095984628012744 theta=6.2619924291245965 v=2.0 phi=0.0 hasBall=false] def=[num=1 x=42.6353955457288 y=21.049832998967876 theta=0.47123889803846897 v=0.0 phi=-10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=6.755833491600515
+Schl.towards(): th=6.2619924291245965 a=0.011829965606977572 diff=6.250162463517619 isClock=false phi=10.0
+-------------
+Schl.tryBallGrab(): d=2.4744836654592084
+Roger.towards(): th=5.043237872880223 a=5.030420153807995 diff=0.012817719072227618 isClock=true phi=0.0
+-------------
+Schli.move(): t=0 off=[num=0 x=85.23783486572555 y=21.091746369678905 theta=0.13588675462449995 v=2.0 phi=10.0 hasBall=false] def=[num=1 x=42.6353955457288 y=21.049832998967876 theta=0.3141592653589793 v=0.0 phi=-10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=7.248798013927684
+Schl.towards(): th=0.13588675462449995 a=0.1125945661632227 diff=0.023292188461277244 isClock=true phi=0.0
+-------------
+Schl.tryBallGrab(): d=1.2871838353258926
+Roger.towards(): th=3.7478853821259683 a=5.731781467804661 diff=1.9838960856786922 isClock=false phi=10.0
+Roger.triesGrab(): p=1 p.tryG=true
+-------------
+Schli.move(): t=0 off=[num=0 x=86.22861645877548 y=21.227215313992517 theta=3.3666643837753387 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=42.6353955457288 y=21.049832998967876 theta=0.15707963267948966 v=0.0 phi=-10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=3.9791844108377323
+Schl.towards(): th=3.3666643837753387 a=4.479727927390833 diff=1.1130635436154943 isClock=false phi=10.0
+-------------
+Schl.tryBallGrab(): d=6.988000000000008
+Roger.towards(): th=5.880771430773966 a=3.8707053695587166 diff=2.0100660612152494 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=86.03366083855539 y=21.18258005724854 theta=3.5237440164548284 v=2.0 phi=10.0 hasBall=false] def=[num=1 x=42.6353955457288 y=21.049832998967876 theta=0.0 v=0.0 phi=-10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=4.706602204636514
+Schl.towards(): th=3.5237440164548284 a=4.399131431116402 diff=0.8753874146615734 isClock=false phi=10.0
+-------------
+Schl.tryBallGrab(): d=8.437957941266415
+Roger.towards(): th=3.705050069787208 a=3.7632377850623717 diff=0.058187715275163754 isClock=false phi=0.0
+-------------
+Schli.move(): t=0 off=[num=0 x=85.84808793804119 y=21.107996556427327 theta=3.680823649134318 v=2.0 phi=10.0 hasBall=false] def=[num=1 x=42.6353955457288 y=21.049832998967876 theta=6.126105674500097 v=0.0 phi=-10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=5.421178554763695
+Schl.towards(): th=3.680823649134318 a=4.33776565642668 diff=0.6569420072923622 isClock=false phi=10.0
+-------------
+Schl.tryBallGrab(): d=8.39964274011934
+Roger.towards(): th=5.552944886619375 a=3.78247244824862 diff=1.7704724383707555 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=85.67646717792469 y=21.005301304847546 theta=3.8379032818138077 v=2.0 phi=10.0 hasBall=false] def=[num=1 x=43.62308388632393 y=20.893398533927645 theta=6.126105674500097 v=10.0 phi=0.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=6.120522397208404
+Schl.towards(): th=3.8379032818138077 a=4.287665462618995 diff=0.4497621808051875 isClock=false phi=10.0
+-------------
+Schl.tryBallGrab(): d=9.588270353686829
+Roger.towards(): th=2.8354007621104746 a=3.6888630376222236 diff=0.8534622755117489 isClock=false phi=10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=85.52302443089661 y=20.877023000429087 theta=3.9949829144932973 v=2.0 phi=10.0 hasBall=false] def=[num=1 x=43.62308388632393 y=20.893398533927645 theta=5.969026041820607 v=0.0 phi=-10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=6.806218344427946
+Schl.towards(): th=3.9949829144932973 a=4.24449539938448 diff=0.2495124848911825 isClock=false phi=10.0
+-------------
+Schl.tryBallGrab(): d=9.898572367444554
+Roger.towards(): th=0.3984792632738756 a=3.7823005007885504 diff=3.383821237514675 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=85.39153796663605 y=20.72632028075802 theta=4.152062547172787 v=2.0 phi=10.0 hasBall=false] def=[num=1 x=44.574140402619086 y=20.584381539552698 theta=5.969026041820607 v=10.0 phi=0.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=7.4819352295494195
+Schl.towards(): th=4.152062547172787 a=4.205796616671584 diff=0.05373406949879733 isClock=false phi=0.0
+-------------
+Schl.tryBallGrab(): d=11.794811619594396
+Roger.towards(): th=0.24139963059438596 a=3.7689099889262967 diff=3.5275103583319107 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=84.86007522481412 y=19.879238611699407 theta=4.152062547172787 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=44.574140402619086 y=20.584381539552698 theta=6.126105674500097 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=7.352598501969275
+Schl.towards(): th=4.152062547172787 a=4.172125519746375 diff=0.020062972573588134 isClock=false phi=0.0
+-------------
+Schl.tryBallGrab(): d=13.635467048514103
+Roger.towards(): th=0.0843199979148963 a=3.7481298951920756 diff=3.6638098972771793 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=84.3286124829922 y=19.032156942640793 theta=4.152062547172787 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=44.574140402619086 y=20.584381539552698 theta=6.283185307179586 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=7.220314856972368
+Schl.towards(): th=4.152062547172787 a=4.137727598533843 diff=0.014334948638944134 isClock=true phi=0.0
+-------------
+Schl.tryBallGrab(): d=15.404293768480573
+Roger.towards(): th=6.210425672414993 a=3.722921777768964 diff=2.487503894646029 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=83.79714974117027 y=18.18507527358218 theta=4.152062547172787 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=44.574140402619086 y=20.584381539552698 theta=0.15707963267948966 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=7.085207224237774
+Schl.towards(): th=4.152062547172787 a=4.102478153322069 diff=0.04958439385071767 isClock=true phi=0.0
+-------------
+Schl.tryBallGrab(): d=17.08683544435797
+Roger.towards(): th=6.053346039735503 a=3.6949964960214237 diff=2.3583495437140796 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=83.26568699934835 y=17.337993604523565 theta=4.152062547172787 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=44.574140402619086 y=20.584381539552698 theta=0.0 v=0.0 phi=-10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=6.947466731416535
+Schl.towards(): th=4.152062547172787 a=4.066240765472762 diff=0.08582178170002486 isClock=true phi=0.0
+-------------
+Schl.tryBallGrab(): d=18.67006963507035
+Roger.towards(): th=5.896266407056014 a=3.6654394434921977 diff=2.230826963563816 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=82.73422425752642 y=16.49091193546495 theta=4.152062547172787 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=44.574140402619086 y=20.584381539552698 theta=6.126105674500097 v=0.0 phi=-10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=6.807360228334804
+Schl.towards(): th=4.152062547172787 a=4.028866374878362 diff=0.12319617229442503 isClock=true phi=-10.0
+-------------
+Schl.tryBallGrab(): d=20.14232017273983
+Roger.towards(): th=5.739186774376524 a=3.634998766741575 diff=2.104188007634949 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=82.62793170916204 y=16.32149560165323 theta=3.9949829144932973 v=2.0 phi=-10.0 hasBall=false] def=[num=1 x=44.574140402619086 y=20.584381539552698 theta=5.969026041820607 v=0.0 phi=-10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=7.455896045042726
+Schl.towards(): th=3.9949829144932973 a=4.007485821583349 diff=0.01250290709005153 isClock=false phi=0.0
+-------------
+Schl.tryBallGrab(): d=21.493280449682164
+Roger.towards(): th=3.842670819072345 a=3.604231473707798 diff=0.23843934536454725 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=81.97049938785923 y=15.567982003297894 theta=3.9949829144932973 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=44.574140402619086 y=20.584381539552698 theta=5.811946409141117 v=0.0 phi=-10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=7.292812837124676
+Schl.towards(): th=3.9949829144932973 a=3.993419387349128 diff=0.0015635271441691856 isClock=true phi=0.0
+-------------
+Schl.tryBallGrab(): d=21.335788616006063
+Roger.towards(): th=3.6855911863928554 a=3.60357836031097 diff=0.08201282608188531 isClock=true phi=0.0
+-------------
+Schli.move(): t=0 off=[num=0 x=81.31306706655643 y=14.81446840494256 theta=3.9949829144932973 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=44.574140402619086 y=20.584381539552698 theta=5.654866776461628 v=0.0 phi=-10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=7.119308489706287
+Schl.towards(): th=3.9949829144932973 a=3.9788942162628524 diff=0.016088698230444898 isClock=true phi=0.0
+-------------
+Schl.tryBallGrab(): d=21.142089831853003
+Roger.towards(): th=3.528511553713366 a=3.6100912438108836 diff=0.08157969009751787 isClock=false phi=0.0
+-------------
+Schli.move(): t=0 off=[num=0 x=80.65563474525362 y=14.060954806587224 theta=3.9949829144932973 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=44.574140402619086 y=20.584381539552698 theta=5.497787143782138 v=0.0 phi=-10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=6.9354328931853635
+Schl.towards(): th=3.9949829144932973 a=3.9638073622355314 diff=0.031175552257765915 isClock=true phi=0.0
+-------------
+Schl.tryBallGrab(): d=20.939772733190754
+Roger.towards(): th=3.528511553713366 a=3.6240737949188513 diff=0.09556224120548551 isClock=false phi=0.0
+-------------
+Schli.move(): t=0 off=[num=0 x=79.99820242395081 y=13.30744120823189 theta=3.9949829144932973 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=44.574140402619086 y=20.584381539552698 theta=5.340707511102648 v=0.0 phi=-10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=6.7412574426974565
+Schl.towards(): th=3.9949829144932973 a=3.9480398755344313 diff=0.04694303895886609 isClock=true phi=0.0
+-------------
+Schl.tryBallGrab(): d=20.729951729382424
+Roger.towards(): th=3.528511553713366 a=3.638193016279469 diff=0.10968146256610334 isClock=false phi=10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=79.34077010264801 y=12.553927609876554 theta=3.9949829144932973 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=44.574140402619086 y=20.584381539552698 theta=5.183627878423159 v=0.0 phi=-10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=6.53687919031062
+Schl.towards(): th=3.9949829144932973 a=3.931452801761621 diff=0.06353011273167652 isClock=true phi=0.0
+-------------
+Schl.tryBallGrab(): d=20.51263175970921
+Roger.towards(): th=3.528511553713366 a=3.6524714542091554 diff=0.12395990049578964 isClock=false phi=10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=78.6833377813452 y=11.80041401152122 theta=3.9949829144932973 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=44.574140402619086 y=20.584381539552698 theta=5.026548245743669 v=0.0 phi=-10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=6.322426356583901
+Schl.towards(): th=3.9949829144932973 a=3.9138820471100675 diff=0.08110086738322986 isClock=true phi=0.0
+-------------
+Schl.tryBallGrab(): d=20.2878309494915
+Roger.towards(): th=3.6855911863928554 a=3.6669330016089443 diff=0.018658184783911125 isClock=true phi=0.0
+-------------
+Schli.move(): t=0 off=[num=0 x=78.0259054600424 y=11.046900413165885 theta=3.9949829144932973 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=44.574140402619086 y=20.584381539552698 theta=4.869468613064179 v=0.0 phi=-10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=6.098065682200318
+Schl.towards(): th=3.9949829144932973 a=3.895131719210253 diff=0.09985119528304454 isClock=true phi=0.0
+-------------
+Schl.tryBallGrab(): d=20.044504529951006
+Roger.towards(): th=3.6855911863928554 a=3.6737962203759587 diff=0.01179496601689678 isClock=true phi=0.0
+-------------
+Schli.move(): t=0 off=[num=0 x=77.36847313873959 y=10.29338681481055 theta=3.9949829144932973 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=44.574140402619086 y=20.584381539552698 theta=4.71238898038469 v=0.0 phi=-10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=5.864012307055322
+Schl.towards(): th=3.9949829144932973 a=3.8749653991196267 diff=0.12001751537367067 isClock=true phi=-10.0
+-------------
+Schl.tryBallGrab(): d=19.79036126108407
+Roger.towards(): th=6.035546897387175 a=3.680713332653875 diff=2.3548335647333003 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=77.23698667447903 y=10.142684095139483 theta=3.8379032818138077 v=2.0 phi=-10.0 hasBall=false] def=[num=1 x=44.574140402619086 y=20.584381539552698 theta=4.5553093477052 v=0.0 phi=-10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=6.413501604277664
+Schl.towards(): th=3.8379032818138077 a=3.870734871957106 diff=0.032831590143298506 isClock=false phi=0.0
+-------------
+Schl.tryBallGrab(): d=21.23861008270496
+Roger.towards(): th=5.878467264707686 a=3.6540225490465557 diff=2.22444471566113 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=76.4697729393386 y=9.501292573047193 theta=3.8379032818138077 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=44.574140402619086 y=20.584381539552698 theta=4.39822971502571 v=0.0 phi=-10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=6.150127998890049
+Schl.towards(): th=3.8379032818138077 a=3.8760687664682916 diff=0.03816548465448388 isClock=false phi=0.0
+-------------
+Schl.tryBallGrab(): d=22.57443695440749
+Roger.towards(): th=5.721387632028196 a=3.625861445856196 diff=2.095526186172 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=75.70255920419817 y=8.859901050954903 theta=3.8379032818138077 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=44.574140402619086 y=20.584381539552698 theta=4.241150082346221 v=0.0 phi=-10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=5.87494577114543
+Schl.towards(): th=3.8379032818138077 a=3.8819025792369883 diff=0.04399929742318065 isClock=false phi=0.0
+-------------
+Schl.tryBallGrab(): d=23.78783111417228
+Roger.towards(): th=5.564307999348706 a=3.5968527090186138 diff=1.9674552903300926 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=74.93534546905774 y=8.218509528862613 theta=3.8379032818138077 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=44.574140402619086 y=20.584381539552698 theta=4.084070449666731 v=0.0 phi=-10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=5.5879849972847415
+Schl.towards(): th=3.8379032818138077 a=3.8883473182191604 diff=0.050444036405352666 isClock=false phi=0.0
+-------------
+Schl.tryBallGrab(): d=24.87034815972348
+Roger.towards(): th=5.407228366669217 a=3.5675042413881837 diff=1.839724125281033 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=74.1681317339173 y=7.577118006770323 theta=3.8379032818138077 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=44.574140402619086 y=20.584381539552698 theta=3.9269908169872414 v=0.0 phi=-10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=5.289285133075466
+Schl.towards(): th=3.8379032818138077 a=3.8955456919474782 diff=0.05764241013367055 isClock=false phi=0.0
+-------------
+Schl.tryBallGrab(): d=25.815160413082975
+Roger.towards(): th=5.250148733989727 a=3.5382516539020363 diff=1.7118970800876907 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=73.40091799877688 y=6.9357264846780335 theta=3.8379032818138077 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=44.574140402619086 y=20.584381539552698 theta=3.7699111843077517 v=0.0 phi=-10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=4.97889864824374
+Schl.towards(): th=3.8379032818138077 a=3.9036845516571774 diff=0.06578126984336974 isClock=false phi=0.0
+-------------
+Schl.tryBallGrab(): d=26.61713229101746
+Roger.towards(): th=5.093069101310237 a=3.5094871212345087 diff=1.5835819800757287 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=72.63370426363645 y=6.294334962585744 theta=3.8379032818138077 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=44.574140402619086 y=20.584381539552698 theta=3.612831551628262 v=0.0 phi=-10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=4.656896519111468
+Schl.towards(): th=3.8379032818138077 a=3.9130136365628676 diff=0.07511035474905992 isClock=false phi=0.0
+-------------
+Schl.tryBallGrab(): d=27.272912770338348
+Roger.towards(): th=4.935989468630748 a=3.4815799772164775 diff=1.4544094914142702 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=71.86649052849602 y=5.652943440493454 theta=3.8379032818138077 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=44.574140402619086 y=20.584381539552698 theta=3.4557519189487724 v=0.0 phi=-10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=4.323376783020782
+Schl.towards(): th=3.8379032818138077 a=3.923874675922576 diff=0.08597139410876853 isClock=false phi=0.0
+-------------
+Schl.tryBallGrab(): d=27.7810414662501
+Roger.towards(): th=4.778909835951258 a=3.454892179251174 diff=1.324017656700084 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=71.09927679335559 y=5.011551918401164 theta=3.8379032818138077 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=44.574140402619086 y=20.584381539552698 theta=3.2986722862692828 v=0.0 phi=-10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=3.9784783363162353
+Schl.towards(): th=3.8379032818138077 a=3.9367481625739957 diff=0.09884488076018805 isClock=false phi=0.0
+-------------
+Schl.tryBallGrab(): d=28.142067468160295
+Roger.towards(): th=4.621830203271768 a=3.429790483946628 diff=1.1920397193251402 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=70.33206305821516 y=4.370160396308874 theta=3.8379032818138077 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=44.574140402619086 y=20.584381539552698 theta=3.141592653589793 v=0.0 phi=-10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=3.62240412595537
+Schl.towards(): th=3.8379032818138077 a=3.95233163043073 diff=0.11442834861692219 isClock=false phi=10.0
+-------------
+Schl.tryBallGrab(): d=28.358681661201153
+Roger.towards(): th=4.464750570592279 a=3.406656378410804 diff=1.0580941921814748 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=70.17862031118707 y=4.241882091890416 theta=3.9949829144932973 v=2.0 phi=10.0 hasBall=false] def=[num=1 x=44.574140402619086 y=20.584381539552698 theta=2.9845130209103035 v=0.0 phi=-10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=4.049720473631084
+Schl.towards(): th=3.9949829144932973 a=3.9453264902477083 diff=0.049656424245589026 isClock=true phi=0.0
+-------------
+Schl.tryBallGrab(): d=28.435864075007434
+Roger.towards(): th=4.307670937912789 a=3.3858942505480787 diff=0.9217766873647104 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=69.52118798988427 y=3.4883684935350807 theta=3.9949829144932973 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=44.574140402619086 y=20.584381539552698 theta=2.827433388230814 v=0.0 phi=-10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=3.6664843629288058
+Schl.towards(): th=3.9949829144932973 a=3.919260429309225 diff=0.07572248518407232 isClock=true phi=0.0
+-------------
+Schl.tryBallGrab(): d=28.381047794410566
+Roger.towards(): th=4.150591305233299 a=3.367937806695889 diff=0.7826534985374103 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=68.86375566858146 y=2.734854895179746 theta=2.288202392686289 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=44.574140402619086 y=20.584381539552698 theta=2.670353755551324 v=0.0 phi=-10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=2.7916749666932072
+Schl.towards(): th=2.288202392686289 a=3.6737897977329297 diff=1.3855874050466408 isClock=false phi=10.0
+-------------
+Schl.tryBallGrab(): d=28.046266954100815
+Roger.towards(): th=3.99351167255381 a=3.3251962364953753 diff=0.6683154360584345 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=68.7322692043209 y=2.885557614850813 theta=2.4452820253657785 v=2.0 phi=10.0 hasBall=false] def=[num=1 x=44.574140402619086 y=20.584381539552698 theta=2.5132741228718345 v=0.0 phi=-10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=2.9580414821235457
+Schl.towards(): th=2.4452820253657785 a=3.5493003339919333 diff=1.1040183086261548 isClock=false phi=10.0
+-------------
+Schl.tryBallGrab(): d=27.64488643295657
+Roger.towards(): th=3.83643203987432 a=3.2858284775655164 diff=0.5506035623088037 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=68.57882645729282 y=3.0138359192692707 theta=2.602361658045268 v=2.0 phi=10.0 hasBall=false] def=[num=1 x=44.574140402619086 y=20.584381539552698 theta=2.356194490192345 v=0.0 phi=-10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=3.131275025078397
+Schl.towards(): th=2.602361658045268 a=3.4380523069318873 diff=0.8356906488866191 isClock=false phi=10.0
+-------------
+Schl.tryBallGrab(): d=27.182423243739304
+Roger.towards(): th=3.6793524071948305 a=3.2502184479866716 diff=0.4291339592081589 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=68.40720569717632 y=3.1165311708490533 theta=2.759441290724758 v=2.0 phi=10.0 hasBall=false] def=[num=1 x=44.574140402619086 y=20.584381539552698 theta=2.199114857512855 v=0.0 phi=-10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=3.308947937099384
+Schl.towards(): th=2.759441290724758 a=3.3359409313104567 diff=0.5764996405856988 isClock=false phi=10.0
+-------------
+Schl.tryBallGrab(): d=26.666347453007567
+Roger.towards(): th=3.522272774515341 a=3.218781058071688 diff=0.303491716443653 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=68.22163279666212 y=3.1911146716702663 theta=2.9165209234042475 v=2.0 phi=10.0 hasBall=false] def=[num=1 x=44.574140402619086 y=20.584381539552698 theta=2.0420352248333655 v=0.0 phi=-10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=3.4926306456254435
+Schl.towards(): th=2.9165209234042475 a=3.2400210871171087 diff=0.32350016371286117 isClock=false phi=10.0
+-------------
+Schl.tryBallGrab(): d=26.10628679065439
+Roger.towards(): th=3.365193141835851 a=3.191959126857089 diff=0.17323401497876212 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=68.02667717644204 y=3.235749928414244 theta=3.073600556083737 v=2.0 phi=10.0 hasBall=false] def=[num=1 x=44.574140402619086 y=20.584381539552698 theta=1.8849555921538759 v=0.0 phi=-10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=3.686554465812007
+Schl.towards(): th=3.073600556083737 a=3.1484927401917933 diff=0.07489218410805609 isClock=false phi=0.0
+-------------
+Schl.tryBallGrab(): d=25.51422212665567
+Roger.towards(): th=3.2081135091563615 a=3.1702145835011764 diff=0.037898925655185156 isClock=true phi=0.0
+-------------
+Schli.move(): t=0 off=[num=0 x=67.02898774876428 y=3.3036896509631513 theta=3.073600556083737 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=44.574140402619086 y=20.584381539552698 theta=2.0420352248333655 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=3.096547668605058
+Schl.towards(): th=3.073600556083737 a=3.057190307701835 diff=0.016410248381902193 isClock=true phi=0.0
+-------------
+Schl.tryBallGrab(): d=24.904651514675244
+Roger.towards(): th=3.051033876476872 a=3.1540112155839513 diff=0.1029773391070794 isClock=false phi=10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=66.03129832108652 y=3.3716293735120586 theta=3.073600556083737 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=44.574140402619086 y=20.584381539552698 theta=2.199114857512855 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=2.5337439357017284
+Schl.towards(): th=3.073600556083737 a=2.927010151112413 diff=0.14659040497132425 isClock=true phi=-10.0
+-------------
+Schl.tryBallGrab(): d=24.294685420707673
+Roger.towards(): th=2.893954243797382 a=3.143785678210113 diff=0.2498314344127306 isClock=false phi=10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=65.83176043555098 y=3.38521731802184 theta=2.9165209234042475 v=2.0 phi=-10.0 hasBall=false] def=[num=1 x=44.574140402619086 y=20.584381539552698 theta=2.356194490192345 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=2.792111003575654
+Schl.towards(): th=2.9165209234042475 a=2.8268419845065393 diff=0.08967893889770817 isClock=true phi=0.0
+-------------
+Schl.tryBallGrab(): d=23.704015862985873
+Roger.towards(): th=2.7368746111178925 a=3.1399034933031253 diff=0.4030288821852328 isClock=false phi=10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=64.85698233445054 y=3.608393601741729 theta=2.9165209234042475 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=44.574140402619086 y=20.584381539552698 theta=2.5132741228718345 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=2.2686697200513546
+Schl.towards(): th=2.9165209234042475 a=2.6989957682249752 diff=0.2175251551792723 isClock=true phi=-10.0
+-------------
+Schl.tryBallGrab(): d=23.154680135006
+Roger.towards(): th=2.579794978438403 a=3.1425980863841403 diff=0.5628031079457374 isClock=false phi=10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=64.66202671423045 y=3.6530288584857065 theta=2.759441290724758 v=2.0 phi=-10.0 hasBall=false] def=[num=1 x=44.574140402619086 y=20.584381539552698 theta=2.670353755551324 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=2.5440243280919
+Schl.towards(): th=2.759441290724758 a=2.628203497277404 diff=0.13123779344735365 isClock=true phi=-10.0
+-------------
+Schl.tryBallGrab(): d=22.670523220742496
+Roger.towards(): th=2.4227153457589132 a=3.15189450076098 diff=0.729179155002067 isClock=false phi=10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=64.47645381371625 y=3.7276123593069195 theta=2.602361658045268 v=2.0 phi=-10.0 hasBall=false] def=[num=1 x=44.574140402619086 y=20.584381539552698 theta=2.827433388230814 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=2.8096851099800504
+Schl.towards(): th=2.602361658045268 a=2.5829139409899913 diff=0.019447717055276925 isClock=true phi=0.0
+-------------
+Schl.tryBallGrab(): d=22.27626658516293
+Roger.towards(): th=2.2656357130794236 a=3.1675260310852624 diff=0.9018903180058389 isClock=false phi=10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=63.61835001313375 y=4.241088617205833 theta=2.602361658045268 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=44.574140402619086 y=20.584381539552698 theta=2.9845130209103035 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=2.2653071672450413
+Schl.towards(): th=2.602361658045268 a=2.5398746450208334 diff=0.06248701302443482 isClock=true phi=0.0
+-------------
+Schl.tryBallGrab(): d=21.996134786055023
+Roger.towards(): th=2.108556080399934 a=3.188861048662689 diff=1.0803049682627552 isClock=false phi=10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=62.76024621255125 y=4.754564875104745 theta=2.602361658045268 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=44.574140402619086 y=20.584381539552698 theta=3.141592653589793 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=1.7157854379227067
+Schl.towards(): th=2.602361658045268 a=2.4702497225888442 diff=0.13211193545642397 isClock=true phi=-10.0
+-------------
+Schl.tryBallGrab(): d=21.852090893643876
+Roger.towards(): th=1.9514764477204443 a=3.214865471282256 diff=1.2633890235618117 isClock=false phi=10.0
+Schli.triesGrab(): p=0 p.tryG=true
+-------------
+Schli.move(): t=0 off=[num=0 x=62.588625452434755 y=4.857260126684528 theta=2.4452820253657785 v=2.0 phi=-10.0 hasBall=true] def=[num=1 x=44.574140402619086 y=20.584381539552698 theta=3.2986722862692828 v=0.0 phi=10.0 hasBall=false] isHeld=true heldby=0
+Schli.tryShot(): shotAngle=0.3846056484726853
+-------------
+Schl.tryBallGrab(): d=21.94549806833417
+Roger.towards(): th=1.9514764477204443 a=3.258900342960913 diff=1.3074238952404689 isClock=false phi=10.0
+Schli.triesKick(): p=0 p.tryK=false
+-------------
+Schli.move(): t=0 off=[num=0 x=62.43518270540667 y=4.985538431102986 theta=2.288202392686289 v=2.0 phi=-10.0 hasBall=true] def=[num=1 x=44.574140402619086 y=20.584381539552698 theta=3.4557519189487724 v=0.0 phi=10.0 hasBall=false] isHeld=true heldby=0
+Schli.tryShot(): shotAngle=0.3802432329699873
+-------------
+Schl.tryBallGrab(): d=21.706643774386773
+Roger.towards(): th=1.9514764477204443 a=3.3033952989803104 diff=1.351918851259866 isClock=false phi=10.0
+Schli.triesKick(): p=0 p.tryK=false
+-------------
+Schli.move(): t=0 off=[num=0 x=62.303696241146106 y=5.136241150774053 theta=2.1311227600067992 v=2.0 phi=-10.0 hasBall=true] def=[num=1 x=44.574140402619086 y=20.584381539552698 theta=3.612831551628262 v=0.0 phi=10.0 hasBall=false] isHeld=true heldby=0
+Schli.tryShot(): shotAngle=0.3755853865752648
+-------------
+Schl.tryBallGrab(): d=21.511668518015735
+Roger.towards(): th=1.9514764477204443 a=3.348788203219141 diff=1.3973117554986967 isClock=false phi=10.0
+Schli.triesKick(): p=0 p.tryK=false
+-------------
+Schli.move(): t=0 off=[num=0 x=62.19740369278172 y=5.305657484585775 theta=1.9740431273273096 v=2.0 phi=-10.0 hasBall=true] def=[num=1 x=44.574140402619086 y=20.584381539552698 theta=3.7699111843077517 v=0.0 phi=10.0 hasBall=false] isHeld=true heldby=0
+Schli.tryShot(): shotAngle=0.37073808087242743
+-------------
+Schl.tryBallGrab(): d=21.36177382404969
+Roger.towards(): th=1.9514764477204443 a=3.394914458170124 diff=1.4434380104496798 isClock=false phi=10.0
+Schli.triesKick(): p=0 p.tryK=false
+-------------
+Schli.move(): t=0 off=[num=0 x=62.11892233561899 y=5.489615840139133 theta=1.81696349464782 v=2.0 phi=-10.0 hasBall=true] def=[num=1 x=44.574140402619086 y=20.584381539552698 theta=3.9269908169872414 v=0.0 phi=10.0 hasBall=false] isHeld=true heldby=0
+Schli.tryShot(): shotAngle=0.36581031934026115
+-------------
+Schl.tryBallGrab(): d=21.25791333576087
+Roger.towards(): th=1.9514764477204443 a=3.4415917189426377 diff=1.4901152712221934 isClock=false phi=10.0
+Schli.triesKick(): p=0 p.tryK=false
+-------------
+Schli.move(): t=0 off=[num=0 x=62.070184641135945 y=5.683586552197623 theta=1.6598838619683303 v=2.0 phi=-10.0 hasBall=true] def=[num=1 x=43.86703362143254 y=19.877274758366152 theta=3.9269908169872414 v=10.0 phi=0.0 hasBall=false] isHeld=true heldby=0
+Schli.tryShot(): shotAngle=0.36091237517567887
+-------------
+Schl.tryBallGrab(): d=21.20076361529426
+Roger.towards(): th=1.9514764477204443 a=3.4886237330182244 diff=1.53714728529778 isClock=false phi=10.0
+Schli.triesKick(): p=0 p.tryK=false
+-------------
+Schli.move(): t=0 off=[num=0 x=62.0523906931219 y=5.882793418078479 theta=1.5028042292888406 v=2.0 phi=-10.0 hasBall=true] def=[num=1 x=43.159926840245994 y=19.170167977179606 theta=3.9269908169872414 v=10.0 phi=0.0 hasBall=false] isHeld=true heldby=0
+Schli.tryShot(): shotAngle=0.3561540522464855
+-------------
+Schl.tryBallGrab(): d=21.190702592232526
+Roger.towards(): th=2.108556080399934 a=3.535805029571562 diff=1.427248949171628 isClock=false phi=10.0
+Schli.triesKick(): p=0 p.tryK=false
+-------------
+Schli.move(): t=0 off=[num=0 x=62.06597863763168 y=6.082331303614031 theta=1.345724596609351 v=2.0 phi=-10.0 hasBall=true] def=[num=1 x=43.159926840245994 y=19.170167977179606 theta=3.7699111843077517 v=0.0 phi=-10.0 hasBall=false] isHeld=true heldby=0
+Schli.tryShot(): shotAngle=0.35164293739346425
+-------------
+Schl.tryBallGrab(): d=21.070904316131596
+Roger.towards(): th=2.2656357130794236 a=3.582793000624936 diff=1.3171572875455126 isClock=false phi=10.0
+Schli.triesKick(): p=0 p.tryK=false
+-------------
+Schli.move(): t=0 off=[num=0 x=62.11061389437566 y=6.277286923834119 theta=1.1886449639298613 v=2.0 phi=-10.0 hasBall=true] def=[num=1 x=43.159926840245994 y=19.170167977179606 theta=3.612831551628262 v=0.0 phi=-10.0 hasBall=false] isHeld=true heldby=0
+Schli.tryShot(): shotAngle=0.3474826134664312
+-------------
+Schl.tryBallGrab(): d=20.842467212814825
+Roger.towards(): th=2.4227153457589132 a=3.6292536248813834 diff=1.2065382791224701 isClock=false phi=10.0
+Schli.triesKick(): p=0 p.tryK=false
+-------------
+Schli.move(): t=0 off=[num=0 x=62.18519739519687 y=6.462859824348316 theta=1.0315653312503716 v=2.0 phi=-10.0 hasBall=true] def=[num=1 x=42.268920316057624 y=18.71617747744006 theta=3.612831551628262 v=10.0 phi=0.0 hasBall=false] isHeld=true heldby=0
+Schli.tryShot(): shotAngle=0.34377080799239496
+-------------
+Schl.tryBallGrab(): d=20.507509026572595
+Roger.towards(): th=2.579794978438403 a=3.6748326342175535 diff=1.0950376557791506 isClock=false phi=10.0
+Schli.triesKick(): p=0 p.tryK=false
+-------------
+Schli.move(): t=0 off=[num=0 x=62.287892646776655 y=6.634480584464815 theta=0.874485698570882 v=2.0 phi=-10.0 hasBall=true] def=[num=1 x=42.268920316057624 y=18.71617747744006 theta=3.4557519189487724 v=0.0 phi=-10.0 hasBall=false] isHeld=true heldby=0
+Schli.tryShot(): shotAngle=0.34059746235613664
+-------------
+Schl.tryBallGrab(): d=20.069193186846793
+Roger.towards(): th=2.7368746111178925 a=3.7191411634347187 diff=0.9822665523168261 isClock=false phi=10.0
+Schli.triesKick(): p=0 p.tryK=false
+-------------
+Schli.move(): t=0 off=[num=0 x=62.41617095119511 y=6.787923331492902 theta=0.7174060658913923 v=2.0 phi=-10.0 hasBall=true] def=[num=1 x=42.268920316057624 y=18.71617747744006 theta=3.2986722862692828 v=0.0 phi=-10.0 hasBall=false] isHeld=true heldby=0
+Schli.tryShot(): shotAngle=0.3380427209450083
+-------------
+Schl.tryBallGrab(): d=19.531772614333423
+Roger.towards(): th=2.893954243797382 a=3.761738902685368 diff=0.8677846588879858 isClock=false phi=10.0
+Schli.triesKick(): p=0 p.tryK=false
+-------------
+Schli.move(): t=0 off=[num=0 x=62.56687367086618 y=6.919409795753463 theta=0.5603264332119027 v=2.0 phi=-10.0 hasBall=true] def=[num=1 x=42.268920316057624 y=18.71617747744006 theta=3.141592653589793 v=0.0 phi=-10.0 hasBall=false] isHeld=true heldby=0
+Schli.tryShot(): shotAngle=0.3361748588344179
+-------------
+Schl.tryBallGrab(): d=18.90065734330582
+Roger.towards(): th=3.051033876476872 a=3.802113469822303 diff=0.7510795933454313 isClock=false phi=10.0
+Schli.triesKick(): p=0 p.tryK=false
+-------------
+Schli.move(): t=0 off=[num=0 x=62.736290004677905 y=7.025702344117847 theta=0.403246800532413 v=2.0 phi=-10.0 hasBall=true] def=[num=1 x=41.268920316057624 y=18.71617747744006 theta=3.141592653589793 v=10.0 phi=0.0 hasBall=false] isHeld=true heldby=0
+Schli.tryShot(): shotAngle=0.3350481898582704
+-------------
+Schl.tryBallGrab(): d=18.18251579533208
+Roger.towards(): th=3.2081135091563615 a=3.8396544029147743 diff=0.6315408937584128 isClock=false phi=10.0
+Schli.triesKick(): p=0 p.tryK=true
+-------------
+Schli.move(): t=0 off=[num=0 x=62.92024836023126 y=7.10418370128058 theta=0.403246800532413 v=2.0 phi=0.0 hasBall=false] def=[num=1 x=40.268920316057624 y=18.71617747744006 theta=3.141592653589793 v=10.0 phi=0.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=6.78964922706463
+Schl.towards(): th=0.403246800532413 a=0.5336314008373019 diff=0.13038460030488885 isClock=false phi=10.0
+-------------
+Schl.tryBallGrab(): d=8.601079586167774
+Roger.towards(): th=3.365193141835851 a=4.061728125493366 diff=0.6965349836575152 isClock=false phi=10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=63.10420671578462 y=7.182665058443313 theta=0.5603264332119027 v=2.0 phi=10.0 hasBall=false] def=[num=1 x=39.268920316057624 y=18.71617747744006 theta=3.141592653589793 v=10.0 phi=0.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=7.567373145286227
+Schl.towards(): th=0.5603264332119027 a=0.5365876881865059 diff=0.023738745025396746 isClock=true phi=0.0
+-------------
+Schl.tryBallGrab(): d=7.004989947695971
+Roger.towards(): th=3.522272774515341 a=4.2068237449177595 diff=0.6845509704024186 isClock=false phi=10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=63.95128838484323 y=7.714127800265234 theta=0.5603264332119027 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=38.268920316057624 y=18.71617747744006 theta=3.141592653589793 v=10.0 phi=0.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=7.531693845638312
+Schl.towards(): th=0.5603264332119027 a=0.5325814758123184 diff=0.02774495739958427 isClock=true phi=0.0
+-------------
+Schl.tryBallGrab(): d=5.5168764368800085
+Roger.towards(): th=3.6793524071948305 a=4.41201316839614 diff=0.7326607612013092 isClock=false phi=10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=64.79837005390185 y=8.245590542087156 theta=0.5603264332119027 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=38.268920316057624 y=18.71617747744006 theta=3.2986722862692828 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=7.484136588612224
+Schl.towards(): th=0.5603264332119027 a=0.5285349901722622 diff=0.03179144303964043 isClock=true phi=0.0
+-------------
+Schl.tryBallGrab(): d=4.276721995838698
+Roger.towards(): th=3.83643203987432 a=4.723604526580997 diff=0.8871724867066773 isClock=false phi=10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=65.64545172296046 y=8.777053283909076 theta=0.5603264332119027 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=37.28123197546249 y=18.559743012399828 theta=3.2986722862692828 v=10.0 phi=0.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=7.424703623390412
+Schl.towards(): th=0.5603264332119027 a=0.5244279714110684 diff=0.035898461800834225 isClock=true phi=0.0
+-------------
+Schl.tryBallGrab(): d=3.5552923330510473
+Roger.towards(): th=3.99351167255381 a=5.187778277252738 diff=1.194266604698928 isClock=false phi=10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=66.49253339201907 y=9.308516025730997 theta=0.5603264332119027 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=37.28123197546249 y=18.559743012399828 theta=3.4557519189487724 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=7.2650840225227915
+Schl.towards(): th=0.5603264332119027 a=0.5766948274112298 diff=0.01636839419932712 isClock=false phi=0.0
+-------------
+Schl.tryBallGrab(): d=3.238168936765234
+Roger.towards(): th=4.150591305233299 a=5.754472915294352 diff=1.6038816100610527 isClock=false phi=10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=67.33961506107768 y=9.839978767552918 theta=4.87059454729395 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=37.28123197546249 y=18.559743012399828 theta=3.612831551628262 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=6.723330334889378
+Schl.towards(): th=4.87059454729395 a=0.7016017955221105 diff=4.16899275177184 isClock=false phi=10.0
+-------------
+Schl.tryBallGrab(): d=3.2233856012520095
+Roger.towards(): th=1.1232500425930638 a=0.03802661333314697 diff=1.0852234292599168 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=67.37112434862931 y=9.64247645162222 theta=5.02767417997344 v=2.0 phi=10.0 hasBall=false] def=[num=1 x=36.39022545127412 y=18.10575251266028 theta=3.612831551628262 v=10.0 phi=0.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=7.383242105994839
+Schl.towards(): th=5.02767417997344 a=0.8272804120798201 diff=4.20039376789362 isClock=false phi=10.0
+-------------
+Schl.tryBallGrab(): d=2.6846657874336937
+Roger.towards(): th=0.9661704099135742 a=0.04425310153605178 diff=0.9219173083775224 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=67.43314187370133 y=9.45233485547887 theta=5.18475381265293 v=2.0 phi=10.0 hasBall=false] def=[num=1 x=35.49921892708575 y=17.651762012920734 theta=3.612831551628262 v=10.0 phi=0.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=8.107097888594073
+Schl.towards(): th=5.18475381265293 a=0.9324595444609624 diff=4.252294268191967 isClock=false phi=10.0
+-------------
+Schl.tryBallGrab(): d=2.016946797196415
+Roger.towards(): th=0.8090907772340845 a=0.09029219050342431 diff=0.7187985867306602 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=67.52414055900212 y=9.274235896263695 theta=5.341833445332419 v=2.0 phi=10.0 hasBall=false] def=[num=1 x=35.49921892708575 y=17.651762012920734 theta=3.4557519189487724 v=0.0 phi=-10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=8.870709629298048
+Schl.towards(): th=5.341833445332419 a=1.0208422626643283 diff=4.320991182668091 isClock=false phi=10.0
+-------------
+Schl.tryBallGrab(): d=1.2596985535031053
+Roger.towards(): th=0.6520111445545949 a=0.26679333562404967 diff=0.3852178089305452 isClock=true phi=-10.0
+Roger.triesGrab(): p=1 p.tryG=true
+-------------
+Schli.move(): t=0 off=[num=0 x=67.64187971489224 y=9.11256496142913 theta=5.498913078011909 v=2.0 phi=10.0 hasBall=false] def=[num=1 x=35.49921892708575 y=17.651762012920734 theta=3.2986722862692828 v=0.0 phi=-10.0 hasBall=false] isHeld=true heldby=1
+Schl.tryBallGrab(): d=9.899657376226505
+Schl.towards(): th=5.498913078011909 a=1.0537997503629206 diff=4.445113327648988 isClock=false phi=10.0
+-------------
+Schl.facing(): th=0.4949315118751052 a1=2.9638352552640823 a2=3.2404002160576453 isB=false
+Roger.triesKick(): p=1 p.tryK=false
+-------------
+Schli.move(): t=0 off=[num=0 x=67.78346021259982 y=8.971302925945874 theta=5.6559927106913985 v=2.0 phi=10.0 hasBall=false] def=[num=1 x=35.49921892708575 y=17.651762012920734 theta=3.141592653589793 v=0.0 phi=-10.0 hasBall=false] isHeld=true heldby=1
+Schl.tryBallGrab(): d=9.954347542307081
+Schl.towards(): th=5.6559927106913985 a=1.0731793100690903 diff=4.5828134006223085 isClock=false phi=10.0
+-------------
+Schl.facing(): th=0.33785187919561555 a1=2.9722928317693644 a2=3.245684682663775 isB=false
+Roger.triesKick(): p=1 p.tryK=false
+-------------
+Schli.move(): t=0 off=[num=0 x=67.94539587039257 y=8.853928129949342 theta=5.813072343370888 v=2.0 phi=10.0 hasBall=false] def=[num=1 x=35.49921892708575 y=17.651762012920734 theta=2.9845130209103035 v=0.0 phi=-10.0 hasBall=false] isHeld=true heldby=1
+Schl.tryBallGrab(): d=9.982160517612636
+Schl.towards(): th=5.813072343370888 a=1.0930483969305722 diff=4.720023946440316 isClock=false phi=10.0
+-------------
+Schl.facing(): th=0.1807722465161259 a1=2.9788079002217596 a2=3.248815400223272 isB=false
+Roger.triesKick(): p=1 p.tryK=false
+-------------
+Schli.move(): t=0 off=[num=0 x=68.123699294942 y=8.76333073046158 theta=5.970151976050378 v=2.0 phi=10.0 hasBall=false] def=[num=1 x=35.49921892708575 y=17.651762012920734 theta=2.827433388230814 v=0.0 phi=-10.0 hasBall=false] isHeld=true heldby=1
+Schl.tryBallGrab(): d=9.982637102132756
+Schl.towards(): th=5.970151976050378 a=1.113083939614706 diff=4.857068036435672 isClock=false phi=10.0
+-------------
+Schl.facing(): th=0.023692613836636234 a1=2.983269854157579 a2=3.2497953614751007 isB=false
+Roger.triesKick(): p=1 p.tryK=false
+-------------
+Schli.move(): t=0 off=[num=0 x=68.31398006418057 y=8.701741536133511 theta=6.1272316087298675 v=2.0 phi=10.0 hasBall=false] def=[num=1 x=35.49921892708575 y=17.651762012920734 theta=2.670353755551324 v=0.0 phi=-10.0 hasBall=false] isHeld=true heldby=1
+Schl.tryBallGrab(): d=9.955769455183527
+Schl.towards(): th=6.1272316087298675 a=1.1329642194676688 diff=4.994267389262198 isClock=false phi=10.0
+-------------
+Schl.facing(): th=6.149798288336733 a1=2.985636795422657 a2=3.248684451012132 isB=false
+Roger.triesKick(): p=1 p.tryK=false
+-------------
+Schli.move(): t=0 off=[num=0 x=68.51155283406395 y=8.670677077332307 theta=0.0011259342297709196 v=2.0 phi=10.0 hasBall=false] def=[num=1 x=35.49921892708575 y=17.651762012920734 theta=2.5132741228718345 v=0.0 phi=-10.0 hasBall=false] isHeld=true heldby=1
+Schl.tryBallGrab(): d=9.902001063389404
+Schl.towards(): th=0.0011259342297709196 a=1.1523662553690817 diff=1.1512403211393107 isClock=false phi=10.0
+-------------
+Schl.facing(): th=5.992718655657243 a1=2.9859280758134843 a2=3.2455895066748486 isB=false
+Roger.triesKick(): p=1 p.tryK=false
+-------------
+Schli.move(): t=0 off=[num=0 x=68.71155270729118 y=8.670902264130682 theta=0.15820556690926058 v=2.0 phi=10.0 hasBall=false] def=[num=1 x=35.49921892708575 y=17.651762012920734 theta=2.356194490192345 v=0.0 phi=-10.0 hasBall=false] isHeld=true heldby=1
+Schl.tryBallGrab(): d=9.82222852392092
+Schl.towards(): th=0.15820556690926058 a=1.1709633086956406 diff=1.01275774178638 isClock=false phi=10.0
+-------------
+Schl.facing(): th=5.8356390229777535 a1=2.984215304434162 a2=3.240654682949524 isB=false
+Roger.triesKick(): p=1 p.tryK=false
+-------------
+Schli.move(): t=0 off=[num=0 x=68.90905502322187 y=8.702411551682307 theta=0.31528519958875023 v=2.0 phi=10.0 hasBall=false] def=[num=1 x=35.49921892708575 y=17.651762012920734 theta=2.199114857512855 v=0.0 phi=-10.0 hasBall=false] isHeld=true heldby=1
+Schl.tryBallGrab(): d=9.717804968324925
+Schl.towards(): th=0.31528519958875023 a=1.1884227753040686 diff=0.8731375757153184 isClock=false phi=10.0
+-------------
+Schl.facing(): th=5.8356390229777535 a1=2.9806129637323977 a2=3.2340527569449233 isB=false
+Roger.triesKick(): p=1 p.tryK=false
+-------------
+Schli.move(): t=0 off=[num=0 x=69.09919661936522 y=8.764429076754332 theta=0.4723648322682399 v=2.0 phi=10.0 hasBall=false] def=[num=1 x=35.49921892708575 y=17.651762012920734 theta=2.0420352248333655 v=0.0 phi=-10.0 hasBall=false] isHeld=true heldby=1
+Schl.tryBallGrab(): d=9.5905447257833
+Schl.towards(): th=0.4723648322682399 a=1.2044047869746497 diff=0.7320399547064098 isClock=false phi=10.0
+-------------
+Schl.facing(): th=5.8356390229777535 a1=2.9770965956920477 a2=3.2275931156988285 isB=false
+Roger.triesKick(): p=1 p.tryK=false
+-------------
+Schli.move(): t=0 off=[num=0 x=69.2772955785804 y=8.85542776205512 theta=0.6294444649477295 v=2.0 phi=10.0 hasBall=false] def=[num=1 x=35.49921892708575 y=17.651762012920734 theta=1.8849555921538759 v=0.0 phi=-10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=17.50859993927914
+Schl.towards(): th=0.6294444649477295 a=0.23785458410874527 diff=0.39158988083898427 isClock=true phi=-10.0
+-------------
+Schl.tryBallGrab(): d=6.987999999999999
+Roger.towards(): th=4.472588521999702 a=5.771261173677026 diff=1.2986726516773235 isClock=false phi=10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=69.43896651341495 y=8.97316691794524 theta=0.4723648322682399 v=2.0 phi=-10.0 hasBall=false] def=[num=1 x=35.49921892708575 y=17.651762012920734 theta=1.7278759594743862 v=0.0 phi=-10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=18.053247077712616
+Schl.towards(): th=0.4723648322682399 a=0.19677268486053334 diff=0.27559214740770654 isClock=true phi=-10.0
+-------------
+Schl.tryBallGrab(): d=7.7552696191648725
+Roger.towards(): th=4.629668154679192 a=5.895782433773488 diff=1.266114279094296 isClock=false phi=10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=69.61706547263013 y=9.064165603246028 theta=0.31528519958875023 v=2.0 phi=-10.0 hasBall=false] def=[num=1 x=35.49921892708575 y=17.651762012920734 theta=1.5707963267948966 v=0.0 phi=-10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=18.605171449382517
+Schl.towards(): th=0.31528519958875023 a=0.16011671567912864 diff=0.1551684839096216 isClock=true phi=-10.0
+-------------
+Schl.tryBallGrab(): d=8.45307969983794
+Roger.towards(): th=4.7867477873586814 a=5.994630895899742 diff=1.2078831085410604 isClock=false phi=10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=69.80720706877348 y=9.126183128318054 theta=0.15820556690926058 v=2.0 phi=-10.0 hasBall=false] def=[num=1 x=35.49921892708575 y=17.651762012920734 theta=1.413716694115407 v=0.0 phi=-10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=19.1627142241105
+Schl.towards(): th=0.15820556690926058 a=0.1275681041428013 diff=0.03063746276645929 isClock=true phi=0.0
+-------------
+Schl.tryBallGrab(): d=9.055417192161917
+Roger.towards(): th=4.943827420038171 a=6.074666528702807 diff=1.1308391086646363 isClock=false phi=10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=70.79471864842697 y=9.283729566076182 theta=0.15820556690926058 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=35.49921892708575 y=17.651762012920734 theta=1.2566370614359172 v=0.0 phi=-10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=18.92668710401247
+Schl.towards(): th=0.15820556690926058 a=0.09630484842146582 diff=0.061900718487794756 isClock=true phi=0.0
+-------------
+Schl.tryBallGrab(): d=9.546991039646514
+Roger.towards(): th=5.100907052717661 a=6.140066132381025 diff=1.0391590796633645 isClock=false phi=10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=71.78223022808045 y=9.44127600383431 theta=0.15820556690926058 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=35.49921892708575 y=17.651762012920734 theta=1.0995574287564276 v=0.0 phi=-10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=18.69955354094434
+Schl.towards(): th=0.15820556690926058 a=0.06463386385856305 diff=0.09357170305069752 isClock=true phi=0.0
+-------------
+Schl.tryBallGrab(): d=9.919677783758429
+Roger.towards(): th=5.25798668539715 a=6.193261623678539 diff=0.9352749382813883 isClock=false phi=10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=72.76974180773394 y=9.59882244159244 theta=0.15820556690926058 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=35.49921892708575 y=17.651762012920734 theta=0.9424777960769379 v=0.0 phi=-10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=18.481360433899827
+Schl.towards(): th=0.15820556690926058 a=0.032553617237158806 diff=0.12565194967210178 isClock=true phi=-10.0
+-------------
+Schl.tryBallGrab(): d=10.170797313212692
+Roger.towards(): th=5.41506631807664 a=6.235510932498075 diff=0.8204446144214348 isClock=false phi=10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=72.96724412366463 y=9.630331729144064 theta=0.0011259342297709196 v=2.0 phi=-10.0 hasBall=false] def=[num=1 x=35.49921892708575 y=17.651762012920734 theta=0.7853981633974483 v=0.0 phi=-10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=19.062601039849003
+Schl.towards(): th=0.0011259342297709196 a=0.006672282175329846 diff=0.005546347945558926 isClock=false phi=0.0
+-------------
+Schl.tryBallGrab(): d=10.302400554751582
+Roger.towards(): th=5.57214595075613 a=6.267225478858512 diff=0.695079528102382 isClock=false phi=10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=73.96724348980075 y=9.631457663135938 theta=0.0011259342297709196 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=35.49921892708575 y=17.651762012920734 theta=0.6283185307179586 v=0.0 phi=-10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=18.842391026605497
+Schl.towards(): th=0.0011259342297709196 a=6.266685217381803 diff=6.265559283152032 isClock=true phi=-10.0
+-------------
+Schl.tryBallGrab(): d=10.321180554705942
+Roger.towards(): th=5.729225583435619 a=0.004965813866584664 diff=5.724259769569035 isClock=false phi=10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=74.16724336302798 y=9.631682849934313 theta=6.1272316087298675 v=2.0 phi=-10.0 hasBall=false] def=[num=1 x=35.49921892708575 y=17.651762012920734 theta=0.47123889803846897 v=0.0 phi=-10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=19.4211999698645
+Schl.towards(): th=6.1272316087298675 a=6.244960792909214 diff=0.11772918417934619 isClock=false phi=10.0
+-------------
+Schl.tryBallGrab(): d=10.238836696629162
+Roger.towards(): th=5.886305216115109 a=0.014283240068184728 diff=5.872021976046924 isClock=false phi=10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=74.36481613291136 y=9.600618391133109 theta=0.0011259342297709196 v=2.0 phi=10.0 hasBall=false] def=[num=1 x=35.49921892708575 y=17.651762012920734 theta=0.3141592653589793 v=0.0 phi=-10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=19.998475018016084
+Schl.towards(): th=0.0011259342297709196 a=6.226334586664464 diff=6.225208652434693 isClock=true phi=-10.0
+-------------
+Schl.tryBallGrab(): d=10.072820920375966
+Roger.towards(): th=6.043384848794599 a=0.010681117486877358 diff=6.032703731307722 isClock=false phi=10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=74.56481600613859 y=9.600843577931483 theta=6.1272316087298675 v=2.0 phi=-10.0 hasBall=false] def=[num=1 x=35.49921892708575 y=17.651762012920734 theta=0.15707963267948966 v=0.0 phi=-10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=20.571350969434132
+Schl.towards(): th=6.1272316087298675 a=6.207480793261157 diff=0.08024918453128915 isClock=false phi=0.0
+-------------
+Schl.tryBallGrab(): d=9.847404520738264
+Roger.towards(): th=6.200464481474088 a=6.275648156122562 diff=0.07518367464847397 isClock=false phi=0.0
+-------------
+Schli.move(): t=0 off=[num=0 x=75.55267985555545 y=9.445521283925464 theta=6.1272316087298675 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=35.49921892708575 y=17.651762012920734 theta=0.0 v=0.0 phi=-10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=20.341411676779444
+Schl.towards(): th=6.1272316087298675 a=6.193890338278004 diff=0.0666587295481369 isClock=false phi=0.0
+-------------
+Schl.tryBallGrab(): d=9.59489913255101
+Roger.towards(): th=0.07435880697399178 a=6.240959466171789 diff=6.1666006591977975 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=76.54054370497232 y=9.290198989919444 theta=6.1272316087298675 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=35.49921892708575 y=17.651762012920734 theta=6.126105674500097 v=0.0 phi=-10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=20.104303989721746
+Schl.towards(): th=6.1272316087298675 a=6.180228982981255 diff=0.05299737425138762 isClock=false phi=0.0
+-------------
+Schl.tryBallGrab(): d=9.356577691352049
+Roger.towards(): th=0.23143843965348143 a=6.188255735056211 diff=5.95681729540273 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=77.52840755438919 y=9.134876695913425 theta=6.1272316087298675 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=35.49921892708575 y=17.651762012920734 theta=5.969026041820607 v=0.0 phi=-10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=19.859962050749697
+Schl.towards(): th=6.1272316087298675 a=6.166476727725951 diff=0.039245118996083406 isClock=false phi=0.0
+-------------
+Schl.tryBallGrab(): d=9.182327367215057
+Roger.towards(): th=0.3885180723329711 a=6.117111721685549 diff=5.728593649352578 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=78.51627140380606 y=8.979554401907405 theta=6.1272316087298675 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=36.4502754433809 y=17.342745018545788 theta=5.969026041820607 v=10.0 phi=0.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=19.608330792580453
+Schl.towards(): th=6.1272316087298675 a=6.152612241643367 diff=0.025380632913499568 isClock=false phi=0.0
+-------------
+Schl.tryBallGrab(): d=9.127538934977022
+Roger.towards(): th=0.5455977050124607 a=6.029296643576729 diff=5.4836989385642685 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=79.50413525322293 y=8.824232107901386 theta=6.1272316087298675 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=37.40133195967606 y=17.03372802417084 theta=5.969026041820607 v=10.0 phi=0.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=19.349366412936483
+Schl.towards(): th=6.1272316087298675 a=6.138612708498914 diff=0.011381099769046443 isClock=false phi=0.0
+-------------
+Schl.tryBallGrab(): d=9.246008040321794
+Roger.towards(): th=0.7026773376919504 a=5.929615982825417 diff=5.226938645133466 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=80.4919991026398 y=8.668909813895366 theta=6.1272316087298675 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=38.35238847597121 y=16.724711029795895 theta=5.969026041820607 v=10.0 phi=0.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=19.08303694956537
+Schl.towards(): th=6.1272316087298675 a=6.124453651955602 diff=0.002777956774265178 isClock=true phi=0.0
+-------------
+Schl.tryBallGrab(): d=9.579779453940677
+Roger.towards(): th=0.85975697037144 a=5.8256533097529895 diff=4.965896339381549 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=81.47986295205666 y=8.513587519889347 theta=6.1272316087298675 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=39.303444992266364 y=16.415694035420948 theta=5.969026041820607 v=10.0 phi=0.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=17.484905709434752
+Schl.towards(): th=6.1272316087298675 a=6.096850578106836 diff=0.030381030623031435 isClock=true phi=0.0
+-------------
+Schl.tryBallGrab(): d=9.035838679499763
+Roger.towards(): th=1.0168366030509297 a=5.647123249260611 diff=4.630286646209681 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=82.46772680147353 y=8.358265225883327 theta=6.1272316087298675 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=39.303444992266364 y=16.415694035420948 theta=6.126105674500097 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=15.91170100886249
+Schl.towards(): th=6.1272316087298675 a=6.064229237109437 diff=0.06300237162043043 isClock=true phi=0.0
+-------------
+Schl.tryBallGrab(): d=8.966647974784903
+Roger.towards(): th=1.1739162357304194 a=5.457546356445097 diff=4.283630120714678 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=83.4555906508904 y=8.202942931877308 theta=6.1272316087298675 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=40.2911333328615 y=16.259259570380717 theta=6.126105674500097 v=10.0 phi=0.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=14.367740020068679
+Schl.towards(): th=6.1272316087298675 a=6.0250850691735955 diff=0.10214653955627195 isClock=true phi=-10.0
+-------------
+Schl.tryBallGrab(): d=9.353907286865688
+Roger.towards(): th=1.330995868409909 a=5.281608450798592 diff=3.9506125823886826 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=83.65316342077378 y=8.171878473076104 theta=5.970151976050378 v=2.0 phi=-10.0 hasBall=false] def=[num=1 x=40.2911333328615 y=16.259259570380717 theta=6.283185307179586 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=13.650812989113184
+Schl.towards(): th=5.970151976050378 a=5.986047280386306 diff=0.01589530433592845 isClock=false phi=0.0
+-------------
+Schl.tryBallGrab(): d=10.10773580135226
+Roger.towards(): th=1.4880755010893987 a=5.136817208811875 diff=3.6487417077224764 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=84.6045672669666 y=7.863932501435757 theta=5.970151976050378 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=40.2911333328615 y=16.259259570380717 theta=0.15707963267948966 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=12.161865943830307
+Schl.towards(): th=5.970151976050378 a=5.944263499935593 diff=0.025888476114785064 isClock=true phi=0.0
+-------------
+Schl.tryBallGrab(): d=11.110879897042272
+Roger.towards(): th=1.6451551337688883 a=5.027977606416678 diff=3.3828224726477893 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=85.55597111315942 y=7.55598652979541 theta=5.970151976050378 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=41.27882167345663 y=16.415694035420948 theta=0.15707963267948966 v=10.0 phi=0.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=10.707462351500004
+Schl.towards(): th=5.970151976050378 a=5.891827938069044 diff=0.07832403798133392 isClock=true phi=0.0
+-------------
+Schl.tryBallGrab(): d=12.256704389261117
+Roger.towards(): th=1.802234766448378 a=4.951437144347759 diff=3.149202377899381 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=86.50737495935223 y=7.248040558155063 theta=5.970151976050378 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=42.26651001405177 y=16.57212850046118 theta=0.15707963267948966 v=10.0 phi=0.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=9.29843391286648
+Schl.towards(): th=5.970151976050378 a=5.824238476823225 diff=0.14591349922715313 isClock=true phi=-10.0
+-------------
+Schl.tryBallGrab(): d=13.462597949710949
+Roger.towards(): th=1.9593143991278676 a=4.9007781866351765 diff=2.941463787507309 isClock=false phi=10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=86.6976557285908 y=7.186451363826993 theta=5.813072343370888 v=2.0 phi=-10.0 hasBall=false] def=[num=1 x=42.26651001405177 y=16.57212850046118 theta=0.3141592653589793 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=8.732554220320372
+Schl.towards(): th=5.813072343370888 a=5.755827217724751 diff=0.05724512564613704 isClock=true phi=0.0
+-------------
+Schl.tryBallGrab(): d=14.668380278798713
+Roger.towards(): th=2.1163940318073573 a=4.869855787539641 diff=2.7534617557322836 isClock=false phi=10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=87.58917285133796 y=6.733464366388191 theta=5.813072343370888 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=42.26651001405177 y=16.57212850046118 theta=0.47123889803846897 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=7.419220498354614
+Schl.towards(): th=5.813072343370888 a=5.669463755415987 diff=0.14360858795490117 isClock=true phi=-10.0
+-------------
+Schl.tryBallGrab(): d=15.830687654728756
+Roger.towards(): th=2.273473664486847 a=4.853714445820806 diff=2.580240781333959 isClock=false phi=10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=87.76747627588739 y=6.64286696690043 theta=5.6559927106913985 v=2.0 phi=-10.0 hasBall=false] def=[num=1 x=42.26651001405177 y=16.57212850046118 theta=0.6283185307179586 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=6.963731963542505
+Schl.towards(): th=5.6559927106913985 a=5.579172009927941 diff=0.0768207007634576 isClock=true phi=0.0
+-------------
+Schl.tryBallGrab(): d=16.917928711987642
+Roger.towards(): th=2.4305532971663366 a=4.8485961606301515 diff=2.418042863463815 isClock=false phi=10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=88.57715456485117 y=6.055992986917767 theta=5.6559927106913985 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=42.26651001405177 y=16.57212850046118 theta=0.7853981633974483 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=5.781237201693615
+Schl.towards(): th=5.6559927106913985 a=5.459862269072865 diff=0.19613044161853388 isClock=true phi=-10.0
+-------------
+Schl.tryBallGrab(): d=17.906719729106623
+Roger.towards(): th=2.5876329298458263 a=4.851697217446723 diff=2.264064287600897 isClock=false phi=10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=88.73909022264392 y=5.938618190921234 theta=5.498913078011909 v=2.0 phi=-10.0 hasBall=false] def=[num=1 x=42.973616795238314 y=17.279235281647725 theta=0.7853981633974483 v=10.0 phi=0.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=5.4757892030983575
+Schl.towards(): th=5.498913078011909 a=5.338798351073098 diff=0.16011472693881057 isClock=true phi=-10.0
+-------------
+Schl.tryBallGrab(): d=18.779565471600467
+Roger.towards(): th=2.744712562525316 a=4.860913730960362 diff=2.1162011684350457 isClock=false phi=10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=88.8806707203515 y=5.797356155437979 theta=5.341833445332419 v=2.0 phi=-10.0 hasBall=false] def=[num=1 x=42.973616795238314 y=17.279235281647725 theta=0.9424777960769379 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=5.247742766865994
+Schl.towards(): th=5.341833445332419 a=5.213507514570164 diff=0.12832593076225507 isClock=true phi=-10.0
+-------------
+Schl.tryBallGrab(): d=19.52339316565325
+Roger.towards(): th=2.9017921952048056 a=4.8746376764153885 diff=1.972845481210583 isClock=false phi=10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=88.99840987624162 y=5.635685220603415 theta=5.18475381265293 v=2.0 phi=-10.0 hasBall=false] def=[num=1 x=42.973616795238314 y=17.279235281647725 theta=1.0995574287564276 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=5.096584388759031
+Schl.towards(): th=5.18475381265293 a=5.087292519102497 diff=0.09746129355043287 isClock=true phi=0.0
+-------------
+Schl.tryBallGrab(): d=20.12863310820407
+Roger.towards(): th=3.0588718278842952 a=4.891606307864234 diff=1.8327344799799388 isClock=false phi=10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=89.45340330274556 y=4.745190424527543 theta=5.18475381265293 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=42.973616795238314 y=17.279235281647725 theta=1.2566370614359172 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=3.66462133982263
+Schl.towards(): th=5.18475381265293 a=4.956219456078129 diff=0.2285343565748006 isClock=true phi=-10.0
+-------------
+Schl.tryBallGrab(): d=20.00884687907268
+Roger.towards(): th=3.215951460563785 a=4.916622675779113 diff=1.700671215215328 isClock=false phi=10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=89.54440198804635 y=4.567091465312369 theta=5.02767417997344 v=2.0 phi=-10.0 hasBall=false] def=[num=1 x=42.973616795238314 y=17.279235281647725 theta=1.413716694115407 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=3.1005826703696093
+Schl.towards(): th=5.02767417997344 a=4.802044535855209 diff=0.22562964411823128 isClock=true phi=-10.0
+-------------
+Schl.tryBallGrab(): d=19.757232792587416
+Roger.towards(): th=3.3730310932432745 a=4.9442116473583795 diff=1.571180554115105 isClock=false phi=10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=89.60641951311837 y=4.376949869169019 theta=4.87059454729395 v=2.0 phi=-10.0 hasBall=false] def=[num=1 x=42.973616795238314 y=17.279235281647725 theta=1.5707963267948966 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=2.6299154469759602
+Schl.towards(): th=4.87059454729395 a=4.601874910918555 diff=0.268719636375395 isClock=true phi=-10.0
+-------------
+Schl.tryBallGrab(): d=19.373408169032427
+Roger.towards(): th=3.530110725922764 a=4.973800665853145 diff=1.4436899399303806 isClock=false phi=10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=89.63792880067 y=4.1794475532383215 theta=4.713514914614461 v=2.0 phi=-10.0 hasBall=false] def=[num=1 x=42.973616795238314 y=17.279235281647725 theta=1.7278759594743862 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=2.7001952335601587
+Schl.towards(): th=4.713514914614461 a=4.38344685072522 diff=0.33006806388924037 isClock=true phi=-10.0
+-------------
+Schl.tryBallGrab(): d=19.24331528920881
+Roger.towards(): th=3.687190358602254 a=4.995835512692905 diff=1.3086451540906507 isClock=false phi=10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=89.63815398746837 y=3.979447680011097 theta=4.556435281934971 v=2.0 phi=-10.0 hasBall=false] def=[num=1 x=42.973616795238314 y=17.279235281647725 theta=1.8849555921538759 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=2.86362266239233
+Schl.towards(): th=4.556435281934971 a=4.19692790135125 diff=0.3595073805837208 isClock=true phi=-10.0
+-------------
+Schl.tryBallGrab(): d=18.968514090180648
+Roger.towards(): th=3.8442699912817435 a=5.017462369830664 diff=1.1731923785489204 isClock=false phi=10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=89.60708952866716 y=3.781874910127724 theta=4.399355649255481 v=2.0 phi=-10.0 hasBall=false] def=[num=1 x=42.973616795238314 y=17.279235281647725 theta=2.0420352248333655 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=3.0872903282874202
+Schl.towards(): th=4.399355649255481 a=4.046184842385748 diff=0.35317080686973323 isClock=true phi=-10.0
+-------------
+Schl.tryBallGrab(): d=18.553776365881408
+Roger.towards(): th=4.001349623961233 a=5.037885410723379 diff=1.0365357867621459 isClock=false phi=10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=89.5455003343391 y=3.591594140889161 theta=4.242276016575992 v=2.0 phi=-10.0 hasBall=false] def=[num=1 x=42.973616795238314 y=17.279235281647725 theta=2.199114857512855 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=3.3441159304235595
+Schl.towards(): th=4.242276016575992 a=3.9280306636395825 diff=0.3142453529364091 isClock=true phi=-10.0
+-------------
+Schl.tryBallGrab(): d=18.00605690186723
+Roger.towards(): th=4.158429256640723 a=5.056228598594988 diff=0.8977993419542649 isClock=false phi=10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=89.45490293485133 y=3.4132907163397284 theta=4.085196383896502 v=2.0 phi=-10.0 hasBall=false] def=[num=1 x=42.973616795238314 y=17.279235281647725 theta=2.356194490192345 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=3.6151369167864478
+Schl.towards(): th=4.085196383896502 a=3.8369611235607715 diff=0.2482352603357305 isClock=true phi=-10.0
+-------------
+Schl.tryBallGrab(): d=17.334632008950567
+Roger.towards(): th=4.3155088893202125 a=5.071480567039702 diff=0.7559716777194891 isClock=false phi=10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=89.3375281388548 y=3.251355058546973 theta=3.9281167512170123 v=2.0 phi=-10.0 hasBall=false] def=[num=1 x=42.973616795238314 y=17.279235281647725 theta=2.5132741228718345 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=3.8884563617016346
+Schl.towards(): th=3.9281167512170123 a=3.7676738563510836 diff=0.16044289486592866 isClock=true phi=-10.0
+-------------
+Schl.tryBallGrab(): d=16.55135984202642
+Roger.towards(): th=4.472588521999702 a=5.082426441798232 diff=0.6098379197985295 isClock=false phi=10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=89.19626610337154 y=3.109774560839388 theta=3.7710371185375227 v=2.0 phi=-10.0 hasBall=false] def=[num=1 x=42.973616795238314 y=17.279235281647725 theta=2.670353755551324 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=4.030691869810199
+Schl.towards(): th=3.7710371185375227 a=3.6652428963672885 diff=0.10579422217023415 isClock=true phi=-10.0
+-------------
+Schl.tryBallGrab(): d=15.445407418148395
+Roger.towards(): th=4.629668154679192 a=5.0933226276929755 diff=0.4636544730137837 isClock=false phi=10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=89.03459516853698 y=2.992035404949267 theta=2.6692278213215532 v=2.0 phi=-10.0 hasBall=false] def=[num=1 x=42.973616795238314 y=17.279235281647725 theta=2.827433388230814 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=4.194289055981362
+Schl.towards(): th=2.6692278213215532 a=3.579691868021427 diff=0.9104640466998739 isClock=false phi=10.0
+-------------
+Schl.tryBallGrab(): d=14.266626459262811
+Roger.towards(): th=4.7867477873586814 a=5.097222578229503 diff=0.3104747908708214 isClock=false phi=10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=88.8564962093218 y=3.0830340902500537 theta=2.826307454001043 v=2.0 phi=10.0 hasBall=false] def=[num=1 x=42.973616795238314 y=17.279235281647725 theta=2.9845130209103035 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=4.439245791761094
+Schl.towards(): th=2.826307454001043 a=3.5479650142734602 diff=0.7216575602724173 isClock=false phi=10.0
+-------------
+Schl.tryBallGrab(): d=13.035755542592012
+Roger.towards(): th=4.943827420038171 a=5.0914479236199846 diff=0.14762050358181344 isClock=false phi=10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=88.66635461317846 y=3.145051615322079 theta=2.9833870866805325 v=2.0 phi=10.0 hasBall=false] def=[num=1 x=42.973616795238314 y=17.279235281647725 theta=3.141592653589793 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=4.656609900566416
+Schl.towards(): th=2.9833870866805325 a=3.516260141073424 diff=0.5328730543928915 isClock=false phi=10.0
+-------------
+Schl.tryBallGrab(): d=11.779130544709421
+Roger.towards(): th=5.100907052717661 a=5.072295528773324 diff=0.028611523944336525 isClock=true phi=0.0
+-------------
+Schli.move(): t=0 off=[num=0 x=88.46885229724776 y=3.176560902873705 theta=3.140466719360022 v=2.0 phi=10.0 hasBall=false] def=[num=1 x=42.973616795238314 y=17.279235281647725 theta=3.2986722862692828 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=4.8510578645572195
+Schl.towards(): th=3.140466719360022 a=3.4833895614246426 diff=0.3429228420646204 isClock=false phi=10.0
+-------------
+Schl.tryBallGrab(): d=10.531379430461731
+Roger.towards(): th=5.25798668539715 a=5.034635475750818 diff=0.22335120964633237 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=88.26885242402054 y=3.17678608967208 theta=3.297546352039512 v=2.0 phi=10.0 hasBall=false] def=[num=1 x=42.973616795238314 y=17.279235281647725 theta=3.4557519189487724 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=5.028251717002733
+Schl.towards(): th=3.297546352039512 a=3.448577666718644 diff=0.15103131467913222 isClock=false phi=10.0
+-------------
+Schl.tryBallGrab(): d=9.339665840511481
+Roger.towards(): th=5.41506631807664 a=4.971564861106217 diff=0.44350145697042276 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=88.07127965413716 y=3.145721630870876 theta=3.4546259847190015 v=2.0 phi=10.0 hasBall=false] def=[num=1 x=42.973616795238314 y=17.279235281647725 theta=3.612831551628262 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=5.194629593888846
+Schl.towards(): th=3.4546259847190015 a=3.4113991049203873 diff=0.04322687979861417 isClock=true phi=0.0
+-------------
+Schl.tryBallGrab(): d=8.269494168380932
+Roger.towards(): th=5.57214595075613 a=4.874688002876471 diff=0.6974579478796583 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=87.11987580794434 y=2.8377756592305294 theta=2.8285593224605847 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=42.973616795238314 y=17.279235281647725 theta=3.7699111843077517 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=4.560379257558182
+Schl.towards(): th=2.8285593224605847 a=3.357231897880152 diff=0.5286725754195674 isClock=false phi=10.0
+-------------
+Schl.tryBallGrab(): d=7.4095000582489865
+Roger.towards(): th=5.729225583435619 a=4.736562932777627 diff=0.9926626506579925 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=86.92959503870577 y=2.8993648535585987 theta=2.9856389551400744 v=2.0 phi=10.0 hasBall=false] def=[num=1 x=42.973616795238314 y=17.279235281647725 theta=3.9269908169872414 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=4.746213595818345
+Schl.towards(): th=2.9856389551400744 a=3.340846725411639 diff=0.3552077702715648 isClock=false phi=10.0
+-------------
+Schl.tryBallGrab(): d=6.865544956624468
+Roger.towards(): th=5.886305216115109 a=4.557496110897838 diff=1.328809105217271 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=86.73202226882239 y=2.9304293123598026 theta=2.287389761249731 v=2.0 phi=10.0 hasBall=false] def=[num=1 x=42.973616795238314 y=17.279235281647725 theta=4.084070449666731 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=4.909625663973523
+Schl.towards(): th=2.287389761249731 a=3.3208817450050634 diff=1.0334919837553325 isClock=false phi=10.0
+-------------
+Schl.tryBallGrab(): d=6.728403918245055
+Roger.towards(): th=1.0951292849548206 a=4.35438943451679 diff=3.2592601495619693 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=86.60065831373078 y=3.081238832293686 theta=2.4444693939292206 v=2.0 phi=10.0 hasBall=false] def=[num=1 x=42.973616795238314 y=17.279235281647725 theta=4.241150082346221 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=5.149586434946254
+Schl.towards(): th=2.4444693939292206 a=3.3240339162413486 diff=0.879564522312128 isClock=false phi=10.0
+-------------
+Schl.tryBallGrab(): d=7.778535205955859
+Roger.towards(): th=0.938049652275331 a=4.291212677046534 diff=3.353163024771203 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=86.4473198603385 y=3.209641786742807 theta=2.6015490266087102 v=2.0 phi=10.0 hasBall=false] def=[num=1 x=42.973616795238314 y=17.279235281647725 theta=4.39822971502571 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=5.3529883538329015
+Schl.towards(): th=2.6015490266087102 a=3.324487499869594 diff=0.7229384732608839 isClock=false phi=10.0
+-------------
+Schl.tryBallGrab(): d=8.837505256676609
+Roger.towards(): th=0.7809700195958413 a=4.226839138254493 diff=3.445869118658652 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=86.27578261026922 y=3.3124764688236543 theta=2.7586286592882 v=2.0 phi=10.0 hasBall=false] def=[num=1 x=42.973616795238314 y=17.279235281647725 theta=4.5553093477052 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=5.522957791377697
+Schl.towards(): th=2.7586286592882 a=3.321863676183774 diff=0.563235016895574 isClock=false phi=10.0
+-------------
+Schl.tryBallGrab(): d=9.895458764069645
+Roger.towards(): th=0.6238903869163517 a=4.161949515025612 diff=3.5380591281092606 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=86.09027037991913 y=3.3872107473746547 theta=2.9157082919676895 v=2.0 phi=10.0 hasBall=false] def=[num=1 x=42.973616795238314 y=17.279235281647725 theta=4.71238898038469 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=5.663342583449337
+Schl.towards(): th=2.9157082919676895 a=3.315823314917431 diff=0.40011502294974166 isClock=false phi=10.0
+-------------
+Schl.tryBallGrab(): d=10.942478840580362
+Roger.towards(): th=0.466810754236862 a=4.096958578958376 diff=3.630147824721514 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=85.89535109607927 y=3.432004416429032 theta=3.072787924647179 v=2.0 phi=10.0 hasBall=false] def=[num=1 x=42.973616795238314 y=17.279235281647725 theta=4.869468613064179 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=5.778698175213581
+Schl.towards(): th=3.072787924647179 a=3.306079293203008 diff=0.23329136855582888 isClock=false phi=10.0
+-------------
+Schl.tryBallGrab(): d=11.96866294305742
+Roger.towards(): th=0.30973112155737237 a=4.032129137551022 diff=3.72239801599365 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=85.69582431841776 y=3.4457545071930036 theta=3.229867557326669 v=2.0 phi=10.0 hasBall=false] def=[num=1 x=42.973616795238314 y=17.279235281647725 theta=5.026548245743669 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=5.874245481943097
+Schl.towards(): th=3.229867557326669 a=3.292417588900184 diff=0.06255003157351524 isClock=false phi=0.0
+-------------
+Schl.tryBallGrab(): d=12.964210406103382
+Roger.towards(): th=0.1526514888778827 a=3.9676344639763497 diff=3.814982975098467 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=84.69971801828926 y=3.3575942052181085 theta=3.229867557326669 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=42.973616795238314 y=17.279235281647725 theta=5.183627878423159 v=0.0 phi=10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=5.156719087194226
+Schl.towards(): th=3.229867557326669 a=3.281682608751302 diff=0.05181505142463294 isClock=false phi=0.0
+-------------
+Schl.tryBallGrab(): d=13.919514067019856
+Roger.towards(): th=6.278757163377979 a=3.903594289185434 diff=2.3751628741925455 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=83.70361171816076 y=3.2694339032432134 theta=3.229867557326669 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=42.973616795238314 y=17.279235281647725 theta=5.026548245743669 v=0.0 phi=-10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=4.428807216972782
+Schl.towards(): th=3.229867557326669 a=3.268467577458931 diff=0.03860002013226227 isClock=false phi=0.0
+-------------
+Schl.tryBallGrab(): d=14.825252298783234
+Roger.towards(): th=6.12167753069849 a=3.840096501082208 diff=2.2815810296162815 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=82.70750541803226 y=3.1812736012683183 theta=3.229867557326669 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=42.973616795238314 y=17.279235281647725 theta=4.869468613064179 v=0.0 phi=-10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=3.6907267754102975
+Schl.towards(): th=3.229867557326669 a=3.2511915664070408 diff=0.02132400908037191 isClock=false phi=0.0
+-------------
+Schl.tryBallGrab(): d=15.672479467975537
+Roger.towards(): th=5.964597898019 a=3.7772107964542623 diff=2.1873871015647377 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=81.71139911790375 y=3.093113299293423 theta=3.229867557326669 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=42.973616795238314 y=17.279235281647725 theta=4.71238898038469 v=0.0 phi=-10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=2.9429521448818603
+Schl.towards(): th=3.229867557326669 a=3.2266166335991664 diff=0.003250923727502464 isClock=true phi=0.0
+-------------
+Schl.tryBallGrab(): d=16.452713645102552
+Roger.towards(): th=5.80751826533951 a=3.714997669736196 diff=2.092520595603314 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=80.71529281777525 y=3.004952997318528 theta=3.229867557326669 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=42.973616795238314 y=17.279235281647725 theta=4.5553093477052 v=0.0 phi=-10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=2.186671040665124
+Schl.towards(): th=3.229867557326669 a=3.186922582589382 diff=0.042944974737286756 isClock=true phi=0.0
+-------------
+Schl.tryBallGrab(): d=17.158020816500763
+Roger.towards(): th=5.650438632660021 a=3.6535146611711893 diff=1.9969239714888314 isClock=true phi=-10.0
+-------------
+Schli.move(): t=0 off=[num=0 x=79.71918651764675 y=2.916792695343633 theta=3.0533177498529174 v=10.0 phi=0.0 hasBall=false] def=[num=1 x=42.973616795238314 y=17.279235281647725 theta=4.39822971502571 v=0.0 phi=-10.0 hasBall=false] isHeld=false heldby=-1
+Schl.tryBallGrab(): d=1.4257293416905845
+Schl.towards(): th=3.0533177498529174 a=3.10735297439939 diff=0.054035224546472804 isClock=false phi=0.0
+-------------
+Schl.tryBallGrab(): d=17.781095097430697
+Roger.towards(): th=5.493358999980531 a=3.5928210093843176 diff=1.9005379905962134 isClock=true phi=-10.0
+Schli.triesGrab(): p=0 p.tryG=true
+-------------
+Schli.move(): t=0 off=[num=0 x=78.72308021751824 y=3.004952997318528 theta=3.0533177498529174 v=10.0 phi=0.0 hasBall=true] def=[num=1 x=42.973616795238314 y=17.279235281647725 theta=4.241150082346221 v=0.0 phi=-10.0 hasBall=false] isHeld=true heldby=0
+Schli.tryShot(): shotAngle=0.673981361729205
+-------------
+Schl.tryBallGrab(): d=18.60587816842671
+Roger.towards(): th=5.336279367301041 a=3.522448140812768 diff=1.8138312264882734 isClock=true phi=-10.0
+Schli.triesKick(): p=0 p.tryK=false
+-------------
+Schli.move(): t=0 off=[num=0 x=78.52385895749255 y=3.022585057713507 theta=2.8962381171734277 v=2.0 phi=-10.0 hasBall=true] def=[num=1 x=42.973616795238314 y=17.279235281647725 theta=4.084070449666731 v=0.0 phi=-10.0 hasBall=false] isHeld=true heldby=0
+Schli.tryShot(): shotAngle=0.6689364130846943
+-------------
+Schl.tryBallGrab(): d=18.871504729670377
+Roger.towards(): th=5.179199734621552 a=3.470992755924298 diff=1.7082069786972536 isClock=true phi=-10.0
+Schli.triesKick(): p=0 p.tryK=false
+-------------
+Schli.move(): t=0 off=[num=0 x=78.32984870370194 y=3.0711651094230583 theta=2.739158484493938 v=2.0 phi=-10.0 hasBall=true] def=[num=1 x=42.973616795238314 y=17.279235281647725 theta=3.9269908169872414 v=0.0 phi=-10.0 hasBall=false] isHeld=true heldby=0
+Schli.tryShot(): shotAngle=0.6631751724653543
+-------------
+Schl.tryBallGrab(): d=19.034276364203407
+Roger.towards(): th=5.022120101942062 a=3.418927646546347 diff=1.6031924553957149 isClock=true phi=-10.0
+Schli.triesKick(): p=0 p.tryK=false
+-------------
+Schli.move(): t=0 off=[num=0 x=78.14582663247786 y=3.1494969503461445 theta=2.5820788518144484 v=2.0 phi=-10.0 hasBall=true] def=[num=1 x=42.973616795238314 y=17.279235281647725 theta=3.7699111843077517 v=0.0 phi=-10.0 hasBall=false] isHeld=true heldby=0
+Schli.tryShot(): shotAngle=0.6568330438026881
+-------------
+Schl.tryBallGrab(): d=19.092845118735415
+Roger.towards(): th=4.865040469262572 a=3.3665555495168604 diff=1.498484919745712 isClock=true phi=-10.0
+Schli.triesKick(): p=0 p.tryK=false
+-------------
+Schli.move(): t=0 off=[num=0 x=77.9763239779481 y=3.2556517905907643 theta=2.4249992191349588 v=2.0 phi=-10.0 hasBall=true] def=[num=1 x=42.164599800863364 y=16.691450029355252 theta=3.7699111843077517 v=10.0 phi=0.0 hasBall=false] isHeld=true heldby=0
+Schli.tryShot(): shotAngle=0.6500533140402676
+-------------
+Schl.tryBallGrab(): d=19.04672884040416
+Roger.towards(): th=4.707960836583083 a=3.3141663405083066 diff=1.3937944960747761 isClock=true phi=-10.0
+Schli.triesKick(): p=0 p.tryK=false
