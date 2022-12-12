@@ -7,7 +7,7 @@ public class DataGenerator {
     public void generateSample ()
     {
         double z = RandTool.uniform ();
-        if (z < 0.9) {
+        if (z < 0.4) {
             c = 0;                      // Generate from class 0.
             x = generate0 ();
         }

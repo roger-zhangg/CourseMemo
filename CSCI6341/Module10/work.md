@@ -1,3 +1,25 @@
+## Exercise 1
+
+- n! tours
+
+## Exercise 2
+
+$-\infin$
+
+## Exercise3
+
+$y=\begin{cases}1\ \ \ \ x<0\\-1\ x>0\end{cases}$
+
+## Exercise4
+
+$y=0$
+
+- It is continuous, not differentiable.
+
+## Exercise5
+
+x=0, x=1
+
 ## Exercise 6
 
 - O(MN)
@@ -8,15 +30,39 @@
 
 ![image-20221128160017973](work.assets/image-20221128160017973.png)
 
-### Exercise 8
+## Exercise 8
 
 M*N evaluations
 
 ## Exercise 9
 
+$M*N^2$ Evaluations, $M*N^n$ evaluations.
+
 ## Exercise 10
 
 Bracketing search: x1=4.691358024691359 x2=3.2098765432098757 numFuncEvals=138
+
+## Exercise 11:
+
+N=0 bestx=5.555555555555558 bestf=3.2149641975308683 prevBestf=3.2149641975308683
+
+## Exercise 12:
+
+c is a weighted average of a and b. So c must be in range [a,b].
+
+## Exercise 13:
+
+d-a=rb-ra = r(b-a)
+
+$\frac{d-a}{b-a} = r$
+
+## Exercise 14:
+
+fd could be 0.
+
+## Exercise 15:
+
+c=0.0 c=10.0 bestf=2.5841 numEvals=0
 
 ## Exercise 16:
 
@@ -93,3 +139,18 @@ X around 0.3 provides best performance
 
 ## Exercise 26:
 
+It can't find a low derivative, 1000 samples are used.
+
+## Exercise 27:
+
+$a_n=\frac{1}{n}$
+
+## Exercise 28:
+
+Yes, it works. 
+
+## Exercise 29:
+
+Gradient descent: x*=0.3070053072136658 f(x*)=1.2150337526719595
+
+Yest, it's about the value produced in exercise 28.
